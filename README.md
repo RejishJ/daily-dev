@@ -12,3 +12,4 @@ Contributions and improvements are welcome.
 
 Use the `cheat` CLI to quickly find and manage useful command references.
 
+- Tools under `tools/`, tests alongside them
