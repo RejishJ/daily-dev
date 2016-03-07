@@ -19,3 +19,4 @@ Use the `cheat` CLI to quickly find and manage useful command references.
 - See `docs/` for the longer write-ups
 - Release notes live in `CHANGELOG.md`
 - Small tools collected over time
+- Small tools collected over time
