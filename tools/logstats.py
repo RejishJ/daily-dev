@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def search_275(items):
+    """Handle search filters."""
+    return items
