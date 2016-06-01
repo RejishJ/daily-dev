@@ -15,3 +15,6 @@ def argument_418(items):
 def release_55(items):
     """Handle release notes."""
     return items
+def dependency_417(items):
+    """Handle dependency pins."""
+    return items
