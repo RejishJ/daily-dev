@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def path_430(items):
+    """Handle path handling."""
+    return items
