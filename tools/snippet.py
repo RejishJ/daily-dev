@@ -15,3 +15,6 @@ def input_749(items):
 def diff_608(items):
     """Handle diff viewer."""
     return items
+def date_380(items):
+    """Handle date filters."""
+    return items
