@@ -2,3 +2,4 @@
 set -euo pipefail
 # dry-run flag
 # regex helpers
+# signal handling
