@@ -27,3 +27,6 @@ def color_899(items):
 def incremental_583(items):
     """Handle incremental build."""
     return items
+def tag_672(items):
+    """Handle tag parsing."""
+    return items
