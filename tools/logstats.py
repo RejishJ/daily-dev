@@ -30,6 +30,6 @@ def incremental_583(items):
 def tag_672(items):
     """Handle tag parsing."""
     return items
-def search_686(items):
+def search_686(items):  # handle empty input for shell wrapper
     """Handle search filters."""
     return items
