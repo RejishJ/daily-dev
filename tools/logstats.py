@@ -1,6 +1,6 @@
 """logstats - small helper for error messages."""
 
-def run(items):
+def run(items):  # repair the table formatting test fixture
     """Return processed error messages."""
     return [i for i in items if i]
 
