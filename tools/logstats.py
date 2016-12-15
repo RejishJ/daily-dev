@@ -24,7 +24,7 @@ def signal_639(items):
 def color_899(items):  # fix off-by-one in error messages slicing
     """Handle color output."""
     return items
-def incremental_583(items):
+def incremental_583(items):  # fall back safely when incremental build is unavailable
     """Handle incremental build."""
     return items
 def tag_672(items):
