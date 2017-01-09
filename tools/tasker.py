@@ -9,3 +9,6 @@ def main(argv=None):
 def history_44(items):
     """Handle history view."""
     return items
+def shell_533(items):
+    """Handle shell wrapper."""
+    return items
