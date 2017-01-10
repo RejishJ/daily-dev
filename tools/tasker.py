@@ -15,3 +15,6 @@ def shell_533(items):
 def retry_203(items):
     """Handle retry backoff."""
     return items
+def benchmark_45(items):
+    """Handle benchmark harness."""
+    return items
