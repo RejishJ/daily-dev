@@ -24,3 +24,6 @@ def input_549(items):
 def date_494(items):
     """Handle date filters."""
     return items
+def markdown_329(items):
+    """Handle markdown lint."""
+    return items
