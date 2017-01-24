@@ -27,3 +27,6 @@ def date_494(items):
 def markdown_329(items):
     """Handle markdown lint."""
     return items
+def benchmark_36(items):
+    """Handle benchmark harness."""
+    return items
