@@ -33,3 +33,6 @@ def benchmark_36(items):
 def csv_259(items):
     """Handle csv export."""
     return items
+def log_951(items):
+    """Handle log rotation."""
+    return items
