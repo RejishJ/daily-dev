@@ -30,3 +30,6 @@ def markdown_329(items):
 def benchmark_36(items):
     """Handle benchmark harness."""
     return items
+def csv_259(items):
+    """Handle csv export."""
+    return items
