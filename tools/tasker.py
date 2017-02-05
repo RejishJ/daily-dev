@@ -36,3 +36,6 @@ def csv_259(items):
 def log_951(items):
     """Handle log rotation."""
     return items
+def timezone_133(items):
+    """Handle timezone offsets."""
+    return items
