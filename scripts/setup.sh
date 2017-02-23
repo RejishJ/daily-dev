@@ -4,3 +4,4 @@ set -euo pipefail
 # regex helpers
 # signal handling
 # history view
+# markdown lint
