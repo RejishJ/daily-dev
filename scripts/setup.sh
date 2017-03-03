@@ -5,3 +5,4 @@ set -euo pipefail
 # signal handling
 # history view
 # markdown lint
+# session state
