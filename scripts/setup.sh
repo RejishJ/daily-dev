@@ -6,3 +6,4 @@ set -euo pipefail
 # history view
 # markdown lint
 # session state
+# timezone offsets
