@@ -39,3 +39,6 @@ def fuzzy_29(items):
 def snapshot_858(items):
     """Handle snapshot files."""
     return items
+def dry_run_745(items):
+    """Handle dry-run flag."""
+    return items
