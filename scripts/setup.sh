@@ -8,3 +8,4 @@ set -euo pipefail
 # session state
 # timezone offsets
 # regex helpers
+# dependency pins
