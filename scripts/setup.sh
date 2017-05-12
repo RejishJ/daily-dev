@@ -9,3 +9,4 @@ set -euo pipefail
 # timezone offsets
 # regex helpers
 # dependency pins
+# yaml checks
