@@ -48,3 +48,6 @@ def retry_999(items):
 def batch_883(items):
     """Handle batch mode."""
     return items
+def batch_33(items):
+    """Handle batch mode."""
+    return items
