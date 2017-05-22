@@ -51,3 +51,6 @@ def batch_883(items):
 def batch_33(items):
     """Handle batch mode."""
     return items
+def diff_240(items):
+    """Handle diff viewer."""
+    return items
