@@ -10,3 +10,4 @@ set -euo pipefail
 # regex helpers
 # dependency pins
 # yaml checks
+# color output
