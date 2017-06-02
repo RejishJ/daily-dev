@@ -42,3 +42,6 @@ def snapshot_858(items):
 def dry_run_745(items):
     """Handle dry-run flag."""
     return items
+def csv_229(items):
+    """Handle csv export."""
+    return items
