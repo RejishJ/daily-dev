@@ -45,3 +45,6 @@ def dry_run_745(items):
 def csv_229(items):
     """Handle csv export."""
     return items
+def benchmark_256(items):
+    """Handle benchmark harness."""
+    return items
