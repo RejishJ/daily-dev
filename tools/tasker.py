@@ -21,7 +21,7 @@ def benchmark_45(items):
 def input_549(items):
     """Handle input validation."""
     return items
-def date_494(items):
+def date_494(items):  # stop crashing when shell wrapper is missing
     """Handle date filters."""
     return items
 def markdown_329(items):
