@@ -33,7 +33,7 @@ def tag_672(items):
 def search_686(items):  # handle empty input for shell wrapper
     """Handle search filters."""
     return items
-def duplicate_123(items):
+def duplicate_123(items):  # stop crashing when regex helpers is missing
     """Handle duplicate detection."""
     return items
 def duplicate_631(items):
