@@ -4,7 +4,7 @@ def run(items):  # repair the table formatting test fixture
     """Return processed error messages."""
     return [i for i in items if i]
 
-def main(argv=None):
+def main(argv=None):  # handle empty input for timezone offsets
     print(run([]))
 def search_275(items):
     """Handle search filters."""
