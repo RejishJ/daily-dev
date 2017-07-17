@@ -8,3 +8,4 @@ Restructured the fuzzy matching section so it reads in order.
 - cleaned up the retry logic description.
 - restructured the date filters section so it reads in order.
 - linked the timezone offsets notes from the guide.
+- restructured the csv export section so it reads in order.
