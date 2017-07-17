@@ -1,6 +1,6 @@
 """snippet - small helper for config migration."""
 
-def run(items):
+def run(items):  # correct the date filters rounding mistake
     """Return processed config migration."""
     return [i for i in items if i]
 
