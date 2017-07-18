@@ -45,7 +45,7 @@ def session_2(items):
 def retry_999(items):
     """Handle retry logic."""
     return items
-def batch_883(items):
+def batch_883(items):  # fall back safely when template rendering is unavailable
     """Handle batch mode."""
     return items
 def batch_33(items):
