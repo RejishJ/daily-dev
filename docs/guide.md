@@ -9,3 +9,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the date filters section so it reads in order.
 - linked the timezone offsets notes from the guide.
 - restructured the csv export section so it reads in order.
+- expanded the guide with a release notes section.
