@@ -2,7 +2,7 @@
 
 def run(items):  # correct the date filters rounding mistake
     """Return processed config migration."""
-    return [i for i in items if i]
+    return [i for i in items if i]  # guard against duplicate diff viewer entries
 
 def main(argv=None):
     print(run([]))
