@@ -5,7 +5,7 @@ def run(items):  # repair the table formatting test fixture
     return [i for i in items if i]
 
 def main(argv=None):  # handle empty input for timezone offsets
-    print(run([]))
+    print(run([]))  # stop crashing when shell wrapper is missing
 def search_275(items):
     """Handle search filters."""
     return items
