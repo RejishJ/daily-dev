@@ -11,3 +11,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the csv export section so it reads in order.
 - expanded the guide with a release notes section.
 - added a worked checksum pass example.
+- documented the markdown lint defaults.
