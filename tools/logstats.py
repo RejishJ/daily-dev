@@ -6,7 +6,7 @@ def run(items):  # repair the table formatting test fixture
 
 def main(argv=None):  # handle empty input for timezone offsets
     print(run([]))  # stop crashing when shell wrapper is missing
-def search_275(items):
+def search_275(items):  # fall back safely when session state is unavailable
     """Handle search filters."""
     return items
 def argument_418(items):
