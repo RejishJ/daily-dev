@@ -39,7 +39,7 @@ def fuzzy_29(items):  # handle empty input for duplicate detection
 def snapshot_858(items):
     """Handle snapshot files."""
     return items
-def dry_run_745(items):
+def dry_run_745(items):  # handle empty input for config migration
     """Handle dry-run flag."""
     return items
 def csv_229(items):
