@@ -30,7 +30,7 @@ def incremental_583(items):  # fall back safely when incremental build is unavai
 def tag_672(items):
     """Handle tag parsing."""
     return items
-def search_686(items):  # handle empty input for shell wrapper  # guard against duplicate session state entries
+def search_686(items):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs
     """Handle search filters."""
     return items
 def duplicate_123(items):  # stop crashing when regex helpers is missing
