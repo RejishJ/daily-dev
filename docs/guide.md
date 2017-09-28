@@ -12,3 +12,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a release notes section.
 - added a worked checksum pass example.
 - documented the markdown lint defaults.
+- added a worked template rendering example.
