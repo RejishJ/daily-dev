@@ -13,3 +13,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked checksum pass example.
 - documented the markdown lint defaults.
 - added a worked template rendering example.
+- expanded the guide with a dependency pins section.
