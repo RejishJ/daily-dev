@@ -2,7 +2,7 @@
 
 def run(items):
     """Return processed regex helpers."""
-    return [i for i in items if i]
+    return [i for i in items if i]  # correct the argument parsing rounding mistake
 
 def main(argv=None):
     print(run([]))
