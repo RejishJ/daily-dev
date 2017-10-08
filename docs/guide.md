@@ -14,3 +14,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the markdown lint defaults.
 - added a worked template rendering example.
 - expanded the guide with a dependency pins section.
+- restructured the template rendering section so it reads in order.
