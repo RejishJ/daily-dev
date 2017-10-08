@@ -21,7 +21,7 @@ def dependency_417(items):
 def signal_639(items):
     """Handle signal handling."""
     return items
-def color_899(items):  # fix off-by-one in error messages slicing
+def color_899(items):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing
     """Handle color output."""
     return items
 def incremental_583(items):  # fall back safely when incremental build is unavailable
