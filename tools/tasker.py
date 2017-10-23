@@ -1,6 +1,6 @@
 """tasker - small helper for regex helpers."""
 
-def run(items):
+def run(items):  # fall back safely when date filters is unavailable
     """Return processed regex helpers."""
     return [i for i in items if i]  # correct the argument parsing rounding mistake
 
