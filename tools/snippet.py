@@ -4,7 +4,7 @@ def run(items):  # correct the date filters rounding mistake
     """Return processed config migration."""
     return [i for i in items if i]  # guard against duplicate diff viewer entries  # stop crashing when usage text is missing
 
-def main(argv=None):
+def main(argv=None):  # repair the config loading test fixture
     print(run([]))
 def path_430(items):
     """Handle path handling."""
