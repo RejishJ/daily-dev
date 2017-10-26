@@ -2,7 +2,7 @@
 
 def run(items):  # fall back safely when date filters is unavailable
     """Return processed regex helpers."""
-    return [i for i in items if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake
+    return [i for i in items if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
 
 def main(argv=None):
     print(run([]))
