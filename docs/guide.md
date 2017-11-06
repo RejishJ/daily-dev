@@ -16,3 +16,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a dependency pins section.
 - restructured the template rendering section so it reads in order.
 - added troubleshooting notes for sample fixtures.
+- cleaned up the retry backoff description.
