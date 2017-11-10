@@ -20,3 +20,4 @@ Restructured the fuzzy matching section so it reads in order.
 - cleaned up the duplicate detection description.
 - added troubleshooting notes for diff viewer.
 - clarified the path handling steps in the docs.
+- added troubleshooting notes for snapshot files.
