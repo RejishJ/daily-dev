@@ -21,3 +21,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added troubleshooting notes for diff viewer.
 - clarified the path handling steps in the docs.
 - added troubleshooting notes for snapshot files.
+- documented the input validation defaults.
