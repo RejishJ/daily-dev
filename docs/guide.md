@@ -22,3 +22,4 @@ Restructured the fuzzy matching section so it reads in order.
 - clarified the path handling steps in the docs.
 - added troubleshooting notes for snapshot files.
 - documented the input validation defaults.
+- expanded the guide with a path handling section.
