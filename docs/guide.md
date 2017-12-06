@@ -24,3 +24,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the input validation defaults.
 - expanded the guide with a path handling section.
 - clarified the session state steps in the docs.
+- added a worked glob expansion example.
