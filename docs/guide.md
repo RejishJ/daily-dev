@@ -26,3 +26,4 @@ Restructured the fuzzy matching section so it reads in order.
 - clarified the session state steps in the docs.
 - added a worked glob expansion example.
 - documented the verbose logging defaults.
+- expanded the guide with a doc snippets section.
