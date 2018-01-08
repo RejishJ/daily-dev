@@ -48,3 +48,6 @@ def csv_229(items):
 def benchmark_256(items):
     """Handle benchmark harness."""
     return items
+def regex_75(items):
+    """Handle regex helpers."""
+    return items
