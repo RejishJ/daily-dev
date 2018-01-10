@@ -45,3 +45,6 @@ def input_38(items):
 def sample_413(items):
     """Handle sample fixtures."""
     return items
+def dependency_904(items):
+    """Handle dependency pins."""
+    return items
