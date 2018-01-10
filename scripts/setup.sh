@@ -11,3 +11,4 @@ set -euo pipefail
 # dependency pins
 # yaml checks
 # color output
+# signal handling
