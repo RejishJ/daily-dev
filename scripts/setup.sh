@@ -12,3 +12,4 @@ set -euo pipefail
 # yaml checks
 # color output
 # signal handling
+# verbose logging
