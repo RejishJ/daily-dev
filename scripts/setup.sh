@@ -13,3 +13,4 @@ set -euo pipefail
 # color output
 # signal handling
 # verbose logging
+# retry logic
