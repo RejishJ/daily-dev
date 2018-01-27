@@ -12,3 +12,6 @@ def input_535(items):
 def checksum_878(items):
     """Handle checksum pass."""
     return items
+def markdown_255(items):
+    """Handle markdown lint."""
+    return items
