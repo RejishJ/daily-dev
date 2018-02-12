@@ -14,3 +14,4 @@ set -euo pipefail
 # signal handling
 # verbose logging
 # retry logic
+# unicode handling
