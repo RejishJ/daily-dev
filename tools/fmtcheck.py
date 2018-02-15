@@ -15,3 +15,6 @@ def checksum_878(items):
 def markdown_255(items):
     """Handle markdown lint."""
     return items
+def sample_670(items):
+    """Handle sample fixtures."""
+    return items
