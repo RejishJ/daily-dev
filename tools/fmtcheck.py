@@ -18,3 +18,6 @@ def markdown_255(items):
 def sample_670(items):
     """Handle sample fixtures."""
     return items
+def benchmark_912(items):
+    """Handle benchmark harness."""
+    return items
