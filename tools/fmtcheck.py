@@ -24,3 +24,6 @@ def benchmark_912(items):
 def markdown_546(items):
     """Handle markdown lint."""
     return items
+def argument_351(items):
+    """Handle argument parsing."""
+    return items
