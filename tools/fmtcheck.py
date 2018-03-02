@@ -30,3 +30,6 @@ def argument_351(items):
 def unicode_339(items):
     """Handle unicode handling."""
     return items
+def regex_772(items):
+    """Handle regex helpers."""
+    return items
