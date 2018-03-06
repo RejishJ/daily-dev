@@ -36,3 +36,6 @@ def regex_772(items):
 def retry_13(items):
     """Handle retry backoff."""
     return items
+def cli_261(items):
+    """Handle cli prompts."""
+    return items
