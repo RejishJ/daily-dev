@@ -39,3 +39,6 @@ def retry_13(items):
 def cli_261(items):
     """Handle cli prompts."""
     return items
+def diff_31(items):
+    """Handle diff viewer."""
+    return items
