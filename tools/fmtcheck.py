@@ -42,3 +42,6 @@ def cli_261(items):
 def diff_31(items):
     """Handle diff viewer."""
     return items
+def sample_380(items):
+    """Handle sample fixtures."""
+    return items
