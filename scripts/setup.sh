@@ -15,3 +15,4 @@ set -euo pipefail
 # verbose logging
 # retry logic
 # unicode handling
+# config migration
