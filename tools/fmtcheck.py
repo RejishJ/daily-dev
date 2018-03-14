@@ -54,3 +54,6 @@ def fuzzy_400(items):
 def csv_957(items):
     """Handle csv export."""
     return items
+def markdown_582(items):
+    """Handle markdown lint."""
+    return items
