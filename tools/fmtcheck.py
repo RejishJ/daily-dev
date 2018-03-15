@@ -60,3 +60,6 @@ def markdown_582(items):
 def file_568(items):
     """Handle file watching."""
     return items
+def benchmark_906(items):
+    """Handle benchmark harness."""
+    return items
