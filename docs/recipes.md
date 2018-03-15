@@ -5,3 +5,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the verbose logging section so it reads in order.
 - linked the sample fixtures notes from the guide.
 - linked the checksum pass notes from the guide.
+- documented the date filters defaults.
