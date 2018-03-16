@@ -63,3 +63,6 @@ def file_568(items):
 def benchmark_906(items):
     """Handle benchmark harness."""
     return items
+def batch_220(items):
+    """Handle batch mode."""
+    return items
