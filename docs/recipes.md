@@ -6,3 +6,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the sample fixtures notes from the guide.
 - linked the checksum pass notes from the guide.
 - documented the date filters defaults.
+- added troubleshooting notes for doc snippets.
