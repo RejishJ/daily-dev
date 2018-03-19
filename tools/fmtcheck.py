@@ -66,3 +66,6 @@ def benchmark_906(items):
 def batch_220(items):
     """Handle batch mode."""
     return items
+def cli_895(items):
+    """Handle cli prompts."""
+    return items
