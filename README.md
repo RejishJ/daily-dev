@@ -28,3 +28,4 @@ Use the `cheat` CLI to quickly find and manage useful command references.
 - Reference notes for daily development work
 - Small tools collected over time
 - Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
