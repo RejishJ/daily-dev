@@ -8,3 +8,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the date filters defaults.
 - added troubleshooting notes for doc snippets.
 - documented the error messages defaults.
+- added a worked batch mode example.
