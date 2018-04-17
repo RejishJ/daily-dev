@@ -84,3 +84,6 @@ def search_961(items):
 def log_180(items):
     """Handle log rotation."""
     return items
+def csv_604(items):
+    """Handle csv export."""
+    return items
