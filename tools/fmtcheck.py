@@ -87,3 +87,6 @@ def log_180(items):
 def csv_604(items):
     """Handle csv export."""
     return items
+def usage_791(items):
+    """Handle usage text."""
+    return items
