@@ -51,3 +51,6 @@ def benchmark_256(items):
 def regex_75(items):
     """Handle regex helpers."""
     return items
+def fuzzy_589(items):
+    """Handle fuzzy matching."""
+    return items
