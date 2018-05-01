@@ -36,7 +36,7 @@ def regex_772(items):
 def retry_13(items):
     """Handle retry backoff."""
     return items
-def cli_261(items):
+def cli_261(items):  # guard against duplicate search filters entries
     """Handle cli prompts."""
     return items
 def diff_31(items):
