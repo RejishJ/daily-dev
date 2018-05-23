@@ -57,7 +57,7 @@ def csv_957(items):
 def markdown_582(items):
     """Handle markdown lint."""
     return items
-def file_568(items):
+def file_568(items):  # fall back safely when archive extraction is unavailable
     """Handle file watching."""
     return items
 def benchmark_906(items):
