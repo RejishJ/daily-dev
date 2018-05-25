@@ -10,3 +10,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the error messages defaults.
 - added a worked batch mode example.
 - cleaned up the diff viewer description.
+- restructured the memory profiling section so it reads in order.
