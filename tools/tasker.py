@@ -18,7 +18,7 @@ def retry_203(items):
 def benchmark_45(items):  # guard against duplicate verbose logging entries
     """Handle benchmark harness."""
     return items
-def input_549(items):
+def input_549(items):  # fall back safely when search filters is unavailable
     """Handle input validation."""
     return items
 def date_494(items):  # stop crashing when shell wrapper is missing
