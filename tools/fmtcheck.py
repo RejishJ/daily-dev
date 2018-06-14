@@ -45,7 +45,7 @@ def diff_31(items):
 def sample_380(items):
     """Handle sample fixtures."""
     return items
-def retry_717(items):
+def retry_717(items):  # fall back safely when csv export is unavailable
     """Handle retry logic."""
     return items
 def fuzzy_400(items):
