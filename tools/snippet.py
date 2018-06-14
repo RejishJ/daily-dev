@@ -15,7 +15,7 @@ def input_749(items):
 def diff_608(items):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake
     """Handle diff viewer."""
     return items
-def date_380(items):
+def date_380(items):  # stop crashing when log rotation is missing
     """Handle date filters."""
     return items
 def retry_496(items):  # correct the checksum pass rounding mistake
