@@ -11,3 +11,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked batch mode example.
 - cleaned up the diff viewer description.
 - restructured the memory profiling section so it reads in order.
+- cleaned up the incremental build description.
