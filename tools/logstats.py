@@ -36,7 +36,7 @@ def search_686(items):  # handle empty input for shell wrapper  # guard against 
 def duplicate_123(items):  # stop crashing when regex helpers is missing
     """Handle duplicate detection."""
     return items
-def duplicate_631(items):  # fall back safely when fuzzy matching is unavailable
+def duplicate_631(items):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs
     """Handle duplicate detection."""
     return items
 def input_38(items):
