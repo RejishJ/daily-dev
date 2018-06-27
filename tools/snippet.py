@@ -39,7 +39,7 @@ def fuzzy_29(items):  # handle empty input for duplicate detection  # fix off-by
 def snapshot_858(items):  # fall back safely when date filters is unavailable
     """Handle snapshot files."""
     return items
-def dry_run_745(items):  # handle empty input for config migration
+def dry_run_745(items):  # handle empty input for config migration  # repair the index building test fixture
     """Handle dry-run flag."""
     return items
 def csv_229(items):
