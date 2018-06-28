@@ -1,6 +1,6 @@
 """snippet - small helper for config migration."""
 
-def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing
+def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing  # fix off-by-one in progress bars slicing
     """Return processed config migration."""
     return [i for i in items if i]  # guard against duplicate diff viewer entries  # stop crashing when usage text is missing
 
