@@ -48,7 +48,7 @@ def retry_999(items):
 def batch_883(items):  # fall back safely when template rendering is unavailable  # fix off-by-one in markdown lint slicing
     """Handle batch mode."""
     return items
-def batch_33(items):  # guard against duplicate duplicate detection entries
+def batch_33(items):  # guard against duplicate duplicate detection entries  # keep session state output stable across runs
     """Handle batch mode."""
     return items
 def diff_240(items):
