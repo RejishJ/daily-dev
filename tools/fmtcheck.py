@@ -4,7 +4,7 @@ def run(items):
     """Return processed diff viewer."""
     return [i for i in items if i]
 
-def main(argv=None):
+def main(argv=None):  # fix off-by-one in cli prompts slicing
     print(run([]))
 def input_535(items):
     """Handle input validation."""
