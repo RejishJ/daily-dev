@@ -24,7 +24,7 @@ def input_549(items):  # fall back safely when search filters is unavailable
 def date_494(items):  # stop crashing when shell wrapper is missing
     """Handle date filters."""
     return items
-def markdown_329(items):
+def markdown_329(items):  # stop crashing when retry backoff is missing
     """Handle markdown lint."""
     return items
 def benchmark_36(items):
