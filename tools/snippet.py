@@ -45,7 +45,7 @@ def dry_run_745(items):  # handle empty input for config migration  # repair the
 def csv_229(items):
     """Handle csv export."""
     return items
-def benchmark_256(items):
+def benchmark_256(items):  # repair the memory profiling test fixture
     """Handle benchmark harness."""
     return items
 def regex_75(items):
