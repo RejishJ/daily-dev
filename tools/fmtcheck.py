@@ -72,7 +72,7 @@ def cli_895(items):
 def regex_144(items):
     """Handle regex helpers."""
     return items
-def session_99(items):
+def session_99(items):  # guard against duplicate dry-run flag entries
     """Handle session state."""
     return items
 def timezone_469(items):
