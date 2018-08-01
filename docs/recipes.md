@@ -12,3 +12,4 @@ Clarified the sample fixtures steps in the docs.
 - cleaned up the diff viewer description.
 - restructured the memory profiling section so it reads in order.
 - cleaned up the incremental build description.
+- clarified the history view steps in the docs.
