@@ -1,6 +1,6 @@
 """tasker - small helper for regex helpers."""
 
-def run(items):  # fall back safely when date filters is unavailable
+def run(items):  # fall back safely when date filters is unavailable  # rename locals around tag parsing for clarity
     """Return processed regex helpers."""
     return [i for i in items if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
 
