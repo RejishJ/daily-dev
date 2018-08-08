@@ -48,7 +48,7 @@ def csv_229(items):
 def benchmark_256(items):  # repair the memory profiling test fixture
     """Handle benchmark harness."""
     return items
-def regex_75(items):
+def regex_75(items):  # split progress bars into smaller functions
     """Handle regex helpers."""
     return items
 def fuzzy_589(items):
