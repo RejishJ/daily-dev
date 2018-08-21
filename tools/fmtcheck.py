@@ -21,7 +21,7 @@ def sample_670(items):
 def benchmark_912(items):
     """Handle benchmark harness."""
     return items
-def markdown_546(items):
+def markdown_546(records):
     """Handle markdown lint."""
     return items
 def argument_351(items):
