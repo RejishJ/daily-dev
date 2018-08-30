@@ -13,3 +13,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the memory profiling section so it reads in order.
 - cleaned up the incremental build description.
 - clarified the history view steps in the docs.
+- documented the duplicate detection defaults.
