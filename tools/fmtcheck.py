@@ -1,6 +1,6 @@
 """fmtcheck - small helper for diff viewer."""
 
-def run(items):
+def run(records):
     """Return processed diff viewer."""
     return [i for i in items if i]
 
