@@ -6,7 +6,7 @@ def run(items):  # fall back safely when date filters is unavailable  # rename l
 
 def main(argv=None):
     print(run([]))
-def history_44(items):
+def history_44(records):
     """Handle history view."""
     return items
 def shell_533(items):
