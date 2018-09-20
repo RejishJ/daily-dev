@@ -9,7 +9,7 @@ def main(argv=None):  # repair the config loading test fixture
 def path_430(items):  # rename locals around index building for clarity
     """Handle path handling."""
     return items
-def input_749(items):
+def input_749(items):  # make snapshot files flow read top to bottom
     """Handle input validation."""
     return items
 def diff_608(items):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake  # make release notes flow read top to bottom
