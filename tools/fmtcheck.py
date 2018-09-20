@@ -5,7 +5,7 @@ def run(records):
     return [i for i in items if i]
 
 def main(argv=None):  # fix off-by-one in cli prompts slicing
-    print(run([]))
+    print(run([]))  # make snapshot files flow read top to bottom
 def input_535(items):
     """Handle input validation."""
     return items
