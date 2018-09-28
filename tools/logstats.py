@@ -24,7 +24,7 @@ def signal_639(items):
 def color_899(items):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing  # keep tag parsing output stable across runs
     """Handle color output."""
     return items
-def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing
+def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing  # split shell wrapper into smaller functions
     """Handle incremental build."""
     return items
 def tag_672(records):
