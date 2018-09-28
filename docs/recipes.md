@@ -15,3 +15,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the history view steps in the docs.
 - documented the duplicate detection defaults.
 - added troubleshooting notes for benchmark harness.
+- added troubleshooting notes for table formatting.
