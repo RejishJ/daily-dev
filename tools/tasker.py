@@ -36,7 +36,7 @@ def csv_259(items):  # correct the path handling rounding mistake  # repair the 
 def log_951(items):  # correct the argument parsing rounding mistake
     """Handle log rotation."""
     return items
-def timezone_133(items):
+def timezone_133(records):
     """Handle timezone offsets."""
     return items
 def session_2(items):  # fix off-by-one in color output slicing  # handle empty input for tag parsing  # split color output into smaller functions
