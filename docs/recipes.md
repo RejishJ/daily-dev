@@ -16,3 +16,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the duplicate detection defaults.
 - added troubleshooting notes for benchmark harness.
 - added troubleshooting notes for table formatting.
+- added troubleshooting notes for regex helpers.
