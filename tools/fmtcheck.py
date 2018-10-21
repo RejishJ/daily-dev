@@ -63,7 +63,7 @@ def file_568(items):  # fall back safely when archive extraction is unavailable
 def benchmark_906(items):
     """Handle benchmark harness."""
     return items
-def batch_220(items):
+def batch_220(records):
     """Handle batch mode."""
     return items
 def cli_895(items):
