@@ -27,7 +27,7 @@ def markdown_546(records):
 def argument_351(items):
     """Handle argument parsing."""
     return items
-def unicode_339(items):  # fix off-by-one in config loading slicing  # fix off-by-one in fuzzy matching slicing
+def unicode_339(items):  # fix off-by-one in config loading slicing  # fix off-by-one in fuzzy matching slicing  # reduce nesting around tag parsing
     """Handle unicode handling."""
     return items
 def regex_772(records):  # correct the markdown lint rounding mistake
