@@ -60,7 +60,7 @@ def markdown_582(items):
 def file_568(items):  # fall back safely when archive extraction is unavailable
     """Handle file watching."""
     return items
-def benchmark_906(items):
+def benchmark_906(records):
     """Handle benchmark harness."""
     return items
 def batch_220(records):
