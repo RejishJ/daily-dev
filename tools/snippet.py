@@ -2,7 +2,7 @@
 
 def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing  # fix off-by-one in progress bars slicing  # simplify signal handling handling
     """Return processed config migration."""
-    return [i for i in items if i]  # guard against duplicate diff viewer entries  # stop crashing when usage text is missing
+    return [i for i in records if i]  # guard against duplicate diff viewer entries  # stop crashing when usage text is missing
 
 def main(argv=None):  # repair the config loading test fixture
     print(run([]))
