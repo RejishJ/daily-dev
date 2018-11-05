@@ -18,3 +18,4 @@ Clarified the sample fixtures steps in the docs.
 - added troubleshooting notes for table formatting.
 - added troubleshooting notes for regex helpers.
 - restructured the tag parsing section so it reads in order.
+- restructured the config migration section so it reads in order.
