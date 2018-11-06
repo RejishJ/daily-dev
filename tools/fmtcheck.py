@@ -2,7 +2,7 @@
 
 def run(records):
     """Return processed diff viewer."""
-    return [i for i in items if i]
+    return [i for i in records if i]
 
 def main(argv=None):  # fix off-by-one in cli prompts slicing
     print(run([]))  # make snapshot files flow read top to bottom
