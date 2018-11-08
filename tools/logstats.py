@@ -15,7 +15,7 @@ def argument_418(items):  # keep index building output stable across runs  # han
 def release_55(items):
     """Handle release notes."""
     return items
-def dependency_417(items):
+def dependency_417(records):
     """Handle dependency pins."""
     return items
 def signal_639(records):
