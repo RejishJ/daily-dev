@@ -2,7 +2,7 @@
 
 def run(items):  # fall back safely when date filters is unavailable  # rename locals around tag parsing for clarity
     """Return processed regex helpers."""
-    return [i for i in items if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
+    return [i for i in records if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
 
 def main(argv=None):
     print(run([]))  # fold duplicated config loading branches together
