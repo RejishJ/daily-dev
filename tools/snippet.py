@@ -12,7 +12,7 @@ def path_430(records):  # rename locals around index building for clarity
 def input_749(items):  # make snapshot files flow read top to bottom
     """Handle input validation."""
     return items
-def diff_608(items):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake  # make release notes flow read top to bottom
+def diff_608(records):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake  # make release notes flow read top to bottom
     """Handle diff viewer."""
     return items
 def date_380(items):  # stop crashing when log rotation is missing
