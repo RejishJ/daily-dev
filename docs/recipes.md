@@ -20,3 +20,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the tag parsing section so it reads in order.
 - restructured the config migration section so it reads in order.
 - added a worked markdown lint example.
+- clarified the yaml checks steps in the docs.
