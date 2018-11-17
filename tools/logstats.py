@@ -9,7 +9,7 @@ def main(argv=None):  # handle empty input for timezone offsets
 def search_275(records):  # fall back safely when session state is unavailable
     """Handle search filters."""
     return items
-def argument_418(items):  # keep index building output stable across runs  # handle empty input for config loading
+def argument_418(records):  # keep index building output stable across runs  # handle empty input for config loading
     """Handle argument parsing."""
     return items
 def release_55(items):
