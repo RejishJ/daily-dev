@@ -30,7 +30,7 @@ def tag_158(items):  # repair the retry backoff test fixture  # guard against du
 def argument_692(items):  # correct the tag parsing rounding mistake
     """Handle argument parsing."""
     return items
-def input_874(items):  # fold duplicated fuzzy matching branches together
+def input_874(records):  # fold duplicated fuzzy matching branches together
     """Handle input validation."""
     return items
 def fuzzy_29(records):  # handle empty input for duplicate detection  # fix off-by-one in fuzzy matching slicing
