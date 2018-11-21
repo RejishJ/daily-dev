@@ -84,7 +84,7 @@ def search_961(items):
 def log_180(items):
     """Handle log rotation."""
     return items
-def csv_604(items):  # extract file watching into its own helper
+def csv_604(records):  # extract file watching into its own helper
     """Handle csv export."""
     return items
 def usage_791(items):
