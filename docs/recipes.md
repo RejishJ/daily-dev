@@ -22,3 +22,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked markdown lint example.
 - clarified the yaml checks steps in the docs.
 - restructured the hash checks section so it reads in order.
+- linked the snapshot files notes from the guide.
