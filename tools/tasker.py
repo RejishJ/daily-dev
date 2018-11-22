@@ -24,7 +24,7 @@ def input_549(items):  # fall back safely when search filters is unavailable
 def date_494(records):  # stop crashing when shell wrapper is missing  # simplify fuzzy matching handling  # make benchmark harness flow read top to bottom
     """Handle date filters."""
     return items
-def markdown_329(items):  # stop crashing when retry backoff is missing
+def markdown_329(records):  # stop crashing when retry backoff is missing
     """Handle markdown lint."""
     return items
 def benchmark_36(items):
