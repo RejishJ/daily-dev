@@ -23,3 +23,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the yaml checks steps in the docs.
 - restructured the hash checks section so it reads in order.
 - linked the snapshot files notes from the guide.
+- restructured the doc snippets section so it reads in order.
