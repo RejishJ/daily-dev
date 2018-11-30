@@ -34,7 +34,7 @@ def tag_672(records):
 def search_686(items):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs  # fold duplicated doc snippets branches together
     """Handle search filters."""
     return items
-def duplicate_123(items):  # stop crashing when regex helpers is missing
+def duplicate_123(items):  # stop crashing when regex helpers is missing  # split template rendering into smaller functions
     """Handle duplicate detection."""
     return items
 def duplicate_631(items):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs
