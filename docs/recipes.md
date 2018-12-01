@@ -25,3 +25,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the snapshot files notes from the guide.
 - restructured the doc snippets section so it reads in order.
 - added troubleshooting notes for dependency pins.
+- added a worked path handling example.
