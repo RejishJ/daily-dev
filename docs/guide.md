@@ -27,3 +27,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked glob expansion example.
 - documented the verbose logging defaults.
 - expanded the guide with a doc snippets section.
+- documented the glob expansion defaults.
