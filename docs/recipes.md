@@ -27,3 +27,4 @@ Clarified the sample fixtures steps in the docs.
 - added troubleshooting notes for dependency pins.
 - added a worked path handling example.
 - restructured the cli prompts section so it reads in order.
+- added troubleshooting notes for retry logic.
