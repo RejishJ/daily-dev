@@ -28,3 +28,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the verbose logging defaults.
 - expanded the guide with a doc snippets section.
 - documented the glob expansion defaults.
+- linked the diff viewer notes from the guide.
