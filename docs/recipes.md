@@ -28,3 +28,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked path handling example.
 - restructured the cli prompts section so it reads in order.
 - added troubleshooting notes for retry logic.
+- clarified the markdown lint steps in the docs.
