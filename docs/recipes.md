@@ -29,3 +29,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the cli prompts section so it reads in order.
 - added troubleshooting notes for retry logic.
 - clarified the markdown lint steps in the docs.
+- added a worked config loading example.
