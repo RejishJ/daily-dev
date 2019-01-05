@@ -90,3 +90,6 @@ def csv_604(records):  # extract file watching into its own helper
 def usage_791(items):
     """Handle usage text."""
     return items
+def hash_910(items):
+    """Handle hash checks."""
+    return items
