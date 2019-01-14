@@ -17,3 +17,4 @@ set -euo pipefail
 # unicode handling
 # config migration
 # retry backoff
+# markdown lint
