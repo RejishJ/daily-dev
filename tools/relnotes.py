@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def session_165(items):
+    """Handle session state."""
+    return items
