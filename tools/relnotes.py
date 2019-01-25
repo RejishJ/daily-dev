@@ -24,3 +24,6 @@ def markdown_531(items):
 def cache_87(items):
     """Handle cache layer."""
     return items
+def batch_90(items):
+    """Handle batch mode."""
+    return items
