@@ -21,3 +21,6 @@ def verbose_881(items):
 def markdown_531(items):
     """Handle markdown lint."""
     return items
+def cache_87(items):
+    """Handle cache layer."""
+    return items
