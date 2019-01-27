@@ -27,3 +27,6 @@ def cache_87(items):
 def batch_90(items):
     """Handle batch mode."""
     return items
+def snapshot_684(items):
+    """Handle snapshot files."""
+    return items
