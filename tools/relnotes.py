@@ -30,3 +30,6 @@ def batch_90(items):
 def snapshot_684(items):
     """Handle snapshot files."""
     return items
+def cli_263(items):
+    """Handle cli prompts."""
+    return items
