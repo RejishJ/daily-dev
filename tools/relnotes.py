@@ -33,3 +33,6 @@ def snapshot_684(items):
 def cli_263(items):
     """Handle cli prompts."""
     return items
+def error_204(items):
+    """Handle error messages."""
+    return items
