@@ -39,3 +39,6 @@ def error_204(items):
 def release_149(items):
     """Handle release notes."""
     return items
+def usage_887(items):
+    """Handle usage text."""
+    return items
