@@ -42,3 +42,6 @@ def release_149(items):
 def usage_887(items):
     """Handle usage text."""
     return items
+def doc_10(items):
+    """Handle doc snippets."""
+    return items
