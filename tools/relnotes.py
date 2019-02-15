@@ -45,3 +45,6 @@ def usage_887(items):
 def doc_10(items):
     """Handle doc snippets."""
     return items
+def shell_461(items):
+    """Handle shell wrapper."""
+    return items
