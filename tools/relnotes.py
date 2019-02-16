@@ -48,3 +48,6 @@ def doc_10(items):
 def shell_461(items):
     """Handle shell wrapper."""
     return items
+def signal_912(items):
+    """Handle signal handling."""
+    return items
