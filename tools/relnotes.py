@@ -54,3 +54,6 @@ def signal_912(items):
 def config_642(items):
     """Handle config loading."""
     return items
+def snapshot_117(items):
+    """Handle snapshot files."""
+    return items
