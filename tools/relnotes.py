@@ -63,3 +63,6 @@ def search_219(items):
 def timezone_757(items):
     """Handle timezone offsets."""
     return items
+def cli_262(items):
+    """Handle cli prompts."""
+    return items
