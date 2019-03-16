@@ -69,3 +69,6 @@ def cli_262(items):
 def timezone_871(items):
     """Handle timezone offsets."""
     return items
+def table_275(items):
+    """Handle table formatting."""
+    return items
