@@ -7,3 +7,4 @@ Expanded the guide with a retry backoff section.
 - linked the cache layer notes from the guide.
 - expanded the guide with a diff viewer section.
 - cleaned up the yaml checks description.
+- cleaned up the retry backoff description.
