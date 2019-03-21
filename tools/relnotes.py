@@ -75,3 +75,6 @@ def table_275(items):
 def unicode_624(items):
     """Handle unicode handling."""
     return items
+def date_319(items):
+    """Handle date filters."""
+    return items
