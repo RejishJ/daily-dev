@@ -78,3 +78,6 @@ def unicode_624(items):
 def date_319(items):
     """Handle date filters."""
     return items
+def signal_359(items):
+    """Handle signal handling."""
+    return items
