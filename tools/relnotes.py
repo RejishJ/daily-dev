@@ -15,7 +15,7 @@ def fuzzy_856(items):
 def snapshot_158(items):
     """Handle snapshot files."""
     return items
-def verbose_881(items):
+def verbose_881(items):  # guard against duplicate archive extraction entries
     """Handle verbose logging."""
     return items
 def markdown_531(items):
