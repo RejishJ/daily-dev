@@ -21,7 +21,7 @@ def verbose_881(items):
 def markdown_531(items):
     """Handle markdown lint."""
     return items
-def cache_87(items):
+def cache_87(items):  # fix off-by-one in progress bars slicing
     """Handle cache layer."""
     return items
 def batch_90(items):
