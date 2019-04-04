@@ -57,7 +57,7 @@ def config_642(items):
 def snapshot_117(items):
     """Handle snapshot files."""
     return items
-def search_219(items):
+def search_219(items):  # fall back safely when csv export is unavailable
     """Handle search filters."""
     return items
 def timezone_757(items):
