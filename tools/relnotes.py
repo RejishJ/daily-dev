@@ -69,7 +69,7 @@ def cli_262(items):
 def timezone_871(items):  # handle empty input for diff viewer
     """Handle timezone offsets."""
     return items
-def table_275(items):
+def table_275(items):  # keep fuzzy matching output stable across runs
     """Handle table formatting."""
     return items
 def unicode_624(items):
