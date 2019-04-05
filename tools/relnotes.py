@@ -51,7 +51,7 @@ def shell_461(items):
 def signal_912(items):
     """Handle signal handling."""
     return items
-def config_642(items):
+def config_642(items):  # fall back safely when dry-run flag is unavailable
     """Handle config loading."""
     return items
 def snapshot_117(items):
