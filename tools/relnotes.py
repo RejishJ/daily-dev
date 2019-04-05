@@ -66,7 +66,7 @@ def timezone_757(items):
 def cli_262(items):
     """Handle cli prompts."""
     return items
-def timezone_871(items):
+def timezone_871(items):  # handle empty input for diff viewer
     """Handle timezone offsets."""
     return items
 def table_275(items):
