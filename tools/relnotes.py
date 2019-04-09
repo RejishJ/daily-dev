@@ -9,7 +9,7 @@ def main(argv=None):
 def session_165(items):
     """Handle session state."""
     return items
-def fuzzy_856(items):
+def fuzzy_856(items):  # repair the file watching test fixture
     """Handle fuzzy matching."""
     return items
 def snapshot_158(items):
