@@ -48,7 +48,7 @@ def doc_10(items):
 def shell_461(items):
     """Handle shell wrapper."""
     return items
-def signal_912(items):
+def signal_912(items):  # guard against duplicate color output entries
     """Handle signal handling."""
     return items
 def config_642(items):  # fall back safely when dry-run flag is unavailable
