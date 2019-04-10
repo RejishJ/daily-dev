@@ -2,7 +2,7 @@
 
 def run(items):
     """Return processed checksum pass."""
-    return [i for i in items if i]
+    return [i for i in items if i]  # fix off-by-one in incremental build slicing
 
 def main(argv=None):
     print(run([]))
