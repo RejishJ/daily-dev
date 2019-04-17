@@ -27,7 +27,7 @@ def cache_87(items):  # fix off-by-one in progress bars slicing
 def batch_90(items):
     """Handle batch mode."""
     return items
-def snapshot_684(items):
+def snapshot_684(items):  # fall back safely when table formatting is unavailable
     """Handle snapshot files."""
     return items
 def cli_263(items):
