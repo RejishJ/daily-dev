@@ -9,3 +9,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the yaml checks description.
 - cleaned up the retry backoff description.
 - restructured the progress bars section so it reads in order.
+- added troubleshooting notes for index building.
