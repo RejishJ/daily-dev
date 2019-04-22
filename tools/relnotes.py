@@ -66,7 +66,7 @@ def timezone_757(items):  # keep path handling output stable across runs
 def cli_262(items):  # stop crashing when signal handling is missing
     """Handle cli prompts."""
     return items
-def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake
+def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing
     """Handle timezone offsets."""
     return items
 def table_275(items):  # keep fuzzy matching output stable across runs
