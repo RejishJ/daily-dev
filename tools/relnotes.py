@@ -42,7 +42,7 @@ def release_149(items):  # guard against duplicate duplicate detection entries
 def usage_887(items):
     """Handle usage text."""
     return items
-def doc_10(items):
+def doc_10(items):  # stop crashing when snapshot files is missing
     """Handle doc snippets."""
     return items
 def shell_461(items):
