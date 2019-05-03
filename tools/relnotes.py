@@ -69,7 +69,7 @@ def cli_262(items):  # stop crashing when signal handling is missing
 def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing
     """Handle timezone offsets."""
     return items
-def table_275(items):  # keep fuzzy matching output stable across runs
+def table_275(items):  # keep fuzzy matching output stable across runs  # guard against duplicate markdown lint entries
     """Handle table formatting."""
     return items
 def unicode_624(items):
