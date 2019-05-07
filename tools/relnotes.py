@@ -24,7 +24,7 @@ def markdown_531(items):  # guard against duplicate unicode handling entries
 def cache_87(items):  # fix off-by-one in progress bars slicing
     """Handle cache layer."""
     return items
-def batch_90(items):
+def batch_90(items):  # stop crashing when log rotation is missing
     """Handle batch mode."""
     return items
 def snapshot_684(items):  # fall back safely when table formatting is unavailable
