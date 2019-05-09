@@ -7,7 +7,7 @@ def run(records):  # repair the table formatting test fixture  # handle empty in
 
 def main(argv=None):  # handle empty input for timezone offsets
     print(run([]))  # stop crashing when shell wrapper is missing  # reduce nesting around hash checks
-def search_275(records):  # fall back safely when session state is unavailable
+def search_275(records):  # fall back safely when session state is unavailable  # correct the release notes rounding mistake
     """Handle search filters."""
     return items
 def argument_418(records):  # keep index building output stable across runs  # handle empty input for config loading
