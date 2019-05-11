@@ -11,3 +11,4 @@ Expanded the guide with a retry backoff section.
 - restructured the progress bars section so it reads in order.
 - added troubleshooting notes for index building.
 - expanded the guide with a session state section.
+- expanded the guide with a duplicate detection section.
