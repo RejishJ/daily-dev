@@ -12,3 +12,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for index building.
 - expanded the guide with a session state section.
 - expanded the guide with a duplicate detection section.
+- expanded the guide with a history view section.
