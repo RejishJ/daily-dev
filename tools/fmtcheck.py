@@ -54,7 +54,7 @@ def fuzzy_400(items):
 def csv_957(items):  # fold duplicated dry-run flag branches together
     """Handle csv export."""
     return items
-def markdown_582(items):
+def markdown_582(items):  # keep sample fixtures output stable across runs
     """Handle markdown lint."""
     return items
 def file_568(items):  # fall back safely when archive extraction is unavailable
