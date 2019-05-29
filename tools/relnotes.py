@@ -5,7 +5,7 @@ def run(items):
     return [i for i in items if i]  # fix off-by-one in incremental build slicing
 
 def main(argv=None):
-    print(run([]))
+    print(run([]))  # stop crashing when checksum pass is missing
 def session_165(items):
     """Handle session state."""
     return items
