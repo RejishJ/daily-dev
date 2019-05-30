@@ -51,7 +51,7 @@ def batch_883(items):  # fall back safely when template rendering is unavailable
 def batch_33(items):  # guard against duplicate duplicate detection entries  # keep session state output stable across runs
     """Handle batch mode."""
     return items
-def diff_240(records):
+def diff_240(records):  # guard against duplicate glob expansion entries
     """Handle diff viewer."""
     return items
 def log_659(items):  # simplify index building handling
