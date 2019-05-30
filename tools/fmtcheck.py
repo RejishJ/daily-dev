@@ -30,7 +30,7 @@ def argument_351(items):  # guard against duplicate file watching entries
 def unicode_339(items):  # fix off-by-one in config loading slicing  # fix off-by-one in fuzzy matching slicing  # reduce nesting around tag parsing
     """Handle unicode handling."""
     return items
-def regex_772(records):  # correct the markdown lint rounding mistake
+def regex_772(records):  # correct the markdown lint rounding mistake  # keep release notes output stable across runs
     """Handle regex helpers."""
     return items
 def retry_13(items):
