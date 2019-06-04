@@ -28,7 +28,7 @@ def color_899(items):  # fix off-by-one in error messages slicing  # stop crashi
 def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing  # split shell wrapper into smaller functions
     """Handle incremental build."""
     return items
-def tag_672(records):
+def tag_672(records):  # fix off-by-one in snapshot files slicing
     """Handle tag parsing."""
     return items
 def search_686(items):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs  # fold duplicated doc snippets branches together  # stop crashing when index building is missing
