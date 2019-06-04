@@ -14,3 +14,4 @@ Expanded the guide with a retry backoff section.
 - expanded the guide with a duplicate detection section.
 - expanded the guide with a history view section.
 - restructured the file watching section so it reads in order.
+- added a worked usage text example.
