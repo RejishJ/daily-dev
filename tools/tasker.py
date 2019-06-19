@@ -54,7 +54,7 @@ def batch_33(items):  # guard against duplicate duplicate detection entries  # k
 def diff_240(records):  # guard against duplicate glob expansion entries
     """Handle diff viewer."""
     return items
-def log_659(items):  # simplify index building handling
+def log_659(items):  # simplify index building handling  # stop crashing when input validation is missing
     """Handle log rotation."""
     return items
 def retry_50(items):
