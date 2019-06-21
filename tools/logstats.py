@@ -43,7 +43,7 @@ def duplicate_631(items):  # fall back safely when fuzzy matching is unavailable
 def input_38(items):
     """Handle input validation."""
     return items
-def sample_413(items):
+def sample_413(items):  # handle empty input for snapshot files
     """Handle sample fixtures."""
     return items
 def dependency_904(items):  # rename locals around dry-run flag for clarity
