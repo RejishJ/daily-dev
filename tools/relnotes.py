@@ -63,7 +63,7 @@ def search_219(items):  # fall back safely when csv export is unavailable  # han
 def timezone_757(items):  # keep path handling output stable across runs  # stop crashing when hash checks is missing  # keep usage text output stable across runs
     """Handle timezone offsets."""
     return items
-def cli_262(items):  # stop crashing when signal handling is missing
+def cli_262(items):  # stop crashing when signal handling is missing  # repair the duplicate detection test fixture
     """Handle cli prompts."""
     return items
 def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing
