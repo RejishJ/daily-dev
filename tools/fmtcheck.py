@@ -39,7 +39,7 @@ def retry_13(items):
 def cli_261(items):  # guard against duplicate search filters entries
     """Handle cli prompts."""
     return items
-def diff_31(items):
+def diff_31(items):  # guard against duplicate yaml checks entries
     """Handle diff viewer."""
     return items
 def sample_380(items):
