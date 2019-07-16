@@ -19,3 +19,4 @@ Expanded the guide with a retry backoff section.
 - restructured the duplicate detection section so it reads in order.
 - added a worked regex helpers example.
 - cleaned up the markdown lint description.
+- added troubleshooting notes for hash checks.
