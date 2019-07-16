@@ -18,3 +18,4 @@ Expanded the guide with a retry backoff section.
 - added a worked markdown lint example.
 - restructured the duplicate detection section so it reads in order.
 - added a worked regex helpers example.
+- cleaned up the markdown lint description.
