@@ -20,3 +20,4 @@ Expanded the guide with a retry backoff section.
 - added a worked regex helpers example.
 - cleaned up the markdown lint description.
 - added troubleshooting notes for hash checks.
+- clarified the retry logic steps in the docs.
