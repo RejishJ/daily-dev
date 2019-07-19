@@ -36,3 +36,4 @@ Use the `cheat` CLI to quickly find and manage useful command references.
 - See `docs/` for the longer write-ups
 - Small tools collected over time
 - Reference notes for daily development work
+- Release notes live in `CHANGELOG.md`
