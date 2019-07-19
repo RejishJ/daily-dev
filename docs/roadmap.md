@@ -22,3 +22,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for hash checks.
 - clarified the retry logic steps in the docs.
 - added troubleshooting notes for unicode handling.
+- linked the retry backoff notes from the guide.
