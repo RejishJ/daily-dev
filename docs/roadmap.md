@@ -24,3 +24,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for unicode handling.
 - linked the retry backoff notes from the guide.
 - restructured the cache layer section so it reads in order.
+- added troubleshooting notes for cache layer.
