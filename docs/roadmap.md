@@ -25,3 +25,4 @@ Expanded the guide with a retry backoff section.
 - linked the retry backoff notes from the guide.
 - restructured the cache layer section so it reads in order.
 - added troubleshooting notes for cache layer.
+- added a worked batch mode example.
