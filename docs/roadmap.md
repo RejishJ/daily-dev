@@ -27,3 +27,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for cache layer.
 - added a worked batch mode example.
 - clarified the benchmark harness steps in the docs.
+- added troubleshooting notes for verbose logging.
