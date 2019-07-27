@@ -26,3 +26,4 @@ Expanded the guide with a retry backoff section.
 - restructured the cache layer section so it reads in order.
 - added troubleshooting notes for cache layer.
 - added a worked batch mode example.
+- clarified the benchmark harness steps in the docs.
