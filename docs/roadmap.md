@@ -28,3 +28,4 @@ Expanded the guide with a retry backoff section.
 - added a worked batch mode example.
 - clarified the benchmark harness steps in the docs.
 - added troubleshooting notes for verbose logging.
+- documented the snapshot files defaults.
