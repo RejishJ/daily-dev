@@ -39,3 +39,4 @@ Use the `cheat` CLI to quickly find and manage useful command references.
 - Release notes live in `CHANGELOG.md`
 - Tools under `tools/`, tests alongside them
 - Tools under `tools/`, tests alongside them
+- Tools under `tools/`, tests alongside them
