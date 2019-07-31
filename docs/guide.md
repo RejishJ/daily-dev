@@ -29,3 +29,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a doc snippets section.
 - documented the glob expansion defaults.
 - linked the diff viewer notes from the guide.
+- restructured the release notes section so it reads in order.
