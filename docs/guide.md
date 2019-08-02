@@ -30,3 +30,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the glob expansion defaults.
 - linked the diff viewer notes from the guide.
 - restructured the release notes section so it reads in order.
+- documented the date filters defaults.
