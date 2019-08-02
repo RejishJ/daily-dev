@@ -30,3 +30,4 @@ Clarified the sample fixtures steps in the docs.
 - added troubleshooting notes for retry logic.
 - clarified the markdown lint steps in the docs.
 - added a worked config loading example.
+- expanded the guide with a config loading section.
