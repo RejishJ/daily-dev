@@ -30,3 +30,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for verbose logging.
 - documented the snapshot files defaults.
 - restructured the history view section so it reads in order.
+- added troubleshooting notes for fuzzy matching.
