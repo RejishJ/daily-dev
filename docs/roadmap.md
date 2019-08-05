@@ -31,3 +31,4 @@ Expanded the guide with a retry backoff section.
 - documented the snapshot files defaults.
 - restructured the history view section so it reads in order.
 - added troubleshooting notes for fuzzy matching.
+- cleaned up the fuzzy matching description.
