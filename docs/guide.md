@@ -31,3 +31,4 @@ Restructured the fuzzy matching section so it reads in order.
 - linked the diff viewer notes from the guide.
 - restructured the release notes section so it reads in order.
 - documented the date filters defaults.
+- added a worked memory profiling example.
