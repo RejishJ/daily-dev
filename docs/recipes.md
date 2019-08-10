@@ -32,3 +32,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked config loading example.
 - expanded the guide with a config loading section.
 - documented the duplicate detection defaults.
+- restructured the snapshot files section so it reads in order.
