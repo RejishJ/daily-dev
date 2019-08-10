@@ -31,3 +31,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the markdown lint steps in the docs.
 - added a worked config loading example.
 - expanded the guide with a config loading section.
+- documented the duplicate detection defaults.
