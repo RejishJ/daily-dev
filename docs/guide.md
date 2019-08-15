@@ -33,3 +33,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the date filters defaults.
 - added a worked memory profiling example.
 - documented the config migration defaults.
+- expanded the guide with a incremental build section.
