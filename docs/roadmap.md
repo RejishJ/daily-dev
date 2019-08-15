@@ -33,3 +33,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for fuzzy matching.
 - cleaned up the fuzzy matching description.
 - cleaned up the color output description.
+- cleaned up the tag parsing description.
