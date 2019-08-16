@@ -33,3 +33,4 @@ Clarified the sample fixtures steps in the docs.
 - expanded the guide with a config loading section.
 - documented the duplicate detection defaults.
 - restructured the snapshot files section so it reads in order.
+- linked the color output notes from the guide.
