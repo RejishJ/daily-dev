@@ -34,3 +34,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the duplicate detection defaults.
 - restructured the snapshot files section so it reads in order.
 - linked the color output notes from the guide.
+- restructured the regex helpers section so it reads in order.
