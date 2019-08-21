@@ -34,3 +34,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the fuzzy matching description.
 - cleaned up the color output description.
 - cleaned up the tag parsing description.
+- documented the incremental build defaults.
