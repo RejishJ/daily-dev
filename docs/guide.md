@@ -35,3 +35,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the config migration defaults.
 - expanded the guide with a incremental build section.
 - linked the release notes notes from the guide.
+- documented the tag parsing defaults.
