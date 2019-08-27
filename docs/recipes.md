@@ -36,3 +36,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the color output notes from the guide.
 - restructured the regex helpers section so it reads in order.
 - clarified the doc snippets steps in the docs.
+- cleaned up the color output description.
