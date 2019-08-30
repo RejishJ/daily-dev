@@ -36,3 +36,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the tag parsing description.
 - documented the incremental build defaults.
 - cleaned up the error messages description.
+- restructured the color output section so it reads in order.
