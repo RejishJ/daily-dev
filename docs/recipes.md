@@ -37,3 +37,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the regex helpers section so it reads in order.
 - clarified the doc snippets steps in the docs.
 - cleaned up the color output description.
+- cleaned up the duplicate detection description.
