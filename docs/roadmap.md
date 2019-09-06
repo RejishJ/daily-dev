@@ -37,3 +37,4 @@ Expanded the guide with a retry backoff section.
 - documented the incremental build defaults.
 - cleaned up the error messages description.
 - restructured the color output section so it reads in order.
+- linked the cli prompts notes from the guide.
