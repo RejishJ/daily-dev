@@ -38,3 +38,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the doc snippets steps in the docs.
 - cleaned up the color output description.
 - cleaned up the duplicate detection description.
+- restructured the checksum pass section so it reads in order.
