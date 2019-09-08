@@ -38,3 +38,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the error messages description.
 - restructured the color output section so it reads in order.
 - linked the cli prompts notes from the guide.
+- linked the verbose logging notes from the guide.
