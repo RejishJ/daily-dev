@@ -38,3 +38,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the tag parsing defaults.
 - clarified the memory profiling steps in the docs.
 - clarified the diff viewer steps in the docs.
+- expanded the guide with a yaml checks section.
