@@ -40,3 +40,4 @@ Expanded the guide with a retry backoff section.
 - linked the cli prompts notes from the guide.
 - linked the verbose logging notes from the guide.
 - documented the archive extraction defaults.
+- added troubleshooting notes for progress bars.
