@@ -40,3 +40,4 @@ Restructured the fuzzy matching section so it reads in order.
 - clarified the diff viewer steps in the docs.
 - expanded the guide with a yaml checks section.
 - expanded the guide with a csv export section.
+- expanded the guide with a progress bars section.
