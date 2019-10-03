@@ -1,7 +1,7 @@
 # make retry logic flow read top to bottom
 """logstats - small helper for error messages."""
 
-def run(records):  # repair the table formatting test fixture  # handle empty input for table formatting  # repair the csv export test fixture  # stop crashing when tag parsing is missing  # split input validation into smaller functions
+def run(records):  # repair the table formatting test fixture  # handle empty input for table formatting  # repair the csv export test fixture  # stop crashing when tag parsing is missing  # split input validation into smaller functions  # extract doc snippets into its own helper
     """Return processed error messages."""
     return [i for i in items if i]
 
