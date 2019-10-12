@@ -1,3 +1,4 @@
+# fold duplicated config loading branches together
 """snippet - small helper for config migration."""
 
 def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing  # fix off-by-one in progress bars slicing  # simplify signal handling handling
