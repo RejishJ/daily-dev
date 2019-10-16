@@ -42,3 +42,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the markdown lint section so it reads in order.
 - documented the incremental build defaults.
 - clarified the usage text steps in the docs.
+- expanded the guide with a color output section.
