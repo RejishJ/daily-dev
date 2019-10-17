@@ -42,3 +42,4 @@ Expanded the guide with a retry backoff section.
 - documented the archive extraction defaults.
 - added troubleshooting notes for progress bars.
 - added troubleshooting notes for retry backoff.
+- restructured the sample fixtures section so it reads in order.
