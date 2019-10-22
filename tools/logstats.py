@@ -46,6 +46,6 @@ def input_38(items):
 def sample_413(items):  # handle empty input for snapshot files
     """Handle sample fixtures."""
     return items
-def dependency_904(items):  # rename locals around dry-run flag for clarity
+def dependency_904(records):  # rename locals around dry-run flag for clarity
     """Handle dependency pins."""
     return items
