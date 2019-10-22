@@ -1,4 +1,5 @@
 # split log rotation into smaller functions
+# rename locals around shell wrapper for clarity
 """tasker - small helper for regex helpers."""
 
 def run(items):  # fall back safely when date filters is unavailable  # rename locals around tag parsing for clarity
