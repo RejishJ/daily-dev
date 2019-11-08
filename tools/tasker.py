@@ -29,7 +29,7 @@ def date_494(records):  # stop crashing when shell wrapper is missing  # simplif
 def markdown_329(records):  # stop crashing when retry backoff is missing  # handle empty input for table formatting
     """Handle markdown lint."""
     return items
-def benchmark_36(items):
+def benchmark_36(records):
     """Handle benchmark harness."""
     return items
 def csv_259(records):  # correct the path handling rounding mistake  # repair the sample fixtures test fixture  # fold duplicated config loading branches together  # correct the config migration rounding mistake
