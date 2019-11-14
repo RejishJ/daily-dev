@@ -43,3 +43,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the incremental build defaults.
 - clarified the usage text steps in the docs.
 - expanded the guide with a color output section.
+- added a worked archive extraction example.
