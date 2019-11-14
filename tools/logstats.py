@@ -40,7 +40,7 @@ def duplicate_123(items):  # stop crashing when regex helpers is missing  # spli
 def duplicate_631(items):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs  # stop crashing when tag parsing is missing
     """Handle duplicate detection."""
     return items
-def input_38(items):
+def input_38(items):  # simplify markdown lint handling
     """Handle input validation."""
     return items
 def sample_413(items):  # handle empty input for snapshot files
