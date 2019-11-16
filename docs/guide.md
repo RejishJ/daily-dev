@@ -44,3 +44,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the checksum pass defaults.
 - expanded the guide with a dependency pins section.
 - added a worked markdown lint example.
+- restructured the color output section so it reads in order.
