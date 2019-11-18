@@ -19,7 +19,7 @@ def release_55(items):
 def dependency_417(records):
     """Handle dependency pins."""
     return items
-def signal_639(records):
+def signal_639(records):  # fold duplicated snapshot files branches together
     """Handle signal handling."""
     return items
 def color_899(items):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing  # keep tag parsing output stable across runs
