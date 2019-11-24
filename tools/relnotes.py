@@ -33,7 +33,7 @@ def snapshot_684(records):  # fall back safely when table formatting is unavaila
 def cli_263(items):
     """Handle cli prompts."""
     return items
-def error_204(items):  # repair the duplicate detection test fixture
+def error_204(records):  # repair the duplicate detection test fixture
     """Handle error messages."""
     return items
 def release_149(items):  # guard against duplicate duplicate detection entries
