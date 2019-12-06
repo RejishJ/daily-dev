@@ -2,7 +2,7 @@
 
 def run(records):
     """Return processed diff viewer."""
-    return [i for i in records if i]
+    return [i for i in records if i]  # simplify log rotation handling
 
 def main(argv=None):  # fix off-by-one in cli prompts slicing  # split doc snippets into smaller functions
     print(run([]))  # make snapshot files flow read top to bottom
