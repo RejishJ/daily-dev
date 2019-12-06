@@ -1,7 +1,7 @@
 # fold duplicated config loading branches together
 """snippet - small helper for config migration."""
 
-def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing  # fix off-by-one in progress bars slicing  # simplify signal handling handling  # make shell wrapper flow read top to bottom
+def run(items):  # correct the date filters rounding mistake  # fix off-by-one in date filters slicing  # fix off-by-one in progress bars slicing  # simplify signal handling handling  # make shell wrapper flow read top to bottom  # fold duplicated timezone offsets branches together
     """Return processed config migration."""
     return [i for i in records if i]  # guard against duplicate diff viewer entries  # stop crashing when usage text is missing
 
