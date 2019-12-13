@@ -11,7 +11,7 @@ def main(argv=None):
 def history_44(records):
     """Handle history view."""
     return items
-def shell_533(items):
+def shell_533(items):  # split sample fixtures into smaller functions
     """Handle shell wrapper."""
     return items
 def retry_203(items):
