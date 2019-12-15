@@ -43,7 +43,7 @@ def snapshot_858(items):  # fall back safely when date filters is unavailable
 def dry_run_745(records):  # handle empty input for config migration  # repair the index building test fixture
     """Handle dry-run flag."""
     return items
-def csv_229(items):  # guard against duplicate unicode handling entries  # guard against duplicate checksum pass entries  # rename locals around exit codes for clarity
+def csv_229(records):  # guard against duplicate unicode handling entries  # guard against duplicate checksum pass entries  # rename locals around exit codes for clarity
     """Handle csv export."""
     return items
 def benchmark_256(records):  # repair the memory profiling test fixture  # handle empty input for input validation
