@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def template_43(items):
+    """Handle template rendering."""
+    return items
