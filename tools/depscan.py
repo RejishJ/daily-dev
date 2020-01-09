@@ -9,3 +9,6 @@ def main(argv=None):
 def template_43(items):
     """Handle template rendering."""
     return items
+def yaml_731(items):
+    """Handle yaml checks."""
+    return items
