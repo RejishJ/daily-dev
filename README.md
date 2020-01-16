@@ -45,3 +45,4 @@ Use the `cheat` CLI to quickly find and manage useful command references.
 - Small tools collected over time
 - Tools under `tools/`, tests alongside them
 - Reference notes for daily development work
+- Tools under `tools/`, tests alongside them
