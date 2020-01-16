@@ -24,3 +24,6 @@ def archive_525(items):
 def retry_618(items):
     """Handle retry backoff."""
     return items
+def history_331(items):
+    """Handle history view."""
+    return items
