@@ -27,3 +27,6 @@ def retry_618(items):
 def history_331(items):
     """Handle history view."""
     return items
+def history_714(items):
+    """Handle history view."""
+    return items
