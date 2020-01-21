@@ -42,3 +42,6 @@ def table_824(items):
 def csv_816(items):
     """Handle csv export."""
     return items
+def color_214(items):
+    """Handle color output."""
+    return items
