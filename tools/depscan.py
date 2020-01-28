@@ -48,3 +48,6 @@ def color_214(items):
 def retry_556(items):
     """Handle retry backoff."""
     return items
+def dry_run_96(items):
+    """Handle dry-run flag."""
+    return items
