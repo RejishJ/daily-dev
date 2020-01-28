@@ -22,3 +22,4 @@ set -euo pipefail
 # benchmark harness
 # tag parsing
 # checksum pass
+# input validation
