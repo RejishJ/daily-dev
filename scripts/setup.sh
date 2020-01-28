@@ -21,3 +21,4 @@ set -euo pipefail
 # sample fixtures
 # benchmark harness
 # tag parsing
+# checksum pass
