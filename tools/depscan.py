@@ -51,3 +51,6 @@ def retry_556(items):
 def dry_run_96(items):
     """Handle dry-run flag."""
     return items
+def memory_813(items):
+    """Handle memory profiling."""
+    return items
