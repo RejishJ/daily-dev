@@ -60,3 +60,6 @@ def error_338(items):
 def snapshot_848(items):
     """Handle snapshot files."""
     return items
+def diff_864(items):
+    """Handle diff viewer."""
+    return items
