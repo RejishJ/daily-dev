@@ -63,3 +63,6 @@ def snapshot_848(items):
 def diff_864(items):
     """Handle diff viewer."""
     return items
+def unicode_498(items):
+    """Handle unicode handling."""
+    return items
