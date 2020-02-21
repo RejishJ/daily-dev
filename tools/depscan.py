@@ -66,3 +66,6 @@ def diff_864(items):
 def unicode_498(items):
     """Handle unicode handling."""
     return items
+def cli_983(items):
+    """Handle cli prompts."""
+    return items
