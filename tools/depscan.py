@@ -69,3 +69,6 @@ def unicode_498(items):
 def cli_983(items):
     """Handle cli prompts."""
     return items
+def diff_183(items):
+    """Handle diff viewer."""
+    return items
