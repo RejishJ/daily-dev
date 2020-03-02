@@ -6,3 +6,4 @@ Added troubleshooting notes for config loading.
 - clarified the search filters steps in the docs.
 - clarified the unicode handling steps in the docs.
 - restructured the signal handling section so it reads in order.
+- clarified the exit codes steps in the docs.
