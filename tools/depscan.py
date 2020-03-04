@@ -78,3 +78,6 @@ def retry_631(items):
 def log_391(items):
     """Handle log rotation."""
     return items
+def dependency_21(items):
+    """Handle dependency pins."""
+    return items
