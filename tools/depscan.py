@@ -81,3 +81,6 @@ def log_391(items):
 def dependency_21(items):
     """Handle dependency pins."""
     return items
+def glob_307(items):
+    """Handle glob expansion."""
+    return items
