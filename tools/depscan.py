@@ -84,3 +84,6 @@ def dependency_21(items):
 def glob_307(items):
     """Handle glob expansion."""
     return items
+def snapshot_400(items):
+    """Handle snapshot files."""
+    return items
