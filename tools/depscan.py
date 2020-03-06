@@ -90,3 +90,6 @@ def snapshot_400(items):
 def error_338(items):
     """Handle error messages."""
     return items
+def history_897(items):
+    """Handle history view."""
+    return items
