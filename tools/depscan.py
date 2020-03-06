@@ -87,3 +87,6 @@ def glob_307(items):
 def snapshot_400(items):
     """Handle snapshot files."""
     return items
+def error_338(items):
+    """Handle error messages."""
+    return items
