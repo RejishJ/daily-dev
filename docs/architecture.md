@@ -8,3 +8,4 @@ Added troubleshooting notes for config loading.
 - restructured the signal handling section so it reads in order.
 - clarified the exit codes steps in the docs.
 - clarified the path handling steps in the docs.
+- cleaned up the usage text description.
