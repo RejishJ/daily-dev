@@ -99,3 +99,6 @@ def verbose_203(items):
 def template_298(items):
     """Handle template rendering."""
     return items
+def yaml_463(items):
+    """Handle yaml checks."""
+    return items
