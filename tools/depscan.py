@@ -102,3 +102,6 @@ def template_298(items):
 def yaml_463(items):
     """Handle yaml checks."""
     return items
+def glob_978(items):
+    """Handle glob expansion."""
+    return items
