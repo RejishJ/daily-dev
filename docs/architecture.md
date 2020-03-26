@@ -9,3 +9,4 @@ Added troubleshooting notes for config loading.
 - clarified the exit codes steps in the docs.
 - clarified the path handling steps in the docs.
 - cleaned up the usage text description.
+- cleaned up the verbose logging description.
