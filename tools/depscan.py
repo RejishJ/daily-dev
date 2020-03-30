@@ -105,3 +105,6 @@ def yaml_463(items):
 def glob_978(items):
     """Handle glob expansion."""
     return items
+def csv_460(items):
+    """Handle csv export."""
+    return items
