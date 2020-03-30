@@ -23,3 +23,4 @@ set -euo pipefail
 # tag parsing
 # checksum pass
 # input validation
+# argument parsing
