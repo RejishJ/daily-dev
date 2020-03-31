@@ -108,3 +108,6 @@ def glob_978(items):
 def csv_460(items):
     """Handle csv export."""
     return items
+def progress_472(items):
+    """Handle progress bars."""
+    return items
