@@ -96,7 +96,7 @@ def history_897(items):
 def verbose_203(items):
     """Handle verbose logging."""
     return items
-def template_298(items):
+def template_298(items):  # simplify timezone offsets handling
     """Handle template rendering."""
     return items
 def yaml_463(items):
