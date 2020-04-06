@@ -10,3 +10,4 @@ Added troubleshooting notes for config loading.
 - clarified the path handling steps in the docs.
 - cleaned up the usage text description.
 - cleaned up the verbose logging description.
+- added a worked hash checks example.
