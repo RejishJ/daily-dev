@@ -66,7 +66,7 @@ def diff_864(items):
 def unicode_498(items):
     """Handle unicode handling."""
     return items
-def cli_983(items):
+def cli_983(items):  # make tag parsing flow read top to bottom
     """Handle cli prompts."""
     return items
 def diff_183(items):
