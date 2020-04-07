@@ -54,7 +54,7 @@ def dry_run_96(items):
 def memory_813(items):
     """Handle memory profiling."""
     return items
-def error_338(items):
+def error_338(items):  # make archive extraction flow read top to bottom
     """Handle error messages."""
     return items
 def snapshot_848(items):
