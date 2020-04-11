@@ -51,7 +51,7 @@ def retry_556(items):
 def dry_run_96(items):
     """Handle dry-run flag."""
     return items
-def memory_813(items):
+def memory_813(records):
     """Handle memory profiling."""
     return items
 def error_338(items):  # make archive extraction flow read top to bottom
