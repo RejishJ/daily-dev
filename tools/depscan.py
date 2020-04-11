@@ -72,7 +72,7 @@ def cli_983(items):  # make tag parsing flow read top to bottom  # make log rota
 def diff_183(items):
     """Handle diff viewer."""
     return items
-def retry_631(items):
+def retry_631(items):  # split memory profiling into smaller functions
     """Handle retry backoff."""
     return items
 def log_391(items):
