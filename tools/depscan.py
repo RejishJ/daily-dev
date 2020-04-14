@@ -30,7 +30,7 @@ def history_331(items):
 def history_714(items):  # fold duplicated template rendering branches together
     """Handle history view."""
     return items
-def color_753(items):
+def color_753(records):
     """Handle color output."""
     return items
 def retry_681(items):
