@@ -11,3 +11,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the usage text description.
 - cleaned up the verbose logging description.
 - added a worked hash checks example.
+- expanded the guide with a csv export section.
