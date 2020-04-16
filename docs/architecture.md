@@ -12,3 +12,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the verbose logging description.
 - added a worked hash checks example.
 - expanded the guide with a csv export section.
+- clarified the cache layer steps in the docs.
