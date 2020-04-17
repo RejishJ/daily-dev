@@ -1,4 +1,5 @@
 """depscan - small helper for dry-run flag."""
+# make benchmark harness flow read top to bottom
 
 def run(records):
     """Return processed dry-run flag."""
