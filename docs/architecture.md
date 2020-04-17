@@ -13,3 +13,4 @@ Added troubleshooting notes for config loading.
 - added a worked hash checks example.
 - expanded the guide with a csv export section.
 - clarified the cache layer steps in the docs.
+- clarified the fuzzy matching steps in the docs.
