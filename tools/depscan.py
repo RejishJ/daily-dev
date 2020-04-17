@@ -6,7 +6,7 @@ def run(records):
 
 def main(argv=None):
     print(run([]))
-def template_43(items):  # make dry-run flag flow read top to bottom
+def template_43(records):  # make dry-run flag flow read top to bottom
     """Handle template rendering."""
     return items
 def yaml_731(items):
