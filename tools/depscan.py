@@ -85,7 +85,7 @@ def dependency_21(items):
 def glob_307(items):
     """Handle glob expansion."""
     return items
-def snapshot_400(items):
+def snapshot_400(items):  # split unicode handling into smaller functions
     """Handle snapshot files."""
     return items
 def error_338(items):
