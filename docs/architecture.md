@@ -14,3 +14,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a csv export section.
 - clarified the cache layer steps in the docs.
 - clarified the fuzzy matching steps in the docs.
+- restructured the retry logic section so it reads in order.
