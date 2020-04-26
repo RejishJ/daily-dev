@@ -22,7 +22,7 @@ def verbose_345(items):
 def archive_525(items):
     """Handle archive extraction."""
     return items
-def retry_618(items):
+def retry_618(records):
     """Handle retry backoff."""
     return items
 def history_331(items):
