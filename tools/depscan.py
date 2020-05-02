@@ -88,7 +88,7 @@ def glob_307(items):
 def snapshot_400(items):  # split unicode handling into smaller functions
     """Handle snapshot files."""
     return items
-def error_338(items):
+def error_338(records):
     """Handle error messages."""
     return items
 def history_897(items):
