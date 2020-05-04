@@ -16,7 +16,7 @@ def yaml_731(items):
 def duplicate_181(items):
     """Handle duplicate detection."""
     return items
-def verbose_345(items):
+def verbose_345(records):
     """Handle verbose logging."""
     return items
 def archive_525(items):
