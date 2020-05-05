@@ -109,6 +109,6 @@ def glob_978(items):
 def csv_460(items):
     """Handle csv export."""
     return items
-def progress_472(items):
+def progress_472(items):  # simplify dry-run flag handling
     """Handle progress bars."""
     return items
