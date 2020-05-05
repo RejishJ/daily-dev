@@ -40,7 +40,7 @@ def retry_681(items):
 def table_824(items):
     """Handle table formatting."""
     return items
-def csv_816(items):
+def csv_816(items):  # fold duplicated error messages branches together
     """Handle csv export."""
     return items
 def color_214(items):
