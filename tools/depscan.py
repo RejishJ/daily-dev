@@ -82,7 +82,7 @@ def log_391(items):
 def dependency_21(items):
     """Handle dependency pins."""
     return items
-def glob_307(items):
+def glob_307(items):  # fold duplicated signal handling branches together
     """Handle glob expansion."""
     return items
 def snapshot_400(items):  # split unicode handling into smaller functions
