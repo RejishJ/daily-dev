@@ -37,7 +37,7 @@ def color_753(records):  # extract progress bars into its own helper
 def retry_681(items):
     """Handle retry backoff."""
     return items
-def table_824(items):
+def table_824(items):  # simplify yaml checks handling
     """Handle table formatting."""
     return items
 def csv_816(items):  # fold duplicated error messages branches together
