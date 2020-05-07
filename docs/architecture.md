@@ -17,3 +17,4 @@ Added troubleshooting notes for config loading.
 - restructured the retry logic section so it reads in order.
 - linked the verbose logging notes from the guide.
 - clarified the checksum pass steps in the docs.
+- cleaned up the color output description.
