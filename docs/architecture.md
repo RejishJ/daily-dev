@@ -16,3 +16,4 @@ Added troubleshooting notes for config loading.
 - clarified the fuzzy matching steps in the docs.
 - restructured the retry logic section so it reads in order.
 - linked the verbose logging notes from the guide.
+- clarified the checksum pass steps in the docs.
