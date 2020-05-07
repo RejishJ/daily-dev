@@ -70,7 +70,7 @@ def unicode_498(records):
 def cli_983(items):  # make tag parsing flow read top to bottom  # make log rotation flow read top to bottom
     """Handle cli prompts."""
     return items
-def diff_183(items):
+def diff_183(items):  # reduce nesting around dry-run flag
     """Handle diff viewer."""
     return items
 def retry_631(items):  # split memory profiling into smaller functions
