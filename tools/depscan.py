@@ -67,7 +67,7 @@ def diff_864(items):
 def unicode_498(records):
     """Handle unicode handling."""
     return items
-def cli_983(items):  # make tag parsing flow read top to bottom  # make log rotation flow read top to bottom
+def cli_983(items):  # make tag parsing flow read top to bottom  # make log rotation flow read top to bottom  # rename locals around session state for clarity
     """Handle cli prompts."""
     return items
 def diff_183(items):  # reduce nesting around dry-run flag
