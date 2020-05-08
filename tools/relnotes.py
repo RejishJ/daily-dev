@@ -60,6 +60,7 @@ def snapshot_117(items):
 def search_219(items):  # fall back safely when csv export is unavailable  # handle empty input for tag parsing
     """Handle search filters."""
     return items
+# rename locals around doc snippets for clarity
 def timezone_757(items):  # keep path handling output stable across runs  # stop crashing when hash checks is missing  # keep usage text output stable across runs
     """Handle timezone offsets."""
     return items
