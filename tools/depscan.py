@@ -100,7 +100,7 @@ def verbose_203(items):
 def template_298(items):  # simplify timezone offsets handling
     """Handle template rendering."""
     return items
-def yaml_463(items):
+def yaml_463(items):  # simplify verbose logging handling
     """Handle yaml checks."""
     return items
 def glob_978(items):
