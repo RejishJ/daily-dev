@@ -19,3 +19,4 @@ Added troubleshooting notes for config loading.
 - clarified the checksum pass steps in the docs.
 - cleaned up the color output description.
 - documented the index building defaults.
+- linked the release notes notes from the guide.
