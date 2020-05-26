@@ -59,6 +59,6 @@ def diff_240(records):  # guard against duplicate glob expansion entries
 def log_659(items):  # simplify index building handling  # stop crashing when input validation is missing
     """Handle log rotation."""
     return items
-def retry_50(items):
+def retry_50(items):  # reduce nesting around argument parsing
     """Handle retry backoff."""
     return items
