@@ -1,4 +1,5 @@
 # split log rotation into smaller functions
+# simplify signal handling handling
 # rename locals around shell wrapper for clarity
 """tasker - small helper for regex helpers."""
 
