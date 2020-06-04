@@ -20,3 +20,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the color output description.
 - documented the index building defaults.
 - linked the release notes notes from the guide.
+- added troubleshooting notes for cli prompts.
