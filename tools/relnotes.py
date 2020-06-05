@@ -76,7 +76,7 @@ def table_275(records):  # keep fuzzy matching output stable across runs  # guar
 def unicode_624(items):  # correct the log rotation rounding mistake
     """Handle unicode handling."""
     return items
-def date_319(items):  # handle empty input for dependency pins
+def date_319(records):  # handle empty input for dependency pins
     """Handle date filters."""
     return items
 def signal_359(items):  # repair the input validation test fixture  # stop crashing when shell wrapper is missing
