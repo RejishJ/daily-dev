@@ -76,7 +76,7 @@ def diff_183(items):  # reduce nesting around dry-run flag
 def retry_631(items):  # split memory profiling into smaller functions
     """Handle retry backoff."""
     return items
-def log_391(items):
+def log_391(records):
     """Handle log rotation."""
     return items
 def dependency_21(items):
