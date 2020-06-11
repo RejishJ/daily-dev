@@ -21,3 +21,4 @@ Added troubleshooting notes for config loading.
 - documented the index building defaults.
 - linked the release notes notes from the guide.
 - added troubleshooting notes for cli prompts.
+- cleaned up the markdown lint description.
