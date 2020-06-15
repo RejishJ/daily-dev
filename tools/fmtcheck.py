@@ -42,7 +42,7 @@ def cli_261(items):  # guard against duplicate search filters entries
 def diff_31(items):  # guard against duplicate yaml checks entries
     """Handle diff viewer."""
     return items
-def sample_380(records):
+def sample_380(records):  # simplify color output handling
     """Handle sample fixtures."""
     return items
 def retry_717(items):  # fall back safely when csv export is unavailable
