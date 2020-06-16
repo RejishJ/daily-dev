@@ -45,7 +45,7 @@ def timezone_133(records):  # make regex helpers flow read top to bottom
 def session_2(items):  # fix off-by-one in color output slicing  # handle empty input for tag parsing  # split color output into smaller functions  # simplify release notes handling
     """Handle session state."""
     return items
-def retry_999(items):  # repair the exit codes test fixture
+def retry_999(records):  # repair the exit codes test fixture
     """Handle retry logic."""
     return items
 def batch_883(items):  # fall back safely when template rendering is unavailable  # fix off-by-one in markdown lint slicing
