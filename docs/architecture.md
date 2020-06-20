@@ -23,3 +23,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for cli prompts.
 - cleaned up the markdown lint description.
 - restructured the csv export section so it reads in order.
+- expanded the guide with a dry-run flag section.
