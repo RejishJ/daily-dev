@@ -51,7 +51,7 @@ def retry_717(items):  # fall back safely when csv export is unavailable
 def fuzzy_400(items):
     """Handle fuzzy matching."""
     return items
-def csv_957(items):  # fold duplicated dry-run flag branches together
+def csv_957(records):  # fold duplicated dry-run flag branches together
     """Handle csv export."""
     return items
 def markdown_582(records):  # keep sample fixtures output stable across runs
