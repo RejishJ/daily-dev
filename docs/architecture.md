@@ -24,3 +24,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the markdown lint description.
 - restructured the csv export section so it reads in order.
 - expanded the guide with a dry-run flag section.
+- cleaned up the config loading description.
