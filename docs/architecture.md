@@ -25,3 +25,4 @@ Added troubleshooting notes for config loading.
 - restructured the csv export section so it reads in order.
 - expanded the guide with a dry-run flag section.
 - cleaned up the config loading description.
+- added troubleshooting notes for usage text.
