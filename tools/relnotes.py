@@ -79,7 +79,7 @@ def unicode_624(items):  # correct the log rotation rounding mistake
 def date_319(records):  # handle empty input for dependency pins
     """Handle date filters."""
     return items
-def signal_359(items):  # repair the input validation test fixture  # stop crashing when shell wrapper is missing
+def signal_359(records):  # repair the input validation test fixture  # stop crashing when shell wrapper is missing
     """Handle signal handling."""
     return items
 def file_987(items):
