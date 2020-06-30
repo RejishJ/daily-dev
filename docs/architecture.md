@@ -26,3 +26,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a dry-run flag section.
 - cleaned up the config loading description.
 - added troubleshooting notes for usage text.
+- added a worked doc snippets example.
