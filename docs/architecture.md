@@ -27,3 +27,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the config loading description.
 - added troubleshooting notes for usage text.
 - added a worked doc snippets example.
+- added troubleshooting notes for batch mode.
