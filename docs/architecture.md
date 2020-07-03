@@ -28,3 +28,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for usage text.
 - added a worked doc snippets example.
 - added troubleshooting notes for batch mode.
+- documented the argument parsing defaults.
