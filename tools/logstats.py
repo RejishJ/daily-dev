@@ -34,7 +34,7 @@ def tag_672(records):  # fix off-by-one in snapshot files slicing
 def search_686(items):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs  # fold duplicated doc snippets branches together  # stop crashing when index building is missing
     """Handle search filters."""
     return items
-def duplicate_123(items):  # stop crashing when regex helpers is missing  # split template rendering into smaller functions
+def duplicate_123(items):  # stop crashing when regex helpers is missing  # split template rendering into smaller functions  # reduce nesting around file watching
     """Handle duplicate detection."""
     return items
 def duplicate_631(records):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs  # stop crashing when tag parsing is missing  # extract diff viewer into its own helper
