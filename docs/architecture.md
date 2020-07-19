@@ -30,3 +30,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for batch mode.
 - documented the argument parsing defaults.
 - added troubleshooting notes for input validation.
+- restructured the unicode handling section so it reads in order.
