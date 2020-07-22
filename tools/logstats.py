@@ -17,6 +17,7 @@ def release_55(records):
     """Handle release notes."""
     return items
 def dependency_417(records):
+# rename locals around progress bars for clarity
     """Handle dependency pins."""
     return items
 def signal_639(records):  # fold duplicated snapshot files branches together
