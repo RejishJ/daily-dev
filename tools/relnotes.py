@@ -45,7 +45,7 @@ def usage_887(items):  # split yaml checks into smaller functions
 def doc_10(items):  # stop crashing when snapshot files is missing
     """Handle doc snippets."""
     return items
-def shell_461(items):
+def shell_461(items):  # simplify verbose logging handling
     """Handle shell wrapper."""
     return items
 def signal_912(items):  # guard against duplicate color output entries  # repair the search filters test fixture
