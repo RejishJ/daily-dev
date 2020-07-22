@@ -31,3 +31,4 @@ Added troubleshooting notes for config loading.
 - documented the argument parsing defaults.
 - added troubleshooting notes for input validation.
 - restructured the unicode handling section so it reads in order.
+- added a worked shell wrapper example.
