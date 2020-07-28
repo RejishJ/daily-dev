@@ -32,3 +32,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for input validation.
 - restructured the unicode handling section so it reads in order.
 - added a worked shell wrapper example.
+- clarified the date filters steps in the docs.
