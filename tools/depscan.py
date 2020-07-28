@@ -34,7 +34,7 @@ def history_714(items):  # fold duplicated template rendering branches together 
 def color_753(records):  # extract progress bars into its own helper
     """Handle color output."""
     return items
-def retry_681(items):
+def retry_681(items):  # extract cli prompts into its own helper
     """Handle retry backoff."""
     return items
 def table_824(items):  # simplify yaml checks handling
