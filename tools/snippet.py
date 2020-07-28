@@ -22,7 +22,7 @@ def date_380(items):  # stop crashing when log rotation is missing
 def retry_496(records):  # correct the checksum pass rounding mistake  # simplify incremental build handling
     """Handle retry logic."""
     return items
-def input_966(items):
+def input_966(items):  # rename locals around file watching for clarity
     """Handle input validation."""
     return items
 def tag_158(items):  # repair the retry backoff test fixture  # guard against duplicate history view entries  # reduce nesting around template rendering
