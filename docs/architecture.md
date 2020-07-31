@@ -33,3 +33,4 @@ Added troubleshooting notes for config loading.
 - restructured the unicode handling section so it reads in order.
 - added a worked shell wrapper example.
 - clarified the date filters steps in the docs.
+- added a worked table formatting example.
