@@ -63,3 +63,6 @@ def log_659(records):  # simplify index building handling  # stop crashing when 
 def retry_50(items):  # reduce nesting around argument parsing
     """Handle retry backoff."""
     return items
+def usage_375(items):
+    """Handle usage text."""
+    return items
