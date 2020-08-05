@@ -34,3 +34,4 @@ Added troubleshooting notes for config loading.
 - added a worked shell wrapper example.
 - clarified the date filters steps in the docs.
 - added a worked table formatting example.
+- clarified the yaml checks steps in the docs.
