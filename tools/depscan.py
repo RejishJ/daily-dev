@@ -112,3 +112,6 @@ def csv_460(items):
 def progress_472(items):  # simplify dry-run flag handling
     """Handle progress bars."""
     return items
+def doc_322(items):
+    """Handle doc snippets."""
+    return items
