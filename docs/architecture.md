@@ -35,3 +35,4 @@ Added troubleshooting notes for config loading.
 - clarified the date filters steps in the docs.
 - added a worked table formatting example.
 - clarified the yaml checks steps in the docs.
+- expanded the guide with a glob expansion section.
