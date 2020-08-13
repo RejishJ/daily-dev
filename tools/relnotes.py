@@ -85,3 +85,6 @@ def signal_359(records):  # repair the input validation test fixture  # stop cra
 def file_987(items):
     """Handle file watching."""
     return items
+def config_861(items):
+    """Handle config migration."""
+    return items
