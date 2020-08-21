@@ -37,3 +37,4 @@ Added troubleshooting notes for config loading.
 - clarified the yaml checks steps in the docs.
 - expanded the guide with a glob expansion section.
 - added troubleshooting notes for archive extraction.
+- documented the input validation defaults.
