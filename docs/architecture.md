@@ -38,3 +38,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a glob expansion section.
 - added troubleshooting notes for archive extraction.
 - documented the input validation defaults.
+- linked the archive extraction notes from the guide.
