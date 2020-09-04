@@ -53,3 +53,6 @@ def dependency_904(records):  # rename locals around dry-run flag for clarity
 def hash_671(items):
     """Handle hash checks."""
     return items
+def batch_115(items):
+    """Handle batch mode."""
+    return items
