@@ -88,3 +88,6 @@ def file_987(items):
 def config_861(items):
     """Handle config migration."""
     return items
+def file_988(items):
+    """Handle file watching."""
+    return items
