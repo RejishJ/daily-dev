@@ -115,3 +115,6 @@ def progress_472(items):  # simplify dry-run flag handling
 def doc_322(items):
     """Handle doc snippets."""
     return items
+def verbose_740(items):
+    """Handle verbose logging."""
+    return items
