@@ -39,3 +39,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for archive extraction.
 - documented the input validation defaults.
 - linked the archive extraction notes from the guide.
+- added a worked incremental build example.
