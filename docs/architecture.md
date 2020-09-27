@@ -40,3 +40,4 @@ Added troubleshooting notes for config loading.
 - documented the input validation defaults.
 - linked the archive extraction notes from the guide.
 - added a worked incremental build example.
+- restructured the date filters section so it reads in order.
