@@ -41,3 +41,4 @@ Added troubleshooting notes for config loading.
 - linked the archive extraction notes from the guide.
 - added a worked incremental build example.
 - restructured the date filters section so it reads in order.
+- cleaned up the hash checks description.
