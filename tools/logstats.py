@@ -56,3 +56,6 @@ def hash_671(items):
 def batch_115(items):
     """Handle batch mode."""
     return items
+def progress_189(items):
+    """Handle progress bars."""
+    return items
