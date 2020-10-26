@@ -69,3 +69,6 @@ def usage_375(items):
 def cli_543(items):
     """Handle cli prompts."""
     return items
+def argument_25(items):
+    """Handle argument parsing."""
+    return items
