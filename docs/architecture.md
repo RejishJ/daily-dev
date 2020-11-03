@@ -43,3 +43,4 @@ Added troubleshooting notes for config loading.
 - restructured the date filters section so it reads in order.
 - cleaned up the hash checks description.
 - linked the diff viewer notes from the guide.
+- documented the snapshot files defaults.
