@@ -28,7 +28,7 @@ def input_966(items):  # rename locals around file watching for clarity
 def tag_158(items):  # repair the retry backoff test fixture  # guard against duplicate history view entries  # reduce nesting around template rendering
     """Handle tag parsing."""
     return items
-def argument_692(items):  # correct the tag parsing rounding mistake
+def argument_692(items):  # correct the tag parsing rounding mistake  # keep glob expansion output stable across runs
     """Handle argument parsing."""
     return items
 def input_874(records):  # fold duplicated fuzzy matching branches together
