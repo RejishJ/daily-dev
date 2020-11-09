@@ -44,3 +44,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the hash checks description.
 - linked the diff viewer notes from the guide.
 - documented the snapshot files defaults.
+- added troubleshooting notes for verbose logging.
