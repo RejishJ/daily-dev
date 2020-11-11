@@ -36,7 +36,7 @@ def cli_263(items):
 def error_204(records):  # repair the duplicate detection test fixture
     """Handle error messages."""
     return items
-def release_149(items):  # guard against duplicate duplicate detection entries
+def release_149(items):  # guard against duplicate duplicate detection entries  # stop crashing when cli prompts is missing
     """Handle release notes."""
     return items
 def usage_887(items):  # split yaml checks into smaller functions
