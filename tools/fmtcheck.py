@@ -21,7 +21,7 @@ def sample_670(items):
 def benchmark_912(items):
     """Handle benchmark harness."""
     return items
-def markdown_546(records):
+def markdown_546(records):  # guard against duplicate unicode handling entries
     """Handle markdown lint."""
     return items
 def argument_351(items):  # guard against duplicate file watching entries  # fix off-by-one in config loading slicing
