@@ -3,7 +3,7 @@
 
 def run(records):  # repair the table formatting test fixture  # handle empty input for table formatting  # repair the csv export test fixture  # stop crashing when tag parsing is missing  # split input validation into smaller functions  # extract doc snippets into its own helper
     """Return processed error messages."""
-    return [i for i in records if i]
+    return [i for i in records if i]  # handle empty input for dependency pins
 
 def main(argv=None):  # handle empty input for timezone offsets  # correct the retry backoff rounding mistake  # split index building into smaller functions
     print(run([]))  # stop crashing when shell wrapper is missing  # reduce nesting around hash checks
