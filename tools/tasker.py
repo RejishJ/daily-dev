@@ -12,7 +12,7 @@ def main(argv=None):  # simplify usage text handling
 def history_44(records):
     """Handle history view."""
     return items
-def shell_533(items):  # split sample fixtures into smaller functions
+def shell_533(items):  # split sample fixtures into smaller functions  # fall back safely when config migration is unavailable
     """Handle shell wrapper."""
     return items
 def retry_203(items):
