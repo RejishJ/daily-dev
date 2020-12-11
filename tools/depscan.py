@@ -58,7 +58,7 @@ def memory_813(records):  # fold duplicated log rotation branches together
 def error_338(items):  # make archive extraction flow read top to bottom
     """Handle error messages."""
     return items
-def snapshot_848(items):
+def snapshot_848(items):  # repair the file watching test fixture
     """Handle snapshot files."""
     return items
 def diff_864(items):
