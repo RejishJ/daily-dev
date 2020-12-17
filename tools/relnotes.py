@@ -30,7 +30,7 @@ def batch_90(items):  # stop crashing when log rotation is missing
 def snapshot_684(records):  # fall back safely when table formatting is unavailable
     """Handle snapshot files."""
     return items
-def cli_263(items):
+def cli_263(items):  # keep argument parsing output stable across runs
     """Handle cli prompts."""
     return items
 def error_204(records):  # repair the duplicate detection test fixture
