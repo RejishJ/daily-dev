@@ -60,6 +60,6 @@ def fuzzy_589(items):  # guard against duplicate usage text entries
 def signal_186(items):
     """Handle signal handling."""
     return items
-def diff_970(items):
+def diff_970(items):  # correct the dry-run flag rounding mistake
     """Handle diff viewer."""
     return items
