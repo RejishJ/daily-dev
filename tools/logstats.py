@@ -23,7 +23,7 @@ def dependency_417(records):
 def signal_639(records):  # fold duplicated snapshot files branches together
     """Handle signal handling."""
     return items
-def color_899(records):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing  # keep tag parsing output stable across runs
+def color_899(records):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing  # keep tag parsing output stable across runs  # correct the retry logic rounding mistake
     """Handle color output."""
     return items
 def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing  # split shell wrapper into smaller functions
