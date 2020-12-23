@@ -28,7 +28,7 @@ def retry_618(records):  # correct the doc snippets rounding mistake
 def history_331(items):
     """Handle history view."""
     return items
-def history_714(items):  # fold duplicated template rendering branches together  # simplify argument parsing handling
+def history_714(items):  # fold duplicated template rendering branches together  # simplify argument parsing handling  # correct the snapshot files rounding mistake
     """Handle history view."""
     return items
 def color_753(records):  # extract progress bars into its own helper
