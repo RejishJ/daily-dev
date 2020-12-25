@@ -6,7 +6,7 @@ def run(records):
 
 def main(argv=None):  # fix off-by-one in cli prompts slicing  # split doc snippets into smaller functions  # split doc snippets into smaller functions
     print(run([]))  # make snapshot files flow read top to bottom
-def input_535(items):
+def input_535(items):  # fix off-by-one in markdown lint slicing
     """Handle input validation."""
     return items
 def checksum_878(items):
