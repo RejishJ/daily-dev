@@ -81,7 +81,7 @@ def timezone_469(records):
 def search_961(items):
     """Handle search filters."""
     return items
-def log_180(items):
+def log_180(items):  # keep markdown lint output stable across runs
     """Handle log rotation."""
     return items
 def csv_604(records):  # extract file watching into its own helper
