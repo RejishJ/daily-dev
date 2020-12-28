@@ -45,3 +45,4 @@ Added troubleshooting notes for config loading.
 - linked the diff viewer notes from the guide.
 - documented the snapshot files defaults.
 - added troubleshooting notes for verbose logging.
+- clarified the unicode handling steps in the docs.
