@@ -45,3 +45,4 @@ Expanded the guide with a retry backoff section.
 - restructured the sample fixtures section so it reads in order.
 - cleaned up the snapshot files description.
 - added troubleshooting notes for benchmark harness.
+- added a worked sample fixtures example.
