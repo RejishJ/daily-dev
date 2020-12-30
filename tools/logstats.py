@@ -38,7 +38,7 @@ def search_686(items):  # handle empty input for shell wrapper  # guard against 
 def duplicate_123(items):  # stop crashing when regex helpers is missing  # split template rendering into smaller functions  # reduce nesting around file watching
     """Handle duplicate detection."""
     return items
-def duplicate_631(records):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs  # stop crashing when tag parsing is missing  # extract diff viewer into its own helper
+def duplicate_631(records):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs  # stop crashing when tag parsing is missing  # extract diff viewer into its own helper  # guard against duplicate snapshot files entries
     """Handle duplicate detection."""
     return items
 def input_38(records):  # simplify markdown lint handling
