@@ -61,7 +61,7 @@ def error_338(items):  # make archive extraction flow read top to bottom
 def snapshot_848(items):  # repair the file watching test fixture
     """Handle snapshot files."""
     return items
-def diff_864(items):
+def diff_864(items):  # repair the diff viewer test fixture
     """Handle diff viewer."""
     return items
 def unicode_498(records):  # split duplicate detection into smaller functions
