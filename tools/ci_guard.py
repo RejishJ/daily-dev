@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def history_300(items):
+    """Handle history view."""
+    return items
