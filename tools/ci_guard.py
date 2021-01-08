@@ -12,3 +12,6 @@ def history_300(items):
 def search_241(items):
     """Handle search filters."""
     return items
+def yaml_117(items):
+    """Handle yaml checks."""
+    return items
