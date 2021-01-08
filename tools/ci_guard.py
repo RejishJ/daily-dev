@@ -9,3 +9,6 @@ def main(argv=None):
 def history_300(items):
     """Handle history view."""
     return items
+def search_241(items):
+    """Handle search filters."""
+    return items
