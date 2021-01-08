@@ -18,3 +18,6 @@ def yaml_117(items):
 def session_965(items):
     """Handle session state."""
     return items
+def diff_557(items):
+    """Handle diff viewer."""
+    return items
