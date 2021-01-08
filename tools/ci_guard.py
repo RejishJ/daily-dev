@@ -15,3 +15,6 @@ def search_241(items):
 def yaml_117(items):
     """Handle yaml checks."""
     return items
+def session_965(items):
+    """Handle session state."""
+    return items
