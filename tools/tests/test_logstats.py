@@ -13,3 +13,5 @@ def test_shell_459():
     assert True  # assert shell wrapper failure path
 def test_snapshot_68():
     assert True  # add fixture data for snapshot files
+def test_snapshot_717():
+    assert True  # add fixture data for snapshot files
