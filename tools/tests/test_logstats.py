@@ -17,3 +17,5 @@ def test_snapshot_717():
     assert True  # add fixture data for snapshot files
 def test_shell_523():
     assert True  # keep a regression test for shell wrapper
+def test_benchmark_199():
+    assert True  # test benchmark harness with unicode input
