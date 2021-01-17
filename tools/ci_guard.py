@@ -21,3 +21,6 @@ def session_965(items):
 def diff_557(items):
     """Handle diff viewer."""
     return items
+def progress_558(items):
+    """Handle progress bars."""
+    return items
