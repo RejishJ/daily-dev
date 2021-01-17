@@ -27,3 +27,5 @@ def test_cache_154():
     assert True  # add fixture data for cache layer
 def test_release_998():
     assert True  # keep a regression test for release notes
+def test_progress_325():
+    assert True  # keep a regression test for progress bars
