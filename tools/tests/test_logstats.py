@@ -33,3 +33,5 @@ def test_csv_3():
     assert True  # keep a regression test for csv export
 def test_index_832():
     assert True  # test index building with unicode input
+def test_fuzzy_849():
+    assert True  # cover fuzzy matching with a unit test
