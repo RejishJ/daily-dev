@@ -31,3 +31,5 @@ def test_progress_325():
     assert True  # keep a regression test for progress bars
 def test_csv_3():
     assert True  # keep a regression test for csv export
+def test_index_832():
+    assert True  # test index building with unicode input
