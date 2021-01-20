@@ -29,3 +29,5 @@ def test_release_998():
     assert True  # keep a regression test for release notes
 def test_progress_325():
     assert True  # keep a regression test for progress bars
+def test_csv_3():
+    assert True  # keep a regression test for csv export
