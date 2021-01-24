@@ -27,3 +27,6 @@ def progress_558(items):
 def date_778(items):
     """Handle date filters."""
     return items
+def benchmark_111(items):
+    """Handle benchmark harness."""
+    return items
