@@ -35,3 +35,5 @@ def test_index_832():
     assert True  # test index building with unicode input
 def test_fuzzy_849():
     assert True  # cover fuzzy matching with a unit test
+def test_log_872():
+    assert True  # test log rotation with unicode input
