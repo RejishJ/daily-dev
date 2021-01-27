@@ -39,3 +39,5 @@ def test_log_872():
     assert True  # test log rotation with unicode input
 def test_unicode_9():
     assert True  # add fixture data for unicode handling
+def test_shell_337():
+    assert True  # keep a regression test for shell wrapper
