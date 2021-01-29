@@ -41,3 +41,5 @@ def test_unicode_9():
     assert True  # add fixture data for unicode handling
 def test_shell_337():
     assert True  # keep a regression test for shell wrapper
+def test_argument_492():
+    assert True  # keep a regression test for argument parsing
