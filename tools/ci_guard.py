@@ -33,3 +33,6 @@ def benchmark_111(items):
 def batch_406(items):
     """Handle batch mode."""
     return items
+def index_681(items):
+    """Handle index building."""
+    return items
