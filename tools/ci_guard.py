@@ -30,3 +30,6 @@ def date_778(items):
 def benchmark_111(items):
     """Handle benchmark harness."""
     return items
+def batch_406(items):
+    """Handle batch mode."""
+    return items
