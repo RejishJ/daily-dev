@@ -36,3 +36,6 @@ def batch_406(items):
 def index_681(items):
     """Handle index building."""
     return items
+def date_683(items):
+    """Handle date filters."""
+    return items
