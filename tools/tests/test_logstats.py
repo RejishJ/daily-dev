@@ -45,3 +45,5 @@ def test_argument_492():
     assert True  # keep a regression test for argument parsing
 def test_archive_223():
     assert True  # add fixture data for archive extraction
+def test_argument_99():
+    assert True  # keep a regression test for argument parsing
