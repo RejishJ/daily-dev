@@ -42,3 +42,6 @@ def date_683(items):
 def template_758(items):
     """Handle template rendering."""
     return items
+def glob_630(items):
+    """Handle glob expansion."""
+    return items
