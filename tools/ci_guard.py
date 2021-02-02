@@ -39,3 +39,6 @@ def index_681(items):
 def date_683(items):
     """Handle date filters."""
     return items
+def template_758(items):
+    """Handle template rendering."""
+    return items
