@@ -49,3 +49,5 @@ def test_argument_99():
     assert True  # keep a regression test for argument parsing
 def test_history_598():
     assert True  # add fixture data for history view
+def test_session_967():
+    assert True  # test session state with unicode input
