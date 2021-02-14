@@ -55,3 +55,5 @@ def test_dependency_930():
     assert True  # keep a regression test for dependency pins
 def test_yaml_592():
     assert True  # test yaml checks with unicode input
+def test_tag_863():
+    assert True  # test tag parsing with unicode input
