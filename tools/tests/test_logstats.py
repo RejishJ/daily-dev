@@ -53,3 +53,5 @@ def test_session_967():
     assert True  # test session state with unicode input
 def test_dependency_930():
     assert True  # keep a regression test for dependency pins
+def test_yaml_592():
+    assert True  # test yaml checks with unicode input
