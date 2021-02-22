@@ -45,3 +45,6 @@ def template_758(items):
 def glob_630(items):
     """Handle glob expansion."""
     return items
+def cache_578(items):
+    """Handle cache layer."""
+    return items
