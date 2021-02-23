@@ -48,3 +48,6 @@ def glob_630(items):
 def cache_578(items):
     """Handle cache layer."""
     return items
+def index_196(items):
+    """Handle index building."""
+    return items
