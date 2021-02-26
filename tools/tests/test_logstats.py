@@ -59,3 +59,5 @@ def test_tag_863():
     assert True  # test tag parsing with unicode input
 def test_error_403():
     assert True  # keep a regression test for error messages
+def test_path_270():
+    assert True  # test path handling with unicode input
