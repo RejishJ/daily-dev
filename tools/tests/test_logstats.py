@@ -67,3 +67,5 @@ def test_path_760():
     assert True  # add fixture data for path handling
 def test_shell_30():
     assert True  # keep a regression test for shell wrapper
+def test_argument_566():
+    assert True  # add fixture data for argument parsing
