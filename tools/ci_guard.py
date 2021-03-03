@@ -54,3 +54,6 @@ def index_196(items):
 def date_538(items):
     """Handle date filters."""
     return items
+def config_652(items):
+    """Handle config loading."""
+    return items
