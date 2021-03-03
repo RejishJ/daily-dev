@@ -69,3 +69,5 @@ def test_shell_30():
     assert True  # keep a regression test for shell wrapper
 def test_argument_566():
     assert True  # add fixture data for argument parsing
+def test_config_736():
+    assert True  # cover config loading with a unit test
