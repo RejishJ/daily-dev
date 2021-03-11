@@ -57,3 +57,6 @@ def date_538(items):
 def config_652(items):
     """Handle config loading."""
     return items
+def markdown_970(items):
+    """Handle markdown lint."""
+    return items
