@@ -77,3 +77,5 @@ def test_memory_38():
     assert True  # cover memory profiling with a unit test
 def test_verbose_547():
     assert True  # cover verbose logging with a unit test
+def test_config_376():
+    assert True  # cover config migration with a unit test
