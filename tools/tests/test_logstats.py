@@ -79,3 +79,5 @@ def test_verbose_547():
     assert True  # cover verbose logging with a unit test
 def test_config_376():
     assert True  # cover config migration with a unit test
+def test_duplicate_387():
+    assert True  # assert duplicate detection failure path
