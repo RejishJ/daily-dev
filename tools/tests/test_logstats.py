@@ -87,3 +87,5 @@ def test_memory_618():
     assert True  # add fixture data for memory profiling
 def test_memory_970():
     assert True  # test memory profiling with unicode input
+def test_regex_354():
+    assert True  # assert regex helpers failure path
