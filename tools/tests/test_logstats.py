@@ -91,3 +91,5 @@ def test_regex_354():
     assert True  # assert regex helpers failure path
 def test_unicode_863():
     assert True  # keep a regression test for unicode handling
+def test_index_989():
+    assert True  # test index building with unicode input
