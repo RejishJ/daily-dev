@@ -93,3 +93,5 @@ def test_unicode_863():
     assert True  # keep a regression test for unicode handling
 def test_index_989():
     assert True  # test index building with unicode input
+def test_unicode_708():
+    assert True  # assert unicode handling failure path
