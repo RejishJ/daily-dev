@@ -60,3 +60,6 @@ def config_652(items):
 def markdown_970(items):
     """Handle markdown lint."""
     return items
+def csv_840(items):
+    """Handle csv export."""
+    return items
