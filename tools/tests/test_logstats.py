@@ -101,3 +101,5 @@ def test_path_662():
     assert True  # add fixture data for path handling
 def test_table_894():
     assert True  # test table formatting with unicode input
+def test_log_838():
+    assert True  # test log rotation with unicode input
