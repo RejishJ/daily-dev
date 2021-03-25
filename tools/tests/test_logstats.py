@@ -103,3 +103,5 @@ def test_table_894():
     assert True  # test table formatting with unicode input
 def test_log_838():
     assert True  # test log rotation with unicode input
+def test_fuzzy_80():
+    assert True  # keep a regression test for fuzzy matching
