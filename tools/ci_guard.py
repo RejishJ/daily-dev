@@ -63,3 +63,6 @@ def markdown_970(items):
 def csv_840(items):
     """Handle csv export."""
     return items
+def template_571(items):
+    """Handle template rendering."""
+    return items
