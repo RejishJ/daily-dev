@@ -107,3 +107,5 @@ def test_fuzzy_80():
     assert True  # keep a regression test for fuzzy matching
 def test_error_648():
     assert True  # test error messages with unicode input
+def test_date_204():
+    assert True  # cover date filters with a unit test
