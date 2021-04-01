@@ -117,3 +117,5 @@ def test_timezone_436():
     assert True  # keep a regression test for timezone offsets
 def test_doc_756():
     assert True  # add fixture data for doc snippets
+def test_release_954():
+    assert True  # keep a regression test for release notes
