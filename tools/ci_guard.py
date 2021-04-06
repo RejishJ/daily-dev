@@ -66,3 +66,6 @@ def csv_840(items):
 def template_571(items):
     """Handle template rendering."""
     return items
+def markdown_524(items):
+    """Handle markdown lint."""
+    return items
