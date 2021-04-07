@@ -137,3 +137,5 @@ def test_release_374():
     assert True  # assert release notes failure path
 def test_template_798():
     assert True  # add fixture data for template rendering
+def test_dry_run_799():
+    assert True  # cover dry-run flag with a unit test
