@@ -133,3 +133,5 @@ def test_dry_run_574():
     assert True  # add fixture data for dry-run flag
 def test_cache_618():
     assert True  # cover cache layer with a unit test
+def test_release_374():
+    assert True  # assert release notes failure path
