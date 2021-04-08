@@ -6,3 +6,4 @@ Documented the hash checks defaults.
 - linked the doc snippets notes from the guide.
 - linked the exit codes notes from the guide.
 - documented the hash checks defaults.
+- added a worked color output example.
