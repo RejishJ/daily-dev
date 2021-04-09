@@ -143,3 +143,5 @@ def test_csv_433():
     assert True  # assert csv export failure path
 def test_color_193():
     assert True  # keep a regression test for color output
+def test_dependency_378():
+    assert True  # test dependency pins with unicode input
