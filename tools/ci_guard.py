@@ -69,3 +69,6 @@ def template_571(items):
 def markdown_524(items):
     """Handle markdown lint."""
     return items
+def markdown_467(items):
+    """Handle markdown lint."""
+    return items
