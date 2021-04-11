@@ -72,3 +72,6 @@ def markdown_524(items):
 def markdown_467(items):
     """Handle markdown lint."""
     return items
+def file_748(items):
+    """Handle file watching."""
+    return items
