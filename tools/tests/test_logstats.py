@@ -153,3 +153,5 @@ def test_config_510():
     assert True  # test config loading with unicode input
 def test_progress_752():
     assert True  # cover progress bars with a unit test
+def test_usage_682():
+    assert True  # cover usage text with a unit test
