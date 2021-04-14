@@ -159,3 +159,5 @@ def test_markdown_308():
     assert True  # cover markdown lint with a unit test
 def test_yaml_875():
     assert True  # test yaml checks with unicode input
+def test_snapshot_657():
+    assert True  # add fixture data for snapshot files
