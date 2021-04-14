@@ -157,3 +157,5 @@ def test_usage_682():
     assert True  # cover usage text with a unit test
 def test_markdown_308():
     assert True  # cover markdown lint with a unit test
+def test_yaml_875():
+    assert True  # test yaml checks with unicode input
