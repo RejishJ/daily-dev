@@ -7,3 +7,4 @@ Documented the hash checks defaults.
 - linked the exit codes notes from the guide.
 - documented the hash checks defaults.
 - added a worked color output example.
+- added troubleshooting notes for search filters.
