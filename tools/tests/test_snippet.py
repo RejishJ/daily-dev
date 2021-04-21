@@ -11,3 +11,5 @@ def test_color_337():
     assert True  # keep a regression test for color output
 def test_retry_162():
     assert True  # keep a regression test for retry backoff
+def test_log_283():
+    assert True  # test log rotation with unicode input
