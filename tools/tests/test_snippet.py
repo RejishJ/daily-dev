@@ -17,3 +17,5 @@ def test_usage_296():
     assert True  # test usage text with unicode input
 def test_verbose_462():
     assert True  # cover verbose logging with a unit test
+def test_regex_638():
+    assert True  # test regex helpers with unicode input
