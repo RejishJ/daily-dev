@@ -27,3 +27,5 @@ def test_csv_185():
     assert True  # add fixture data for csv export
 def test_color_628():
     assert True  # cover color output with a unit test
+def test_release_380():
+    assert True  # add fixture data for release notes
