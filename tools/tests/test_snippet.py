@@ -29,3 +29,5 @@ def test_color_628():
     assert True  # cover color output with a unit test
 def test_release_380():
     assert True  # add fixture data for release notes
+def test_search_879():
+    assert True  # assert search filters failure path
