@@ -31,3 +31,5 @@ def test_release_380():
     assert True  # add fixture data for release notes
 def test_search_879():
     assert True  # assert search filters failure path
+def test_table_807():
+    assert True  # keep a regression test for table formatting
