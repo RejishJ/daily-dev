@@ -81,3 +81,6 @@ def retry_701(items):
 def csv_831(items):
     """Handle csv export."""
     return items
+def error_512(items):
+    """Handle error messages."""
+    return items
