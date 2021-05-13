@@ -8,3 +8,4 @@ Documented the hash checks defaults.
 - documented the hash checks defaults.
 - added a worked color output example.
 - added troubleshooting notes for search filters.
+- added a worked progress bars example.
