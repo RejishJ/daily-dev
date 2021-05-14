@@ -87,3 +87,6 @@ def error_512(items):
 def usage_253(items):
     """Handle usage text."""
     return items
+def error_997(items):
+    """Handle error messages."""
+    return items
