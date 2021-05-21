@@ -93,3 +93,6 @@ def error_997(items):
 def sample_94(items):
     """Handle sample fixtures."""
     return items
+def regex_146(items):
+    """Handle regex helpers."""
+    return items
