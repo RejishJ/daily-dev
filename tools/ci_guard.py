@@ -96,3 +96,6 @@ def sample_94(items):
 def regex_146(items):
     """Handle regex helpers."""
     return items
+def template_303(items):
+    """Handle template rendering."""
+    return items
