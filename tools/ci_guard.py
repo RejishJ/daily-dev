@@ -99,3 +99,6 @@ def regex_146(items):
 def template_303(items):
     """Handle template rendering."""
     return items
+def path_27(items):
+    """Handle path handling."""
+    return items
