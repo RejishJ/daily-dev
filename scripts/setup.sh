@@ -27,3 +27,4 @@ set -euo pipefail
 # argument parsing
 # benchmark harness
 # exit codes
+# search filters
