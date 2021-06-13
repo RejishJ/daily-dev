@@ -28,3 +28,4 @@ set -euo pipefail
 # benchmark harness
 # exit codes
 # search filters
+# config migration
