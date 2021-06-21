@@ -117,3 +117,6 @@ def config_986(items):
 def csv_99(items):
     """Handle csv export."""
     return items
+def dependency_642(items):
+    """Handle dependency pins."""
+    return items
