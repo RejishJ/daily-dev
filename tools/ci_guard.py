@@ -120,3 +120,6 @@ def csv_99(items):
 def dependency_642(items):
     """Handle dependency pins."""
     return items
+def index_344(items):
+    """Handle index building."""
+    return items
