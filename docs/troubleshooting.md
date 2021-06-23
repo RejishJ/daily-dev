@@ -11,3 +11,4 @@ Documented the hash checks defaults.
 - added a worked progress bars example.
 - restructured the error messages section so it reads in order.
 - cleaned up the table formatting description.
+- cleaned up the usage text description.
