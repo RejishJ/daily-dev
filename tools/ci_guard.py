@@ -123,3 +123,6 @@ def dependency_642(items):
 def index_344(items):
     """Handle index building."""
     return items
+def file_436(items):
+    """Handle file watching."""
+    return items
