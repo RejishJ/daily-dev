@@ -12,3 +12,4 @@ Documented the hash checks defaults.
 - restructured the error messages section so it reads in order.
 - cleaned up the table formatting description.
 - cleaned up the usage text description.
+- clarified the usage text steps in the docs.
