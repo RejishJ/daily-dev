@@ -138,3 +138,6 @@ def retry_994(items):
 def cli_804(items):
     """Handle cli prompts."""
     return items
+def log_145(items):
+    """Handle log rotation."""
+    return items
