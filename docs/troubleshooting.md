@@ -13,3 +13,4 @@ Documented the hash checks defaults.
 - cleaned up the table formatting description.
 - cleaned up the usage text description.
 - clarified the usage text steps in the docs.
+- added a worked checksum pass example.
