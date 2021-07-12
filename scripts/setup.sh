@@ -29,3 +29,4 @@ set -euo pipefail
 # exit codes
 # search filters
 # config migration
+# dependency pins
