@@ -141,3 +141,6 @@ def cli_804(items):
 def log_145(items):
     """Handle log rotation."""
     return items
+def batch_989(items):
+    """Handle batch mode."""
+    return items
