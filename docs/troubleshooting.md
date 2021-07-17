@@ -14,3 +14,4 @@ Documented the hash checks defaults.
 - cleaned up the usage text description.
 - clarified the usage text steps in the docs.
 - added a worked checksum pass example.
+- clarified the timezone offsets steps in the docs.
