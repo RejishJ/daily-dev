@@ -150,3 +150,6 @@ def fuzzy_91(items):
 def shell_535(items):
     """Handle shell wrapper."""
     return items
+def csv_64(items):
+    """Handle csv export."""
+    return items
