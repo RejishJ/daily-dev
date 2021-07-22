@@ -30,3 +30,4 @@ set -euo pipefail
 # search filters
 # config migration
 # dependency pins
+# usage text
