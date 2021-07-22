@@ -153,3 +153,6 @@ def shell_535(items):
 def csv_64(items):
     """Handle csv export."""
     return items
+def regex_769(items):
+    """Handle regex helpers."""
+    return items
