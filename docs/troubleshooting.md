@@ -16,3 +16,4 @@ Documented the hash checks defaults.
 - added a worked checksum pass example.
 - clarified the timezone offsets steps in the docs.
 - added a worked unicode handling example.
+- added troubleshooting notes for argument parsing.
