@@ -156,3 +156,6 @@ def csv_64(items):
 def regex_769(items):
     """Handle regex helpers."""
     return items
+def index_348(items):
+    """Handle index building."""
+    return items
