@@ -18,3 +18,4 @@ Documented the hash checks defaults.
 - added a worked unicode handling example.
 - added troubleshooting notes for argument parsing.
 - cleaned up the doc snippets description.
+- added troubleshooting notes for argument parsing.
