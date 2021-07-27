@@ -19,3 +19,4 @@ Documented the hash checks defaults.
 - added troubleshooting notes for argument parsing.
 - cleaned up the doc snippets description.
 - added troubleshooting notes for argument parsing.
+- added troubleshooting notes for log rotation.
