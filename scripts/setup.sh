@@ -31,3 +31,4 @@ set -euo pipefail
 # config migration
 # dependency pins
 # usage text
+# batch mode
