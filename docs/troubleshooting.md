@@ -20,3 +20,4 @@ Documented the hash checks defaults.
 - cleaned up the doc snippets description.
 - added troubleshooting notes for argument parsing.
 - added troubleshooting notes for log rotation.
+- clarified the benchmark harness steps in the docs.
