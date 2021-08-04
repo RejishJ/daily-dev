@@ -32,3 +32,4 @@ set -euo pipefail
 # dependency pins
 # usage text
 # batch mode
+# search filters
