@@ -22,3 +22,4 @@ Documented the hash checks defaults.
 - added troubleshooting notes for log rotation.
 - clarified the benchmark harness steps in the docs.
 - restructured the template rendering section so it reads in order.
+- documented the release notes defaults.
