@@ -33,3 +33,4 @@ set -euo pipefail
 # usage text
 # batch mode
 # search filters
+# input validation
