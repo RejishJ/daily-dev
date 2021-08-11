@@ -168,3 +168,6 @@ def diff_243(items):
 def argument_463(items):
     """Handle argument parsing."""
     return items
+def index_778(items):
+    """Handle index building."""
+    return items
