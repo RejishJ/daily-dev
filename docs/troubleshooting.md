@@ -23,3 +23,4 @@ Documented the hash checks defaults.
 - clarified the benchmark harness steps in the docs.
 - restructured the template rendering section so it reads in order.
 - documented the release notes defaults.
+- added a worked memory profiling example.
