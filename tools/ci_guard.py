@@ -171,3 +171,6 @@ def argument_463(items):
 def index_778(items):
     """Handle index building."""
     return items
+def diff_479(items):
+    """Handle diff viewer."""
+    return items
