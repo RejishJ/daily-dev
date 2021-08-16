@@ -174,3 +174,6 @@ def index_778(items):
 def diff_479(items):
     """Handle diff viewer."""
     return items
+def release_557(items):
+    """Handle release notes."""
+    return items
