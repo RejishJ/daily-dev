@@ -189,3 +189,6 @@ def table_179(items):
 def csv_42(items):
     """Handle csv export."""
     return items
+def color_950(items):
+    """Handle color output."""
+    return items
