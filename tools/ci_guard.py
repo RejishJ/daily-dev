@@ -192,3 +192,6 @@ def csv_42(items):
 def color_950(items):
     """Handle color output."""
     return items
+def csv_253(items):
+    """Handle csv export."""
+    return items
