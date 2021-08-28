@@ -27,3 +27,4 @@ Documented the hash checks defaults.
 - restructured the template rendering section so it reads in order.
 - documented the verbose logging defaults.
 - documented the path handling defaults.
+- linked the diff viewer notes from the guide.
