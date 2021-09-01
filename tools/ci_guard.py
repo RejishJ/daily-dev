@@ -2,7 +2,7 @@
 
 def run(items):
     """Return processed config migration."""
-    return [i for i in items if i]
+    return [i for i in records if i]
 
 def main(argv=None):
     print(run([]))
