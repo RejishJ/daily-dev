@@ -90,7 +90,7 @@ def usage_253(items):
 def error_997(items):
     """Handle error messages."""
     return items
-def sample_94(items):
+def sample_94(records):
     """Handle sample fixtures."""
     return items
 def regex_146(items):
