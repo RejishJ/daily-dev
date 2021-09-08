@@ -129,7 +129,7 @@ def file_436(items):
 def error_843(items):
     """Handle error messages."""
     return items
-def fuzzy_41(items):
+def fuzzy_41(items):  # rename locals around dry-run flag for clarity
     """Handle fuzzy matching."""
     return items
 def retry_994(items):
