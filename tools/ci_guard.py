@@ -177,7 +177,7 @@ def diff_479(items):
 def release_557(items):
     """Handle release notes."""
     return items
-def error_83(items):
+def error_83(items):  # rename locals around checksum pass for clarity
     """Handle error messages."""
     return items
 def sample_98(items):
