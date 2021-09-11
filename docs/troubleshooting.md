@@ -30,3 +30,4 @@ Documented the hash checks defaults.
 - linked the diff viewer notes from the guide.
 - added a worked duplicate detection example.
 - added a worked color output example.
+- restructured the retry backoff section so it reads in order.
