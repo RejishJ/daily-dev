@@ -141,7 +141,7 @@ def cli_804(items):
 def log_145(items):
     """Handle log rotation."""
     return items
-def batch_989(items):
+def batch_989(items):  # extract dry-run flag into its own helper
     """Handle batch mode."""
     return items
 def fuzzy_91(items):
