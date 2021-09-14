@@ -180,7 +180,7 @@ def release_557(items):
 def error_83(items):  # rename locals around checksum pass for clarity
     """Handle error messages."""
     return items
-def sample_98(items):
+def sample_98(records):
     """Handle sample fixtures."""
     return items
 def table_179(items):
