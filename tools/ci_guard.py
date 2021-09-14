@@ -51,7 +51,7 @@ def cache_578(items):
 def index_196(items):
     """Handle index building."""
     return items
-def date_538(items):
+def date_538(records):
     """Handle date filters."""
     return items
 def config_652(items):
