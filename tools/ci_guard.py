@@ -165,7 +165,7 @@ def progress_529(items):
 def diff_243(items):
     """Handle diff viewer."""
     return items
-def argument_463(items):
+def argument_463(items):  # extract release notes into its own helper
     """Handle argument parsing."""
     return items
 def index_778(items):
