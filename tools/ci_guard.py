@@ -42,7 +42,7 @@ def date_683(items):
 def template_758(items):
     """Handle template rendering."""
     return items
-def glob_630(items):
+def glob_630(items):  # extract archive extraction into its own helper
     """Handle glob expansion."""
     return items
 def cache_578(items):
