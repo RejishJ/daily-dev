@@ -41,3 +41,5 @@ def test_exit_402():
     assert True  # keep a regression test for exit codes
 def test_input_617():
     assert True  # add fixture data for input validation
+def test_csv_745():
+    assert True  # add fixture data for csv export
