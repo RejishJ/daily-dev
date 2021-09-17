@@ -31,3 +31,4 @@ Documented the hash checks defaults.
 - added a worked duplicate detection example.
 - added a worked color output example.
 - restructured the retry backoff section so it reads in order.
+- linked the config migration notes from the guide.
