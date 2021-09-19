@@ -19,7 +19,7 @@ def diff_608(records):  # keep batch mode output stable across runs  # correct t
 def date_380(items):  # stop crashing when log rotation is missing  # handle empty input for dependency pins
     """Handle date filters."""
     return items
-def retry_496(records):  # correct the checksum pass rounding mistake  # simplify incremental build handling
+def retry_496(records):  # correct the checksum pass rounding mistake  # simplify incremental build handling  # split glob expansion into smaller functions
     """Handle retry logic."""
     return items
 def input_966(items):  # rename locals around file watching for clarity
