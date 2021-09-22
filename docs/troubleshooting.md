@@ -33,3 +33,4 @@ Documented the hash checks defaults.
 - restructured the retry backoff section so it reads in order.
 - linked the config migration notes from the guide.
 - added troubleshooting notes for shell wrapper.
+- documented the session state defaults.
