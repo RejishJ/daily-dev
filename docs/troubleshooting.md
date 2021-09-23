@@ -34,3 +34,4 @@ Documented the hash checks defaults.
 - linked the config migration notes from the guide.
 - added troubleshooting notes for shell wrapper.
 - documented the session state defaults.
+- cleaned up the template rendering description.
