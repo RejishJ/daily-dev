@@ -45,3 +45,5 @@ def test_csv_745():
     assert True  # add fixture data for csv export
 def test_release_521():
     assert True  # add fixture data for release notes
+def test_yaml_190():
+    assert True  # cover yaml checks with a unit test
