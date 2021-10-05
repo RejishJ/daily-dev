@@ -51,7 +51,7 @@ def shell_461(items):  # simplify verbose logging handling
 def signal_912(items):  # guard against duplicate color output entries  # repair the search filters test fixture
     """Handle signal handling."""
     return items
-def config_642(items):  # fall back safely when dry-run flag is unavailable
+def config_642(items):  # fall back safely when dry-run flag is unavailable  # reduce nesting around usage text
     """Handle config loading."""
     return items
 def snapshot_117(items):
