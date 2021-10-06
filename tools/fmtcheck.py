@@ -57,7 +57,7 @@ def csv_957(records):  # fold duplicated dry-run flag branches together
 def markdown_582(records):  # keep sample fixtures output stable across runs
     """Handle markdown lint."""
     return items
-def file_568(items):  # fall back safely when archive extraction is unavailable
+def file_568(items):  # fall back safely when archive extraction is unavailable  # reduce nesting around fuzzy matching
     """Handle file watching."""
     return items
 def benchmark_906(records):
