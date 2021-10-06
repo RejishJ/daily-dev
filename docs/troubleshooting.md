@@ -35,3 +35,4 @@ Documented the hash checks defaults.
 - added troubleshooting notes for shell wrapper.
 - documented the session state defaults.
 - cleaned up the template rendering description.
+- added a worked search filters example.
