@@ -36,3 +36,4 @@ Documented the hash checks defaults.
 - documented the session state defaults.
 - cleaned up the template rendering description.
 - added a worked search filters example.
+- cleaned up the index building description.
