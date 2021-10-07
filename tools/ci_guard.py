@@ -6,7 +6,7 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
-def history_300(items):
+def history_300(items):  # make session state flow read top to bottom
     """Handle history view."""
     return items
 def search_241(items):
