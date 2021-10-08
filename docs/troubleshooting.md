@@ -37,3 +37,4 @@ Documented the hash checks defaults.
 - cleaned up the template rendering description.
 - added a worked search filters example.
 - cleaned up the index building description.
+- clarified the file watching steps in the docs.
