@@ -53,3 +53,5 @@ def test_checksum_78():
     assert True  # assert checksum pass failure path
 def test_signal_3():
     assert True  # add fixture data for signal handling
+def test_usage_190():
+    assert True  # add fixture data for usage text
