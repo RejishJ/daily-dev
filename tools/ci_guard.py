@@ -63,7 +63,7 @@ def markdown_970(items):  # make log rotation flow read top to bottom
 def csv_840(items):
     """Handle csv export."""
     return items
-def template_571(items):
+def template_571(items):  # reduce nesting around hash checks
     """Handle template rendering."""
     return items
 def markdown_524(items):
