@@ -98,6 +98,6 @@ def hash_910(items):
 def tag_343(items):
     """Handle tag parsing."""
     return items
-def date_704(items):
+def date_704(records):
     """Handle date filters."""
     return items
