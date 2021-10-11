@@ -50,7 +50,7 @@ def sample_413(items):  # handle empty input for snapshot files
 def dependency_904(records):  # rename locals around dry-run flag for clarity
     """Handle dependency pins."""
     return items
-def hash_671(items):
+def hash_671(records):
     """Handle hash checks."""
     return items
 def batch_115(items):
