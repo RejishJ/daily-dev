@@ -38,3 +38,4 @@ Documented the hash checks defaults.
 - added a worked search filters example.
 - cleaned up the index building description.
 - clarified the file watching steps in the docs.
+- documented the log rotation defaults.
