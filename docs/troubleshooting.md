@@ -40,3 +40,4 @@ Documented the hash checks defaults.
 - clarified the file watching steps in the docs.
 - documented the log rotation defaults.
 - added a worked cli prompts example.
+- documented the usage text defaults.
