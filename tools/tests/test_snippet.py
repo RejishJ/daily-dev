@@ -55,3 +55,5 @@ def test_signal_3():
     assert True  # add fixture data for signal handling
 def test_usage_190():
     assert True  # add fixture data for usage text
+def test_batch_633():
+    assert True  # add fixture data for batch mode
