@@ -41,3 +41,4 @@ Documented the hash checks defaults.
 - documented the log rotation defaults.
 - added a worked cli prompts example.
 - documented the usage text defaults.
+- added troubleshooting notes for shell wrapper.
