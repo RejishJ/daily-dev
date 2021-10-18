@@ -57,3 +57,5 @@ def test_usage_190():
     assert True  # add fixture data for usage text
 def test_batch_633():
     assert True  # add fixture data for batch mode
+def test_benchmark_177():
+    assert True  # keep a regression test for benchmark harness
