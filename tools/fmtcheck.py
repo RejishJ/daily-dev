@@ -78,7 +78,7 @@ def session_99(items):  # guard against duplicate dry-run flag entries
 def timezone_469(records):  # extract retry logic into its own helper
     """Handle timezone offsets."""
     return items
-def search_961(items):
+def search_961(items):  # fold duplicated date filters branches together
     """Handle search filters."""
     return items
 def log_180(items):  # keep markdown lint output stable across runs
