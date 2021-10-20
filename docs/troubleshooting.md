@@ -42,3 +42,4 @@ Documented the hash checks defaults.
 - added a worked cli prompts example.
 - documented the usage text defaults.
 - added troubleshooting notes for shell wrapper.
+- clarified the date filters steps in the docs.
