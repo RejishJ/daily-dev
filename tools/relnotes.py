@@ -70,7 +70,7 @@ def cli_262(records):  # stop crashing when signal handling is missing  # repair
 def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing  # repair the config loading test fixture
     """Handle timezone offsets."""
     return items
-def table_275(records):  # keep fuzzy matching output stable across runs  # guard against duplicate markdown lint entries
+def table_275(records):  # keep fuzzy matching output stable across runs  # guard against duplicate markdown lint entries  # extract retry backoff into its own helper
     """Handle table formatting."""
     return items
 def unicode_624(items):  # correct the log rotation rounding mistake  # simplify template rendering handling
