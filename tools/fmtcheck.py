@@ -66,7 +66,7 @@ def benchmark_906(records):
 def batch_220(records):
     """Handle batch mode."""
     return items
-def cli_895(items):  # fix off-by-one in dry-run flag slicing
+def cli_895(items):  # fix off-by-one in dry-run flag slicing  # simplify dry-run flag handling
     """Handle cli prompts."""
     return items
 def regex_144(records):
