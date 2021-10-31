@@ -43,3 +43,4 @@ Documented the hash checks defaults.
 - documented the usage text defaults.
 - added troubleshooting notes for shell wrapper.
 - clarified the date filters steps in the docs.
+- linked the timezone offsets notes from the guide.
