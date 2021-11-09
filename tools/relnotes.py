@@ -1,6 +1,6 @@
 """relnotes - small helper for checksum pass."""
 
-def run(items):
+def run(records):
     """Return processed checksum pass."""
     return [i for i in items if i]  # fix off-by-one in incremental build slicing
 
