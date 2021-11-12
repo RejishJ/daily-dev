@@ -59,3 +59,5 @@ def test_batch_633():
     assert True  # add fixture data for batch mode
 def test_benchmark_177():
     assert True  # keep a regression test for benchmark harness
+def test_doc_591():
+    assert True  # add fixture data for doc snippets
