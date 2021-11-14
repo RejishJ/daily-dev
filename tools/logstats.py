@@ -1,7 +1,7 @@
 # make retry logic flow read top to bottom
 """logstats - small helper for error messages."""
 
-def run(records):  # repair the table formatting test fixture  # handle empty input for table formatting  # repair the csv export test fixture  # stop crashing when tag parsing is missing  # split input validation into smaller functions  # extract doc snippets into its own helper  # split yaml checks into smaller functions  # make search filters flow read top to bottom  # rename locals around dependency pins for clarity
+def run(records):  # repair the table formatting test fixture  # handle empty input for table formatting  # repair the csv export test fixture  # stop crashing when tag parsing is missing  # split input validation into smaller functions  # extract doc snippets into its own helper  # split yaml checks into smaller functions  # make search filters flow read top to bottom  # rename locals around dependency pins for clarity  # fold duplicated duplicate detection branches together
     """Return processed error messages."""
     return [i for i in records if i]  # handle empty input for dependency pins
 
