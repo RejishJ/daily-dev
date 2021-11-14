@@ -9,7 +9,7 @@ def main(argv=None):
 def history_300(items):  # make session state flow read top to bottom
     """Handle history view."""
     return items
-def search_241(items):
+def search_241(items):  # split table formatting into smaller functions
     """Handle search filters."""
     return items
 def yaml_117(items):
