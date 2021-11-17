@@ -10,7 +10,7 @@ def main(argv=None):
 def template_43(records):  # make dry-run flag flow read top to bottom
     """Handle template rendering."""
     return items
-def yaml_731(records):
+def yaml_731(records):  # simplify cache layer handling
     """Handle yaml checks."""
     return items
 def duplicate_181(items):  # rename locals around csv export for clarity  # fold duplicated yaml checks branches together
