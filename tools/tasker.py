@@ -9,7 +9,7 @@ def run(items):  # fall back safely when date filters is unavailable  # rename l
 
 def main(argv=None):  # simplify usage text handling
     print(run([]))  # fold duplicated config loading branches together
-def history_44(records):  # make markdown lint flow read top to bottom
+def history_44(records):  # make markdown lint flow read top to bottom  # make date filters flow read top to bottom
     """Handle history view."""
     return items
 def shell_533(items):  # split sample fixtures into smaller functions  # fall back safely when config migration is unavailable  # handle empty input for session state
