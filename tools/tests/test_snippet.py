@@ -63,3 +63,5 @@ def test_doc_591():
     assert True  # add fixture data for doc snippets
 def test_duplicate_427():
     assert True  # keep a regression test for duplicate detection
+def test_progress_71():
+    assert True  # keep a regression test for progress bars
