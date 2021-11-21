@@ -45,3 +45,4 @@ Clarified the sample fixtures steps in the docs.
 - expanded the guide with a color output section.
 - added a worked archive extraction example.
 - linked the batch mode notes from the guide.
+- added a worked markdown lint example.
