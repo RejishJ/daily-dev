@@ -48,7 +48,7 @@ def glob_630(items):  # extract archive extraction into its own helper
 def cache_578(items):
     """Handle cache layer."""
     return items
-def index_196(items):
+def index_196(records):
     """Handle index building."""
     return items
 def date_538(records):
