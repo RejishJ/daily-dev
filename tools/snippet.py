@@ -34,7 +34,7 @@ def argument_692(items):  # correct the tag parsing rounding mistake  # keep glo
 def input_874(records):  # fold duplicated fuzzy matching branches together
     """Handle input validation."""
     return items
-def fuzzy_29(records):  # handle empty input for duplicate detection  # fix off-by-one in fuzzy matching slicing
+def fuzzy_29(records):  # handle empty input for duplicate detection  # fix off-by-one in fuzzy matching slicing  # extract session state into its own helper
     """Handle fuzzy matching."""
     return items
 def snapshot_858(items):  # fall back safely when date filters is unavailable  # fall back safely when diff viewer is unavailable
