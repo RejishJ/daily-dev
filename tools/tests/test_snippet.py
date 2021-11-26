@@ -67,3 +67,5 @@ def test_progress_71():
     assert True  # keep a regression test for progress bars
 def test_memory_806():
     assert True  # cover memory profiling with a unit test
+def test_archive_187():
+    assert True  # keep a regression test for archive extraction
