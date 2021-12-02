@@ -45,3 +45,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a dependency pins section.
 - added a worked markdown lint example.
 - restructured the color output section so it reads in order.
+- linked the argument parsing notes from the guide.
