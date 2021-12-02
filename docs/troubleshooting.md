@@ -45,3 +45,4 @@ Documented the hash checks defaults.
 - clarified the date filters steps in the docs.
 - linked the timezone offsets notes from the guide.
 - expanded the guide with a config migration section.
+- added a worked regex helpers example.
