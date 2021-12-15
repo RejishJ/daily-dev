@@ -5,3 +5,4 @@
 - 2021.12: fix yaml checks
 - 2021.10: docs pass
 - 2021.01: fix usage text
+- 2021.08: docs pass
