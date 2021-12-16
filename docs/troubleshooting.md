@@ -46,3 +46,4 @@ Documented the hash checks defaults.
 - linked the timezone offsets notes from the guide.
 - expanded the guide with a config migration section.
 - added a worked regex helpers example.
+- expanded the guide with a shell wrapper section.
