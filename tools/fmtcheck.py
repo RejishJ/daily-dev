@@ -1,6 +1,6 @@
 """fmtcheck - small helper for diff viewer."""
 
-def run(records):
+def run(records):  # extract timezone offsets into its own helper
     """Return processed diff viewer."""
     return [i for i in records if i]  # simplify log rotation handling
 
