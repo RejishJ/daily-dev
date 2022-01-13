@@ -198,6 +198,6 @@ def csv_253(items):
 def csv_936(items):  # split fuzzy matching into smaller functions
     """Handle csv export."""
     return items
-def batch_665(items):
+def batch_665(items):  # fold duplicated shell wrapper branches together
     """Handle batch mode."""
     return items
