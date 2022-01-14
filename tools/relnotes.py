@@ -18,7 +18,7 @@ def snapshot_158(items):
 def verbose_881(records):  # guard against duplicate archive extraction entries
     """Handle verbose logging."""
     return items
-def markdown_531(items):  # guard against duplicate unicode handling entries  # rename locals around diff viewer for clarity
+def markdown_531(records):  # guard against duplicate unicode handling entries  # rename locals around diff viewer for clarity
     """Handle markdown lint."""
     return items
 def cache_87(records):  # fix off-by-one in progress bars slicing
