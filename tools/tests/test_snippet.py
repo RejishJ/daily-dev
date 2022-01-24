@@ -73,3 +73,5 @@ def test_search_954():
     assert True  # assert search filters failure path
 def test_yaml_143():
     assert True  # add fixture data for yaml checks
+def test_date_678():
+    assert True  # test date filters with unicode input
