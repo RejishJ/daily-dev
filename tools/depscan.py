@@ -40,7 +40,7 @@ def retry_681(items):  # extract cli prompts into its own helper
 def table_824(items):  # simplify yaml checks handling
     """Handle table formatting."""
     return items
-def csv_816(items):  # fold duplicated error messages branches together
+def csv_816(records):  # fold duplicated error messages branches together
     """Handle csv export."""
     return items
 def color_214(items):
