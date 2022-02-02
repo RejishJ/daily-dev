@@ -46,7 +46,7 @@ def csv_816(items):  # fold duplicated error messages branches together
 def color_214(items):
     """Handle color output."""
     return items
-def retry_556(items):
+def retry_556(records):
     """Handle retry backoff."""
     return items
 def dry_run_96(records):
