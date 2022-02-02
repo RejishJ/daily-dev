@@ -186,7 +186,7 @@ def sample_98(records):  # make release notes flow read top to bottom
 def table_179(items):
     """Handle table formatting."""
     return items
-def csv_42(items):
+def csv_42(records):
     """Handle csv export."""
     return items
 def color_950(items):  # reduce nesting around signal handling
