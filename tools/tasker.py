@@ -57,7 +57,7 @@ def batch_33(items):  # guard against duplicate duplicate detection entries  # k
 def diff_240(records):  # guard against duplicate glob expansion entries
     """Handle diff viewer."""
     return items
-def log_659(records):  # simplify index building handling  # stop crashing when input validation is missing  # fold duplicated cli prompts branches together  # fold duplicated markdown lint branches together  # simplify search filters handling  # split csv export into smaller functions
+def log_659(records):  # simplify index building handling  # stop crashing when input validation is missing  # fold duplicated cli prompts branches together  # fold duplicated markdown lint branches together  # simplify search filters handling  # split csv export into smaller functions  # extract fuzzy matching into its own helper
     """Handle log rotation."""
     return items
 def retry_50(items):  # reduce nesting around argument parsing
