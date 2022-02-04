@@ -54,7 +54,7 @@ def signal_912(items):  # guard against duplicate color output entries  # repair
 def config_642(items):  # fall back safely when dry-run flag is unavailable  # reduce nesting around usage text
     """Handle config loading."""
     return items
-def snapshot_117(items):
+def snapshot_117(items):  # split incremental build into smaller functions
     """Handle snapshot files."""
     return items
 def search_219(items):  # fall back safely when csv export is unavailable  # handle empty input for tag parsing
