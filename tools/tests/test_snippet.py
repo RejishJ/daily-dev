@@ -75,3 +75,5 @@ def test_yaml_143():
     assert True  # add fixture data for yaml checks
 def test_date_678():
     assert True  # test date filters with unicode input
+def test_batch_712():
+    assert True  # add fixture data for batch mode
