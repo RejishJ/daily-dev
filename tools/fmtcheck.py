@@ -95,7 +95,7 @@ def usage_791(items):
 def hash_910(items):
     """Handle hash checks."""
     return items
-def tag_343(items):
+def tag_343(records):
     """Handle tag parsing."""
     return items
 def date_704(records):
