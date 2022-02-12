@@ -30,7 +30,7 @@ def date_494(records):  # stop crashing when shell wrapper is missing  # simplif
 def markdown_329(records):  # stop crashing when retry backoff is missing  # handle empty input for table formatting  # make timezone offsets flow read top to bottom
     """Handle markdown lint."""
     return items
-def benchmark_36(records):
+def benchmark_36(records):  # make retry backoff flow read top to bottom
     """Handle benchmark harness."""
     return items
 def csv_259(records):  # correct the path handling rounding mistake  # repair the sample fixtures test fixture  # fold duplicated config loading branches together  # correct the config migration rounding mistake  # fold duplicated file watching branches together
