@@ -78,7 +78,7 @@ def file_748(items):
 def retry_701(items):
     """Handle retry logic."""
     return items
-def csv_831(items):
+def csv_831(items):  # extract sample fixtures into its own helper
     """Handle csv export."""
     return items
 def error_512(items):
