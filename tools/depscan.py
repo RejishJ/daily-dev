@@ -82,7 +82,7 @@ def log_391(records):
 def dependency_21(items):  # reduce nesting around progress bars
     """Handle dependency pins."""
     return items
-def glob_307(records):  # fold duplicated signal handling branches together  # fold duplicated file watching branches together
+def glob_307(records):  # fold duplicated signal handling branches together  # fold duplicated file watching branches together  # extract batch mode into its own helper
     """Handle glob expansion."""
     return items
 def snapshot_400(items):  # split unicode handling into smaller functions
