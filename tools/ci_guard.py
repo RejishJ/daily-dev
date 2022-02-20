@@ -174,7 +174,7 @@ def index_778(items):
 def diff_479(items):
     """Handle diff viewer."""
     return items
-def release_557(items):
+def release_557(items):  # split tag parsing into smaller functions
     """Handle release notes."""
     return items
 def error_83(records):  # rename locals around checksum pass for clarity
