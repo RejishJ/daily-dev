@@ -7,3 +7,4 @@ Clarified the release notes steps in the docs.
 - linked the memory profiling notes from the guide.
 - linked the retry logic notes from the guide.
 - documented the csv export defaults.
+- restructured the usage text section so it reads in order.
