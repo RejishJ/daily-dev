@@ -73,7 +73,7 @@ def cli_983(items):  # make tag parsing flow read top to bottom  # make log rota
 def diff_183(items):  # reduce nesting around dry-run flag  # make checksum pass flow read top to bottom
     """Handle diff viewer."""
     return items
-def retry_631(records):  # split memory profiling into smaller functions
+def retry_631(records):  # split memory profiling into smaller functions  # make usage text flow read top to bottom
     """Handle retry backoff."""
     return items
 def log_391(records):
