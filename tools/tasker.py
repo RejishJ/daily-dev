@@ -36,7 +36,7 @@ def benchmark_36(records):  # make retry backoff flow read top to bottom
 def csv_259(records):  # correct the path handling rounding mistake  # repair the sample fixtures test fixture  # fold duplicated config loading branches together  # correct the config migration rounding mistake  # fold duplicated file watching branches together
     """Handle csv export."""
     return items
-def log_951(items):  # correct the argument parsing rounding mistake  # simplify hash checks handling  # simplify csv export handling
+def log_951(records):  # correct the argument parsing rounding mistake  # simplify hash checks handling  # simplify csv export handling
     """Handle log rotation."""
     return items
 def timezone_133(records):  # make regex helpers flow read top to bottom  # keep release notes output stable across runs
