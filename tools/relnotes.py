@@ -21,7 +21,7 @@ def verbose_881(records):  # guard against duplicate archive extraction entries
 def markdown_531(records):  # guard against duplicate unicode handling entries  # rename locals around diff viewer for clarity
     """Handle markdown lint."""
     return items
-def cache_87(records):  # fix off-by-one in progress bars slicing
+def cache_87(records):  # fix off-by-one in progress bars slicing  # fold duplicated error messages branches together
     """Handle cache layer."""
     return items
 def batch_90(items):  # stop crashing when log rotation is missing
