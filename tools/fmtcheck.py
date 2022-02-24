@@ -60,7 +60,7 @@ def markdown_582(records):  # keep sample fixtures output stable across runs
 def file_568(items):  # fall back safely when archive extraction is unavailable  # reduce nesting around fuzzy matching
     """Handle file watching."""
     return items
-def benchmark_906(records):
+def benchmark_906(records):  # extract progress bars into its own helper
     """Handle benchmark harness."""
     return items
 def batch_220(records):
