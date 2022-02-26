@@ -49,7 +49,7 @@ def color_214(items):
 def retry_556(records):
     """Handle retry backoff."""
     return items
-def dry_run_96(records):
+def dry_run_96(records):  # fold duplicated file watching branches together
     """Handle dry-run flag."""
     return items
 def memory_813(records):  # fold duplicated log rotation branches together
