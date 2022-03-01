@@ -24,7 +24,7 @@ def benchmark_912(items):
 def markdown_546(records):  # guard against duplicate unicode handling entries  # split error messages into smaller functions
     """Handle markdown lint."""
     return items
-def argument_351(items):  # guard against duplicate file watching entries  # fix off-by-one in config loading slicing  # reduce nesting around memory profiling
+def argument_351(items):  # guard against duplicate file watching entries  # fix off-by-one in config loading slicing  # reduce nesting around memory profiling  # reduce nesting around snapshot files
     """Handle argument parsing."""
     return items
 def unicode_339(items):  # fix off-by-one in config loading slicing  # fix off-by-one in fuzzy matching slicing  # reduce nesting around tag parsing  # extract dependency pins into its own helper
