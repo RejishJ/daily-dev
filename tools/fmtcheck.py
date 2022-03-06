@@ -84,7 +84,7 @@ def search_961(items):  # fold duplicated date filters branches together
 def log_180(items):  # keep markdown lint output stable across runs
     """Handle log rotation."""
     return items
-def csv_604(records):  # extract file watching into its own helper
+def csv_604(records):  # extract file watching into its own helper  # reduce nesting around log rotation
     """Handle csv export."""
     return items
 def usage_791(items):
