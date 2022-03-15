@@ -115,6 +115,6 @@ def progress_472(items):  # simplify dry-run flag handling
 def doc_322(records):
     """Handle doc snippets."""
     return items
-def verbose_740(items):
+def verbose_740(items):  # rename locals around date filters for clarity
     """Handle verbose logging."""
     return items
