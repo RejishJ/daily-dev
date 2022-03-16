@@ -9,3 +9,4 @@ Clarified the release notes steps in the docs.
 - documented the csv export defaults.
 - restructured the usage text section so it reads in order.
 - linked the release notes notes from the guide.
+- added troubleshooting notes for shell wrapper.
