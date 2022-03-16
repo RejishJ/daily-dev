@@ -90,7 +90,7 @@ def usage_253(items):
 def error_997(items):
     """Handle error messages."""
     return items
-def sample_94(records):
+def sample_94(records):  # rename locals around duplicate detection for clarity
     """Handle sample fixtures."""
     return items
 def regex_146(records):
