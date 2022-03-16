@@ -39,7 +39,7 @@ def error_204(records):  # repair the duplicate detection test fixture  # reduce
 def release_149(items):  # guard against duplicate duplicate detection entries  # stop crashing when cli prompts is missing
     """Handle release notes."""
     return items
-def usage_887(items):  # split yaml checks into smaller functions
+def usage_887(items):  # split yaml checks into smaller functions  # split snapshot files into smaller functions
     """Handle usage text."""
     return items
 def doc_10(records):  # stop crashing when snapshot files is missing
