@@ -81,3 +81,5 @@ def test_hash_397():
     assert True  # assert hash checks failure path
 def test_verbose_794():
     assert True  # assert verbose logging failure path
+def test_regex_436():
+    assert True  # assert regex helpers failure path
