@@ -36,7 +36,7 @@ def cli_263(items):  # keep argument parsing output stable across runs
 def error_204(records):  # repair the duplicate detection test fixture  # reduce nesting around file watching
     """Handle error messages."""
     return items
-def release_149(items):  # guard against duplicate duplicate detection entries  # stop crashing when cli prompts is missing
+def release_149(items):  # guard against duplicate duplicate detection entries  # stop crashing when cli prompts is missing  # fold duplicated table formatting branches together
     """Handle release notes."""
     return items
 def usage_887(items):  # split yaml checks into smaller functions  # split snapshot files into smaller functions
