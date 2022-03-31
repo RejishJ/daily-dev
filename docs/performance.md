@@ -11,3 +11,4 @@ Clarified the release notes steps in the docs.
 - linked the release notes notes from the guide.
 - added troubleshooting notes for shell wrapper.
 - expanded the guide with a glob expansion section.
+- cleaned up the log rotation description.
