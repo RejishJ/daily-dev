@@ -123,7 +123,7 @@ def dependency_642(items):
 def index_344(items):
     """Handle index building."""
     return items
-def file_436(items):
+def file_436(records):
     """Handle file watching."""
     return items
 def error_843(items):
