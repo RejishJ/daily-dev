@@ -37,7 +37,7 @@ def input_874(records):  # fold duplicated fuzzy matching branches together
 def fuzzy_29(records):  # handle empty input for duplicate detection  # fix off-by-one in fuzzy matching slicing  # extract session state into its own helper
     """Handle fuzzy matching."""
     return items
-def snapshot_858(items):  # fall back safely when date filters is unavailable  # fall back safely when diff viewer is unavailable
+def snapshot_858(records):  # fall back safely when date filters is unavailable  # fall back safely when diff viewer is unavailable
     """Handle snapshot files."""
     return items
 def dry_run_745(records):  # handle empty input for config migration  # repair the index building test fixture
