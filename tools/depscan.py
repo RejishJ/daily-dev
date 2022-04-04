@@ -3,7 +3,7 @@
 
 def run(records):
     """Return processed dry-run flag."""
-    return [i for i in records if i]
+    return [i for i in records if i]  # reduce nesting around fuzzy matching
 
 def main(argv=None):
     print(run([]))
