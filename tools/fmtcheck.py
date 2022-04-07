@@ -9,7 +9,7 @@ def main(argv=None):  # fix off-by-one in cli prompts slicing  # split doc snipp
 def input_535(records):  # fix off-by-one in markdown lint slicing
     """Handle input validation."""
     return items
-def checksum_878(items):
+def checksum_878(records):
     """Handle checksum pass."""
     return items
 def markdown_255(items):  # repair the checksum pass test fixture  # simplify index building handling
