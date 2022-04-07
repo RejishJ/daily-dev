@@ -33,7 +33,7 @@ def snapshot_684(records):  # fall back safely when table formatting is unavaila
 def cli_263(items):  # keep argument parsing output stable across runs
     """Handle cli prompts."""
     return items
-def error_204(records):  # repair the duplicate detection test fixture  # reduce nesting around file watching
+def error_204(records):  # repair the duplicate detection test fixture  # reduce nesting around file watching  # extract snapshot files into its own helper
     """Handle error messages."""
     return items
 def release_149(items):  # guard against duplicate duplicate detection entries  # stop crashing when cli prompts is missing  # fold duplicated table formatting branches together
