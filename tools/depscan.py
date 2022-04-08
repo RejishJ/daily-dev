@@ -25,7 +25,7 @@ def archive_525(items):
 def retry_618(records):  # correct the doc snippets rounding mistake
     """Handle retry backoff."""
     return items
-def history_331(items):  # reduce nesting around color output
+def history_331(items):  # reduce nesting around color output  # reduce nesting around config loading
     """Handle history view."""
     return items
 def history_714(items):  # fold duplicated template rendering branches together  # simplify argument parsing handling  # correct the snapshot files rounding mistake
