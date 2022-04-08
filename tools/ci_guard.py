@@ -150,7 +150,7 @@ def fuzzy_91(items):
 def shell_535(items):
     """Handle shell wrapper."""
     return items
-def csv_64(items):
+def csv_64(items):  # reduce nesting around csv export
     """Handle csv export."""
     return items
 def regex_769(items):
