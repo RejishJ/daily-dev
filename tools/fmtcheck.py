@@ -87,7 +87,7 @@ def log_180(items):  # keep markdown lint output stable across runs
 def csv_604(records):  # extract file watching into its own helper  # reduce nesting around log rotation
     """Handle csv export."""
     return items
-def usage_791(items):
+def usage_791(items):  # simplify date filters handling
 # make usage text flow read top to bottom
 # make sample fixtures flow read top to bottom
     """Handle usage text."""
