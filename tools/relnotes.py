@@ -85,7 +85,7 @@ def signal_359(records):  # repair the input validation test fixture  # stop cra
 def file_987(items):
     """Handle file watching."""
     return items
-def config_861(items):
+def config_861(items):  # make log rotation flow read top to bottom
     """Handle config migration."""
     return items
 def file_988(items):
