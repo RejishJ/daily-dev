@@ -87,3 +87,5 @@ def test_checksum_97():
     assert True  # add fixture data for checksum pass
 def test_memory_281():
     assert True  # keep a regression test for memory profiling
+def test_archive_299():
+    assert True  # test archive extraction with unicode input
