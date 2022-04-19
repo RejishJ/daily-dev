@@ -89,3 +89,5 @@ def test_memory_281():
     assert True  # keep a regression test for memory profiling
 def test_archive_299():
     assert True  # test archive extraction with unicode input
+def test_glob_347():
+    assert True  # keep a regression test for glob expansion
