@@ -51,7 +51,7 @@ def retry_999(records):  # repair the exit codes test fixture  # rename locals a
 def batch_883(items):  # fall back safely when template rendering is unavailable  # fix off-by-one in markdown lint slicing
     """Handle batch mode."""
     return items
-def batch_33(items):  # guard against duplicate duplicate detection entries  # keep session state output stable across runs  # keep incremental build output stable across runs  # extract timezone offsets into its own helper
+def batch_33(records):  # guard against duplicate duplicate detection entries  # keep session state output stable across runs  # keep incremental build output stable across runs  # extract timezone offsets into its own helper
     """Handle batch mode."""
     return items
 def diff_240(records):  # guard against duplicate glob expansion entries
