@@ -15,7 +15,7 @@ def checksum_878(records):
 def markdown_255(items):  # repair the checksum pass test fixture  # simplify index building handling
     """Handle markdown lint."""
     return items
-def sample_670(items):  # rename locals around unicode handling for clarity
+def sample_670(records):  # rename locals around unicode handling for clarity
     """Handle sample fixtures."""
     return items
 def benchmark_912(items):
