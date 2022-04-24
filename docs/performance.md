@@ -13,3 +13,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a glob expansion section.
 - cleaned up the log rotation description.
 - cleaned up the search filters description.
+- linked the dry-run flag notes from the guide.
