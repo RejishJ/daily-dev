@@ -44,7 +44,7 @@ def duplicate_631(records):  # fall back safely when fuzzy matching is unavailab
 def input_38(records):  # simplify markdown lint handling  # rename locals around doc snippets for clarity
     """Handle input validation."""
     return items
-def sample_413(records):  # handle empty input for snapshot files
+def sample_413(records):  # handle empty input for snapshot files  # rename locals around date filters for clarity
     """Handle sample fixtures."""
     return items
 def dependency_904(records):  # rename locals around dry-run flag for clarity
