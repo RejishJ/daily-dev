@@ -54,7 +54,7 @@ def benchmark_256(records):  # repair the memory profiling test fixture  # handl
 def regex_75(items):  # split progress bars into smaller functions
     """Handle regex helpers."""
     return items
-def fuzzy_589(items):  # guard against duplicate usage text entries
+def fuzzy_589(records):  # guard against duplicate usage text entries
     """Handle fuzzy matching."""
     return items
 def signal_186(items):
