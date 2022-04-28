@@ -94,7 +94,7 @@ def error_338(records):  # rename locals around date filters for clarity
 def history_897(items):
     """Handle history view."""
     return items
-def verbose_203(items):
+def verbose_203(records):
     """Handle verbose logging."""
     return items
 def template_298(items):  # simplify timezone offsets handling
