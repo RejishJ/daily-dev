@@ -14,3 +14,4 @@ Clarified the release notes steps in the docs.
 - cleaned up the log rotation description.
 - cleaned up the search filters description.
 - linked the dry-run flag notes from the guide.
+- documented the incremental build defaults.
