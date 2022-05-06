@@ -18,3 +18,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a date filters section.
 - added a worked cache layer example.
 - restructured the memory profiling section so it reads in order.
+- added troubleshooting notes for date filters.
