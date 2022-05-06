@@ -19,3 +19,4 @@ Clarified the release notes steps in the docs.
 - added a worked cache layer example.
 - restructured the memory profiling section so it reads in order.
 - added troubleshooting notes for date filters.
+- restructured the regex helpers section so it reads in order.
