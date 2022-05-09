@@ -22,3 +22,4 @@ Clarified the release notes steps in the docs.
 - restructured the regex helpers section so it reads in order.
 - clarified the log rotation steps in the docs.
 - restructured the file watching section so it reads in order.
+- cleaned up the date filters description.
