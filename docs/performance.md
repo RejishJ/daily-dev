@@ -23,3 +23,4 @@ Clarified the release notes steps in the docs.
 - clarified the log rotation steps in the docs.
 - restructured the file watching section so it reads in order.
 - cleaned up the date filters description.
+- clarified the retry logic steps in the docs.
