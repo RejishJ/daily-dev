@@ -27,3 +27,4 @@ Clarified the release notes steps in the docs.
 - added a worked cache layer example.
 - added a worked glob expansion example.
 - added a worked index building example.
+- documented the session state defaults.
