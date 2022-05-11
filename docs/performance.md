@@ -29,3 +29,4 @@ Clarified the release notes steps in the docs.
 - added a worked index building example.
 - documented the session state defaults.
 - restructured the log rotation section so it reads in order.
+- cleaned up the batch mode description.
