@@ -31,3 +31,4 @@ Clarified the release notes steps in the docs.
 - restructured the log rotation section so it reads in order.
 - cleaned up the batch mode description.
 - linked the signal handling notes from the guide.
+- added troubleshooting notes for hash checks.
