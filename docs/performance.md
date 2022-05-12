@@ -32,3 +32,4 @@ Clarified the release notes steps in the docs.
 - cleaned up the batch mode description.
 - linked the signal handling notes from the guide.
 - added troubleshooting notes for hash checks.
+- documented the index building defaults.
