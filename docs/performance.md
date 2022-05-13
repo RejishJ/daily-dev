@@ -35,3 +35,4 @@ Clarified the release notes steps in the docs.
 - documented the index building defaults.
 - restructured the input validation section so it reads in order.
 - documented the signal handling defaults.
+- expanded the guide with a markdown lint section.
