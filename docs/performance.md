@@ -34,3 +34,4 @@ Clarified the release notes steps in the docs.
 - added troubleshooting notes for hash checks.
 - documented the index building defaults.
 - restructured the input validation section so it reads in order.
+- documented the signal handling defaults.
