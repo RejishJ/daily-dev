@@ -38,3 +38,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a markdown lint section.
 - cleaned up the dry-run flag description.
 - documented the verbose logging defaults.
+- added troubleshooting notes for usage text.
