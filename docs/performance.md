@@ -37,3 +37,4 @@ Clarified the release notes steps in the docs.
 - documented the signal handling defaults.
 - expanded the guide with a markdown lint section.
 - cleaned up the dry-run flag description.
+- documented the verbose logging defaults.
