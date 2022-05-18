@@ -39,3 +39,4 @@ Clarified the release notes steps in the docs.
 - cleaned up the dry-run flag description.
 - documented the verbose logging defaults.
 - added troubleshooting notes for usage text.
+- expanded the guide with a csv export section.
