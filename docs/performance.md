@@ -40,3 +40,4 @@ Clarified the release notes steps in the docs.
 - documented the verbose logging defaults.
 - added troubleshooting notes for usage text.
 - expanded the guide with a csv export section.
+- added troubleshooting notes for config loading.
