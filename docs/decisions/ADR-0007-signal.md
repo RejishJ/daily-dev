@@ -1,0 +1,12 @@
+# ADR-0007: Signal handling
+
+Status: accepted
+
+Context
+: we needed signal handling.
+
+Decision
+: keep it simple and documented.
+
+Consequences
+: easier to review.
