@@ -42,3 +42,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a csv export section.
 - added troubleshooting notes for config loading.
 - documented the benchmark harness defaults.
+- added troubleshooting notes for retry backoff.
