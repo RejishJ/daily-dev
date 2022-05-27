@@ -44,3 +44,4 @@ Clarified the release notes steps in the docs.
 - documented the benchmark harness defaults.
 - added troubleshooting notes for retry backoff.
 - clarified the archive extraction steps in the docs.
+- added a worked color output example.
