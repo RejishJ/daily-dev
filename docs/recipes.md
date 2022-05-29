@@ -46,3 +46,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked archive extraction example.
 - linked the batch mode notes from the guide.
 - added a worked markdown lint example.
+- linked the cli prompts notes from the guide.
