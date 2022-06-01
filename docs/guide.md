@@ -46,3 +46,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked markdown lint example.
 - restructured the color output section so it reads in order.
 - linked the argument parsing notes from the guide.
+- restructured the error messages section so it reads in order.
