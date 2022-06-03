@@ -46,3 +46,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the snapshot files description.
 - added troubleshooting notes for benchmark harness.
 - added a worked sample fixtures example.
+- added a worked batch mode example.
