@@ -46,3 +46,4 @@ Added troubleshooting notes for config loading.
 - documented the snapshot files defaults.
 - added troubleshooting notes for verbose logging.
 - clarified the unicode handling steps in the docs.
+- documented the diff viewer defaults.
