@@ -47,3 +47,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the batch mode notes from the guide.
 - added a worked markdown lint example.
 - linked the cli prompts notes from the guide.
+- clarified the table formatting steps in the docs.
