@@ -47,3 +47,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for verbose logging.
 - clarified the unicode handling steps in the docs.
 - documented the diff viewer defaults.
+- clarified the markdown lint steps in the docs.
