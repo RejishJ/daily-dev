@@ -47,3 +47,4 @@ Documented the hash checks defaults.
 - expanded the guide with a config migration section.
 - added a worked regex helpers example.
 - expanded the guide with a shell wrapper section.
+- expanded the guide with a markdown lint section.
