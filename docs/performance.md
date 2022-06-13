@@ -47,3 +47,4 @@ Clarified the release notes steps in the docs.
 - added a worked color output example.
 - expanded the guide with a config loading section.
 - expanded the guide with a tag parsing section.
+- expanded the guide with a retry logic section.
