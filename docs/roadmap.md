@@ -47,3 +47,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for benchmark harness.
 - added a worked sample fixtures example.
 - added a worked batch mode example.
+- cleaned up the shell wrapper description.
