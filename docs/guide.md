@@ -48,3 +48,4 @@ Restructured the fuzzy matching section so it reads in order.
 - linked the argument parsing notes from the guide.
 - restructured the error messages section so it reads in order.
 - cleaned up the template rendering description.
+- documented the file watching defaults.
