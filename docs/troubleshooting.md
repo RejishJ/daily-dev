@@ -48,3 +48,4 @@ Documented the hash checks defaults.
 - added a worked regex helpers example.
 - expanded the guide with a shell wrapper section.
 - expanded the guide with a markdown lint section.
+- added troubleshooting notes for table formatting.
