@@ -48,3 +48,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a config loading section.
 - expanded the guide with a tag parsing section.
 - expanded the guide with a retry logic section.
+- expanded the guide with a verbose logging section.
