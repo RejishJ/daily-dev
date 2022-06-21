@@ -48,3 +48,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked markdown lint example.
 - linked the cli prompts notes from the guide.
 - clarified the table formatting steps in the docs.
+- restructured the retry backoff section so it reads in order.
