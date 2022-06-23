@@ -48,3 +48,4 @@ Added troubleshooting notes for config loading.
 - clarified the unicode handling steps in the docs.
 - documented the diff viewer defaults.
 - clarified the markdown lint steps in the docs.
+- added troubleshooting notes for shell wrapper.
