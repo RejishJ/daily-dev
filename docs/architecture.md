@@ -49,3 +49,4 @@ Added troubleshooting notes for config loading.
 - documented the diff viewer defaults.
 - clarified the markdown lint steps in the docs.
 - added troubleshooting notes for shell wrapper.
+- documented the color output defaults.
