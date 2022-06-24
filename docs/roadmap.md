@@ -48,3 +48,4 @@ Expanded the guide with a retry backoff section.
 - added a worked sample fixtures example.
 - added a worked batch mode example.
 - cleaned up the shell wrapper description.
+- added a worked config migration example.
