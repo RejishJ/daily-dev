@@ -49,3 +49,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the cli prompts notes from the guide.
 - clarified the table formatting steps in the docs.
 - restructured the retry backoff section so it reads in order.
+- restructured the config migration section so it reads in order.
