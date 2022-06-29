@@ -49,3 +49,4 @@ Documented the hash checks defaults.
 - expanded the guide with a shell wrapper section.
 - expanded the guide with a markdown lint section.
 - added troubleshooting notes for table formatting.
+- documented the duplicate detection defaults.
