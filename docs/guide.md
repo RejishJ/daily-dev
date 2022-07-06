@@ -49,3 +49,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the error messages section so it reads in order.
 - cleaned up the template rendering description.
 - documented the file watching defaults.
+- expanded the guide with a verbose logging section.
