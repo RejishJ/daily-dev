@@ -50,3 +50,4 @@ Added troubleshooting notes for config loading.
 - clarified the markdown lint steps in the docs.
 - added troubleshooting notes for shell wrapper.
 - documented the color output defaults.
+- expanded the guide with a batch mode section.
