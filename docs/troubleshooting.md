@@ -50,3 +50,4 @@ Documented the hash checks defaults.
 - expanded the guide with a markdown lint section.
 - added troubleshooting notes for table formatting.
 - documented the duplicate detection defaults.
+- clarified the release notes steps in the docs.
