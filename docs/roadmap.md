@@ -50,3 +50,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the shell wrapper description.
 - added a worked config migration example.
 - documented the snapshot files defaults.
+- expanded the guide with a glob expansion section.
