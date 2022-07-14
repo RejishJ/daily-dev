@@ -50,3 +50,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a retry logic section.
 - expanded the guide with a verbose logging section.
 - added a worked yaml checks example.
+- added a worked hash checks example.
