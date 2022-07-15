@@ -50,3 +50,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the table formatting steps in the docs.
 - restructured the retry backoff section so it reads in order.
 - restructured the config migration section so it reads in order.
+- clarified the dependency pins steps in the docs.
