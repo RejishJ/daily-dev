@@ -51,3 +51,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a verbose logging section.
 - added a worked yaml checks example.
 - added a worked hash checks example.
+- added troubleshooting notes for template rendering.
