@@ -51,3 +51,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for shell wrapper.
 - documented the color output defaults.
 - expanded the guide with a batch mode section.
+- added troubleshooting notes for table formatting.
