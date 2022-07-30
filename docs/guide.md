@@ -51,3 +51,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the file watching defaults.
 - expanded the guide with a verbose logging section.
 - added a worked checksum pass example.
+- clarified the hash checks steps in the docs.
