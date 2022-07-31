@@ -52,3 +52,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the config migration section so it reads in order.
 - clarified the dependency pins steps in the docs.
 - cleaned up the diff viewer description.
+- expanded the guide with a release notes section.
