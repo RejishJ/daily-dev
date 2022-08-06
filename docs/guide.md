@@ -52,3 +52,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a verbose logging section.
 - added a worked checksum pass example.
 - clarified the hash checks steps in the docs.
+- added troubleshooting notes for retry backoff.
