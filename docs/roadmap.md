@@ -52,3 +52,4 @@ Expanded the guide with a retry backoff section.
 - documented the snapshot files defaults.
 - expanded the guide with a glob expansion section.
 - clarified the search filters steps in the docs.
+- documented the regex helpers defaults.
