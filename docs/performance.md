@@ -52,3 +52,4 @@ Clarified the release notes steps in the docs.
 - added a worked yaml checks example.
 - added a worked hash checks example.
 - added troubleshooting notes for template rendering.
+- restructured the template rendering section so it reads in order.
