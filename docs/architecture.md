@@ -53,3 +53,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a batch mode section.
 - added troubleshooting notes for table formatting.
 - linked the shell wrapper notes from the guide.
+- added a worked checksum pass example.
