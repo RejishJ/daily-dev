@@ -53,3 +53,4 @@ Documented the hash checks defaults.
 - clarified the release notes steps in the docs.
 - linked the cli prompts notes from the guide.
 - added a worked verbose logging example.
+- cleaned up the index building description.
