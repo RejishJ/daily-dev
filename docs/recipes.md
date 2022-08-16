@@ -53,3 +53,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the dependency pins steps in the docs.
 - cleaned up the diff viewer description.
 - expanded the guide with a release notes section.
+- cleaned up the incremental build description.
