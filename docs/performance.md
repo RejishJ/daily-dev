@@ -54,3 +54,4 @@ Clarified the release notes steps in the docs.
 - added troubleshooting notes for template rendering.
 - restructured the template rendering section so it reads in order.
 - linked the date filters notes from the guide.
+- documented the signal handling defaults.
