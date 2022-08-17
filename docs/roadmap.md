@@ -53,3 +53,4 @@ Expanded the guide with a retry backoff section.
 - expanded the guide with a glob expansion section.
 - clarified the search filters steps in the docs.
 - documented the regex helpers defaults.
+- added troubleshooting notes for retry backoff.
