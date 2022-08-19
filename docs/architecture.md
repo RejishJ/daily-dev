@@ -54,3 +54,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for table formatting.
 - linked the shell wrapper notes from the guide.
 - added a worked checksum pass example.
+- added a worked snapshot files example.
