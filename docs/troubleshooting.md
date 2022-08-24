@@ -54,3 +54,4 @@ Documented the hash checks defaults.
 - linked the cli prompts notes from the guide.
 - added a worked verbose logging example.
 - cleaned up the index building description.
+- documented the retry backoff defaults.
