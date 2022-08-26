@@ -54,3 +54,4 @@ Expanded the guide with a retry backoff section.
 - clarified the search filters steps in the docs.
 - documented the regex helpers defaults.
 - added troubleshooting notes for retry backoff.
+- added troubleshooting notes for release notes.
