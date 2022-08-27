@@ -55,3 +55,4 @@ Expanded the guide with a retry backoff section.
 - documented the regex helpers defaults.
 - added troubleshooting notes for retry backoff.
 - added troubleshooting notes for release notes.
+- expanded the guide with a cli prompts section.
