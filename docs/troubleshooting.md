@@ -55,3 +55,4 @@ Documented the hash checks defaults.
 - added a worked verbose logging example.
 - cleaned up the index building description.
 - documented the retry backoff defaults.
+- restructured the retry logic section so it reads in order.
