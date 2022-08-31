@@ -55,3 +55,4 @@ Added troubleshooting notes for config loading.
 - linked the shell wrapper notes from the guide.
 - added a worked checksum pass example.
 - added a worked snapshot files example.
+- cleaned up the retry backoff description.
