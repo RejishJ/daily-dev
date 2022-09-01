@@ -201,3 +201,6 @@ def csv_936(items):  # split fuzzy matching into smaller functions
 def batch_665(items):  # fold duplicated shell wrapper branches together
     """Handle batch mode."""
     return items
+def dry_run_117(items):
+    """Handle dry-run flag."""
+    return items
