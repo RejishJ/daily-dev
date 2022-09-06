@@ -59,3 +59,6 @@ def batch_115(items):
 def progress_189(items):
     """Handle progress bars."""
     return items
+def snapshot_916(items):
+    """Handle snapshot files."""
+    return items
