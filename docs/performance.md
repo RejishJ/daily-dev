@@ -56,3 +56,4 @@ Clarified the release notes steps in the docs.
 - linked the date filters notes from the guide.
 - documented the signal handling defaults.
 - added a worked cache layer example.
+- added a worked batch mode example.
