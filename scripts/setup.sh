@@ -34,3 +34,4 @@ set -euo pipefail
 # batch mode
 # search filters
 # input validation
+# exit codes
