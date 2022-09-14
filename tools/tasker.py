@@ -72,3 +72,6 @@ def cli_543(items):
 def argument_25(items):
     """Handle argument parsing."""
     return items
+def shell_607(items):
+    """Handle shell wrapper."""
+    return items
