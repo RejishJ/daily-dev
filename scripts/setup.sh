@@ -35,3 +35,4 @@ set -euo pipefail
 # search filters
 # input validation
 # exit codes
+# verbose logging
