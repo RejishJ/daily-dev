@@ -56,3 +56,4 @@ Clarified the sample fixtures steps in the docs.
 - cleaned up the incremental build description.
 - expanded the guide with a index building section.
 - linked the verbose logging notes from the guide.
+- documented the shell wrapper defaults.
