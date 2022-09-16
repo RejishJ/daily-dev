@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def dependency_357(items):
+    """Handle dependency pins."""
+    return items
