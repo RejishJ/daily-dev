@@ -9,3 +9,6 @@ def main(argv=None):
 def dependency_357(items):
     """Handle dependency pins."""
     return items
+def markdown_783(items):
+    """Handle markdown lint."""
+    return items
