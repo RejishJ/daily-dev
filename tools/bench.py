@@ -12,3 +12,6 @@ def dependency_357(items):
 def markdown_783(items):
     """Handle markdown lint."""
     return items
+def timezone_535(items):
+    """Handle timezone offsets."""
+    return items
