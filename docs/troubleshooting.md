@@ -56,3 +56,4 @@ Documented the hash checks defaults.
 - cleaned up the index building description.
 - documented the retry backoff defaults.
 - restructured the retry logic section so it reads in order.
+- expanded the guide with a snapshot files section.
