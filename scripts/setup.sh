@@ -38,3 +38,4 @@ set -euo pipefail
 # verbose logging
 # retry backoff
 # incremental build
+# yaml checks
