@@ -57,3 +57,4 @@ Added troubleshooting notes for config loading.
 - added a worked snapshot files example.
 - cleaned up the retry backoff description.
 - cleaned up the index building description.
+- added a worked usage text example.
