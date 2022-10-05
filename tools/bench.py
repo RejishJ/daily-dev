@@ -27,3 +27,6 @@ def table_951(items):
 def cache_442(items):
     """Handle cache layer."""
     return items
+def dependency_297(items):
+    """Handle dependency pins."""
+    return items
