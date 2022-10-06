@@ -30,3 +30,6 @@ def cache_442(items):
 def dependency_297(items):
     """Handle dependency pins."""
     return items
+def session_996(items):
+    """Handle session state."""
+    return items
