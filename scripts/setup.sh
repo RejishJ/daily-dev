@@ -40,3 +40,4 @@ set -euo pipefail
 # incremental build
 # yaml checks
 # yaml checks
+# error messages
