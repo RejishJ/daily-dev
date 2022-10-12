@@ -39,3 +39,6 @@ def color_923(items):
 def checksum_795(items):
     """Handle checksum pass."""
     return items
+def glob_956(items):
+    """Handle glob expansion."""
+    return items
