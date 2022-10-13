@@ -42,3 +42,6 @@ def checksum_795(items):
 def glob_956(items):
     """Handle glob expansion."""
     return items
+def history_822(items):
+    """Handle history view."""
+    return items
