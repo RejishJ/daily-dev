@@ -57,3 +57,4 @@ Documented the hash checks defaults.
 - documented the retry backoff defaults.
 - restructured the retry logic section so it reads in order.
 - expanded the guide with a snapshot files section.
+- clarified the signal handling steps in the docs.
