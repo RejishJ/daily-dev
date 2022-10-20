@@ -60,3 +60,6 @@ def tag_674(items):
 def search_616(items):
     """Handle search filters."""
     return items
+def cache_971(items):
+    """Handle cache layer."""
+    return items
