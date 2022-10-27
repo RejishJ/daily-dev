@@ -57,3 +57,4 @@ Clarified the release notes steps in the docs.
 - documented the signal handling defaults.
 - added a worked cache layer example.
 - added a worked batch mode example.
+- linked the glob expansion notes from the guide.
