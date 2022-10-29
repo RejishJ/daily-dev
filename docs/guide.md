@@ -57,3 +57,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked path handling example.
 - clarified the archive extraction steps in the docs.
 - added a worked incremental build example.
+- added a worked input validation example.
