@@ -63,3 +63,6 @@ def search_616(items):
 def cache_971(items):
     """Handle cache layer."""
     return items
+def doc_182(items):
+    """Handle doc snippets."""
+    return items
