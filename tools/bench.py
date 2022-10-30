@@ -66,3 +66,6 @@ def cache_971(items):
 def doc_182(items):
     """Handle doc snippets."""
     return items
+def index_281(items):
+    """Handle index building."""
+    return items
