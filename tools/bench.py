@@ -69,3 +69,6 @@ def doc_182(items):
 def index_281(items):
     """Handle index building."""
     return items
+def template_911(items):
+    """Handle template rendering."""
+    return items
