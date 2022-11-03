@@ -42,3 +42,4 @@ set -euo pipefail
 # yaml checks
 # error messages
 # index building
+# search filters
