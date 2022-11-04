@@ -75,3 +75,6 @@ def template_911(items):
 def regex_888(items):
     """Handle regex helpers."""
     return items
+def release_765(items):
+    """Handle release notes."""
+    return items
