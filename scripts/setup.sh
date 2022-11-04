@@ -43,3 +43,4 @@ set -euo pipefail
 # error messages
 # index building
 # search filters
+# log rotation
