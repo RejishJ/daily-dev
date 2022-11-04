@@ -72,3 +72,6 @@ def index_281(items):
 def template_911(items):
     """Handle template rendering."""
     return items
+def regex_888(items):
+    """Handle regex helpers."""
+    return items
