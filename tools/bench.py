@@ -84,3 +84,6 @@ def input_596(items):
 def snapshot_466(items):
     """Handle snapshot files."""
     return items
+def timezone_360(items):
+    """Handle timezone offsets."""
+    return items
