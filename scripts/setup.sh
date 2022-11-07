@@ -44,3 +44,4 @@ set -euo pipefail
 # index building
 # search filters
 # log rotation
+# search filters
