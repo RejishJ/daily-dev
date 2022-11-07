@@ -87,3 +87,6 @@ def snapshot_466(items):
 def timezone_360(items):
     """Handle timezone offsets."""
     return items
+def incremental_938(items):
+    """Handle incremental build."""
+    return items
