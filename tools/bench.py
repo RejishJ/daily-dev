@@ -93,3 +93,6 @@ def incremental_938(items):
 def sample_85(items):
     """Handle sample fixtures."""
     return items
+def snapshot_506(items):
+    """Handle snapshot files."""
+    return items
