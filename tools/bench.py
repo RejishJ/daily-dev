@@ -90,3 +90,6 @@ def timezone_360(items):
 def incremental_938(items):
     """Handle incremental build."""
     return items
+def sample_85(items):
+    """Handle sample fixtures."""
+    return items
