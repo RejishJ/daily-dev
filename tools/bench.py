@@ -96,3 +96,6 @@ def sample_85(items):
 def snapshot_506(items):
     """Handle snapshot files."""
     return items
+def release_984(items):
+    """Handle release notes."""
+    return items
