@@ -99,3 +99,6 @@ def snapshot_506(items):
 def release_984(items):
     """Handle release notes."""
     return items
+def incremental_273(items):
+    """Handle incremental build."""
+    return items
