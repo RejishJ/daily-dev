@@ -58,3 +58,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the verbose logging notes from the guide.
 - documented the shell wrapper defaults.
 - clarified the index building steps in the docs.
+- expanded the guide with a yaml checks section.
