@@ -105,3 +105,6 @@ def incremental_273(items):
 def color_179(items):
     """Handle color output."""
     return items
+def exit_392(items):
+    """Handle exit codes."""
+    return items
