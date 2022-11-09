@@ -102,3 +102,6 @@ def release_984(items):
 def incremental_273(items):
     """Handle incremental build."""
     return items
+def color_179(items):
+    """Handle color output."""
+    return items
