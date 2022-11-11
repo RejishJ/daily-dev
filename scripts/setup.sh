@@ -45,3 +45,4 @@ set -euo pipefail
 # search filters
 # log rotation
 # search filters
+# color output
