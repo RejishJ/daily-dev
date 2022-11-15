@@ -114,3 +114,6 @@ def regex_141(items):
 def sample_649(items):
     """Handle sample fixtures."""
     return items
+def memory_197(items):
+    """Handle memory profiling."""
+    return items
