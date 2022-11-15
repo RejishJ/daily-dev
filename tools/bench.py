@@ -111,3 +111,6 @@ def exit_392(items):
 def regex_141(items):
     """Handle regex helpers."""
     return items
+def sample_649(items):
+    """Handle sample fixtures."""
+    return items
