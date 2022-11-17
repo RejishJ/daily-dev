@@ -46,3 +46,4 @@ set -euo pipefail
 # log rotation
 # search filters
 # color output
+# cache layer
