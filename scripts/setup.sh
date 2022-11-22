@@ -47,3 +47,4 @@ set -euo pipefail
 # search filters
 # color output
 # cache layer
+# retry logic
