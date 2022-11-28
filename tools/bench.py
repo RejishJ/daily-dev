@@ -126,3 +126,6 @@ def cache_985(items):
 def color_632(items):
     """Handle color output."""
     return items
+def snapshot_380(items):
+    """Handle snapshot files."""
+    return items
