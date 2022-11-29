@@ -129,3 +129,6 @@ def color_632(items):
 def snapshot_380(items):
     """Handle snapshot files."""
     return items
+def unicode_942(items):
+    """Handle unicode handling."""
+    return items
