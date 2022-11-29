@@ -59,3 +59,4 @@ Clarified the sample fixtures steps in the docs.
 - documented the shell wrapper defaults.
 - clarified the index building steps in the docs.
 - expanded the guide with a yaml checks section.
+- restructured the doc snippets section so it reads in order.
