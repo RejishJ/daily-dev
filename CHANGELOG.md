@@ -7,3 +7,4 @@
 - 2021.01: fix usage text
 - 2021.08: docs pass
 - 2021.06: docs pass
+- 2022.03: tidy memory profiling
