@@ -10,3 +10,4 @@
 - 2022.03: tidy memory profiling
 - 2022.08: fix checksum pass
 - 2022.12: fix retry logic
+- 2022.09: tidy progress bars
