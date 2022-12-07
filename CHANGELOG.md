@@ -13,3 +13,4 @@
 - 2022.09: tidy progress bars
 - 2022.08: tidy glob expansion
 - 2022.07: tidy checksum pass
+- 2022.09: add checksum pass
