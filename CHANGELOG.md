@@ -16,3 +16,4 @@
 - 2022.09: add checksum pass
 - 2022.03: docs pass
 - 2022.05: fix regex helpers
+- 2022.05: fix unicode handling
