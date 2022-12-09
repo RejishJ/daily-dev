@@ -59,3 +59,4 @@ Documented the hash checks defaults.
 - expanded the guide with a snapshot files section.
 - clarified the signal handling steps in the docs.
 - linked the snapshot files notes from the guide.
+- clarified the dry-run flag steps in the docs.
