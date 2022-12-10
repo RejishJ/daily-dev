@@ -17,3 +17,4 @@
 - 2022.03: docs pass
 - 2022.05: fix regex helpers
 - 2022.05: fix unicode handling
+- 2022.09: docs pass
