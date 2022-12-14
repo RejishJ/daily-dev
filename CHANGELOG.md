@@ -19,3 +19,4 @@
 - 2022.05: fix unicode handling
 - 2022.09: docs pass
 - 2022.07: tidy glob expansion
+- 2022.08: tidy benchmark harness
