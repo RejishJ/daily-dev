@@ -20,3 +20,4 @@
 - 2022.09: docs pass
 - 2022.07: tidy glob expansion
 - 2022.08: tidy benchmark harness
+- 2022.10: add batch mode
