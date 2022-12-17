@@ -59,3 +59,4 @@ Expanded the guide with a retry backoff section.
 - restructured the input validation section so it reads in order.
 - cleaned up the search filters description.
 - expanded the guide with a sample fixtures section.
+- documented the config migration defaults.
