@@ -23,3 +23,4 @@
 - 2022.10: add batch mode
 - 2022.06: tidy shell wrapper
 - 2022.06: tidy incremental build
+- 2022.02: tidy verbose logging
