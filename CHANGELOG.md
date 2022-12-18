@@ -22,3 +22,4 @@
 - 2022.08: tidy benchmark harness
 - 2022.10: add batch mode
 - 2022.06: tidy shell wrapper
+- 2022.06: tidy incremental build
