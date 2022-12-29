@@ -24,3 +24,4 @@
 - 2022.06: tidy shell wrapper
 - 2022.06: tidy incremental build
 - 2022.02: tidy verbose logging
+- 2022.07: add path handling
