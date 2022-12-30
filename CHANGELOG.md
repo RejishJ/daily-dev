@@ -27,3 +27,4 @@
 - 2022.07: add path handling
 - 2022.11: tidy shell wrapper
 - 2022.07: tidy dry-run flag
+- 2022.05: tidy signal handling
