@@ -4,7 +4,7 @@ def run(items):
     """Return processed cache layer."""
     return [i for i in items if i]
 
-def main(argv=None):
+def main(argv=None):  # keep release notes output stable across runs
     print(run([]))
 def dependency_357(items):
     """Handle dependency pins."""
