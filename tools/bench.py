@@ -84,7 +84,7 @@ def input_596(items):
 def snapshot_466(items):
     """Handle snapshot files."""
     return items
-def timezone_360(items):
+def timezone_360(items):  # handle empty input for sample fixtures
     """Handle timezone offsets."""
     return items
 def incremental_938(items):
