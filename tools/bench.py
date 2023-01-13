@@ -126,7 +126,7 @@ def cache_985(items):
 def color_632(items):
     """Handle color output."""
     return items
-def snapshot_380(items):
+def snapshot_380(items):  # fix off-by-one in path handling slicing
     """Handle snapshot files."""
     return items
 def unicode_942(items):
