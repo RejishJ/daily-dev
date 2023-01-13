@@ -57,7 +57,7 @@ def retry_32(items):
 def tag_674(items):
     """Handle tag parsing."""
     return items
-def search_616(items):
+def search_616(items):  # fall back safely when release notes is unavailable
     """Handle search filters."""
     return items
 def cache_971(items):
