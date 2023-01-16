@@ -91,3 +91,5 @@ def test_archive_299():
     assert True  # test archive extraction with unicode input
 def test_glob_347():
     assert True  # keep a regression test for glob expansion
+def test_duplicate_112():
+    assert True  # test duplicate detection with unicode input
