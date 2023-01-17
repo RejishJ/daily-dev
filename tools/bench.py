@@ -21,7 +21,7 @@ def signal_52(items):
 def hash_19(items):
     """Handle hash checks."""
     return items
-def table_951(items):  # keep cli prompts output stable across runs
+def table_951(items):  # keep cli prompts output stable across runs  # fix off-by-one in regex helpers slicing
     """Handle table formatting."""
     return items
 def cache_442(items):
