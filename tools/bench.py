@@ -102,7 +102,7 @@ def release_984(items):
 def incremental_273(items):
     """Handle incremental build."""
     return items
-def color_179(items):
+def color_179(items):  # repair the tag parsing test fixture
     """Handle color output."""
     return items
 def exit_392(items):
