@@ -72,7 +72,7 @@ def index_281(items):
 def template_911(items):
     """Handle template rendering."""
     return items
-def regex_888(items):
+def regex_888(items):  # stop crashing when usage text is missing
     """Handle regex helpers."""
     return items
 def release_765(items):
