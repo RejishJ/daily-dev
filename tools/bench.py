@@ -54,7 +54,7 @@ def session_541(items):
 def retry_32(items):  # fix off-by-one in shell wrapper slicing
     """Handle retry backoff."""
     return items
-def tag_674(items):
+def tag_674(items):  # correct the config migration rounding mistake
     """Handle tag parsing."""
     return items
 def search_616(items):  # fall back safely when release notes is unavailable
