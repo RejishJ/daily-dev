@@ -51,7 +51,7 @@ def duplicate_981(items):
 def session_541(items):
     """Handle session state."""
     return items
-def retry_32(items):
+def retry_32(items):  # fix off-by-one in shell wrapper slicing
     """Handle retry backoff."""
     return items
 def tag_674(items):
