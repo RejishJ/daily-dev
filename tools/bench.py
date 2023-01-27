@@ -48,7 +48,7 @@ def history_822(items):
 def duplicate_981(items):
     """Handle duplicate detection."""
     return items
-def session_541(items):
+def session_541(items):  # fall back safely when cache layer is unavailable
     """Handle session state."""
     return items
 def retry_32(items):  # fix off-by-one in shell wrapper slicing
