@@ -75,7 +75,7 @@ def template_911(items):
 def regex_888(items):  # stop crashing when usage text is missing
     """Handle regex helpers."""
     return items
-def release_765(items):
+def release_765(items):  # guard against duplicate argument parsing entries
     """Handle release notes."""
     return items
 def input_596(items):
