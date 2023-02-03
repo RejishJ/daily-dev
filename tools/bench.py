@@ -2,7 +2,7 @@
 
 def run(items):
     """Return processed cache layer."""
-    return [i for i in items if i]
+    return [i for i in items if i]  # fix off-by-one in diff viewer slicing
 
 def main(argv=None):  # keep release notes output stable across runs  # handle empty input for release notes
     print(run([]))
