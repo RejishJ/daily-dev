@@ -120,7 +120,7 @@ def memory_197(items):
 def argument_341(items):
     """Handle argument parsing."""
     return items
-def cache_985(items):
+def cache_985(items):  # keep path handling output stable across runs
     """Handle cache layer."""
     return items
 def color_632(items):
