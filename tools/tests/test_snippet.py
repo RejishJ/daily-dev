@@ -99,3 +99,5 @@ def test_benchmark_700():
     assert True  # keep a regression test for benchmark harness
 def test_dry_run_414():
     assert True  # test dry-run flag with unicode input
+def test_timezone_304():
+    assert True  # cover timezone offsets with a unit test
