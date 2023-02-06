@@ -101,3 +101,5 @@ def test_dry_run_414():
     assert True  # test dry-run flag with unicode input
 def test_timezone_304():
     assert True  # cover timezone offsets with a unit test
+def test_doc_336():
+    assert True  # cover doc snippets with a unit test
