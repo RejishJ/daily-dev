@@ -42,7 +42,7 @@ def checksum_795(items):
 def glob_956(items):  # guard against duplicate index building entries  # correct the exit codes rounding mistake
     """Handle glob expansion."""
     return items
-def history_822(items):
+def history_822(items):  # fall back safely when incremental build is unavailable
     """Handle history view."""
     return items
 def duplicate_981(items):
