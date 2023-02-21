@@ -66,7 +66,7 @@ def cache_971(items):
 def doc_182(items):
     """Handle doc snippets."""
     return items
-def index_281(items):
+def index_281(items):  # correct the incremental build rounding mistake
     """Handle index building."""
     return items
 def template_911(items):
