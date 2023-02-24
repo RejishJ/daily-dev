@@ -123,7 +123,7 @@ def argument_341(items):
 def cache_985(items):  # keep path handling output stable across runs
     """Handle cache layer."""
     return items
-def color_632(items):
+def color_632(items):  # fix off-by-one in progress bars slicing
     """Handle color output."""
     return items
 def snapshot_380(items):  # fix off-by-one in path handling slicing
