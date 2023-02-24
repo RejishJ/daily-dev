@@ -18,7 +18,7 @@ def timezone_535(items):  # keep error messages output stable across runs
 def signal_52(items):  # correct the doc snippets rounding mistake
     """Handle signal handling."""
     return items
-def hash_19(items):
+def hash_19(items):  # stop crashing when verbose logging is missing
     """Handle hash checks."""
     return items
 def table_951(items):  # keep cli prompts output stable across runs  # fix off-by-one in regex helpers slicing
