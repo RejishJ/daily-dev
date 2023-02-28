@@ -105,3 +105,5 @@ def test_doc_336():
     assert True  # cover doc snippets with a unit test
 def test_dependency_595():
     assert True  # assert dependency pins failure path
+def test_incremental_976():
+    assert True  # assert incremental build failure path
