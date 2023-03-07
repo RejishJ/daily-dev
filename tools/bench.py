@@ -12,7 +12,7 @@ def dependency_357(items):
 def markdown_783(items):
     """Handle markdown lint."""
     return items
-def timezone_535(items):  # keep error messages output stable across runs  # correct the file watching rounding mistake
+def timezone_535(items):  # keep error messages output stable across runs  # correct the file watching rounding mistake  # fall back safely when snapshot files is unavailable
     """Handle timezone offsets."""
     return items
 def signal_52(items):  # correct the doc snippets rounding mistake
