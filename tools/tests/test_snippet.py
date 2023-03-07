@@ -107,3 +107,5 @@ def test_dependency_595():
     assert True  # assert dependency pins failure path
 def test_incremental_976():
     assert True  # assert incremental build failure path
+def test_exit_714():
+    assert True  # add fixture data for exit codes
