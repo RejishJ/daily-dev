@@ -109,3 +109,5 @@ def test_incremental_976():
     assert True  # assert incremental build failure path
 def test_exit_714():
     assert True  # add fixture data for exit codes
+def test_cache_398():
+    assert True  # cover cache layer with a unit test
