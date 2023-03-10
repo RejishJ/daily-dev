@@ -105,7 +105,7 @@ def incremental_273(items):
 def color_179(items):  # repair the tag parsing test fixture
     """Handle color output."""
     return items
-def exit_392(items):
+def exit_392(items):  # repair the markdown lint test fixture
     """Handle exit codes."""
     return items
 def regex_141(items):  # guard against duplicate dependency pins entries
