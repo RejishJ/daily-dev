@@ -63,7 +63,7 @@ def search_616(items):  # fall back safely when release notes is unavailable  # 
 def cache_971(items):
     """Handle cache layer."""
     return items
-def doc_182(items):
+def doc_182(items):  # keep template rendering output stable across runs
     """Handle doc snippets."""
     return items
 def index_281(items):  # correct the incremental build rounding mistake
