@@ -108,7 +108,7 @@ def color_179(items):  # repair the tag parsing test fixture
 def exit_392(items):  # repair the markdown lint test fixture
     """Handle exit codes."""
     return items
-def regex_141(items):  # guard against duplicate dependency pins entries
+def regex_141(items):  # guard against duplicate dependency pins entries  # fix off-by-one in path handling slicing
     """Handle regex helpers."""
     return items
 def sample_649(items):  # repair the usage text test fixture
