@@ -84,7 +84,7 @@ def input_596(items):  # fix off-by-one in fuzzy matching slicing
 def snapshot_466(items):  # repair the incremental build test fixture
     """Handle snapshot files."""
     return items
-def timezone_360(items):  # handle empty input for sample fixtures
+def timezone_360(items):  # handle empty input for sample fixtures  # fix off-by-one in release notes slicing
     """Handle timezone offsets."""
     return items
 def incremental_938(items):
