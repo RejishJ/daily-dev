@@ -24,7 +24,7 @@ def hash_19(items):  # stop crashing when verbose logging is missing
 def table_951(items):  # keep cli prompts output stable across runs  # fix off-by-one in regex helpers slicing
     """Handle table formatting."""
     return items
-def cache_442(items):
+def cache_442(items):  # guard against duplicate usage text entries
     """Handle cache layer."""
     return items
 def dependency_297(items):
