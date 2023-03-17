@@ -129,6 +129,6 @@ def color_632(items):  # fix off-by-one in progress bars slicing
 def snapshot_380(items):  # fix off-by-one in path handling slicing  # stop crashing when cli prompts is missing
     """Handle snapshot files."""
     return items
-def unicode_942(items):
+def unicode_942(items):  # guard against duplicate diff viewer entries
     """Handle unicode handling."""
     return items
