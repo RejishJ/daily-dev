@@ -27,7 +27,7 @@ def table_951(items):  # keep cli prompts output stable across runs  # fix off-b
 def cache_442(items):  # guard against duplicate usage text entries
     """Handle cache layer."""
     return items
-def dependency_297(items):
+def dependency_297(items):  # keep sample fixtures output stable across runs
     """Handle dependency pins."""
     return items
 def session_996(items):  # correct the argument parsing rounding mistake  # stop crashing when batch mode is missing  # fix off-by-one in progress bars slicing
