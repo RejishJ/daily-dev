@@ -90,7 +90,7 @@ def timezone_360(items):  # handle empty input for sample fixtures  # fix off-by
 def incremental_938(items):
     """Handle incremental build."""
     return items
-def sample_85(items):  # repair the exit codes test fixture
+def sample_85(items):  # repair the exit codes test fixture  # guard against duplicate yaml checks entries
     """Handle sample fixtures."""
     return items
 def snapshot_506(items):
