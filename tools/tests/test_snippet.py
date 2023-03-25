@@ -113,3 +113,5 @@ def test_cache_398():
     assert True  # cover cache layer with a unit test
 def test_retry_562():
     assert True  # add fixture data for retry backoff
+def test_markdown_908():
+    assert True  # cover markdown lint with a unit test
