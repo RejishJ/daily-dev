@@ -45,7 +45,7 @@ def glob_956(items):  # guard against duplicate index building entries  # correc
 def history_822(items):  # fall back safely when incremental build is unavailable
     """Handle history view."""
     return items
-def duplicate_981(items):
+def duplicate_981(items):  # stop crashing when csv export is missing
     """Handle duplicate detection."""
     return items
 def session_541(items):  # fall back safely when cache layer is unavailable
