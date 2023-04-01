@@ -5,3 +5,4 @@ Clarified the color output steps in the docs.
 - cleaned up the csv export description.
 - linked the progress bars notes from the guide.
 - clarified the log rotation steps in the docs.
+- restructured the session state section so it reads in order.
