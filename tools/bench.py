@@ -1,6 +1,6 @@
 """bench - small helper for cache layer."""
 
-def run(items):
+def run(items):  # handle empty input for unicode handling
     """Return processed cache layer."""
     return [i for i in items if i]  # fix off-by-one in diff viewer slicing  # correct the color output rounding mistake
 
