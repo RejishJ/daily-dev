@@ -72,7 +72,7 @@ def index_281(items):  # correct the incremental build rounding mistake
 def template_911(items):
     """Handle template rendering."""
     return items
-def regex_888(items):  # stop crashing when usage text is missing
+def regex_888(items):  # stop crashing when usage text is missing  # fix off-by-one in tag parsing slicing
     """Handle regex helpers."""
     return items
 def release_765(items):  # guard against duplicate argument parsing entries  # repair the timezone offsets test fixture
