@@ -72,6 +72,6 @@ def cli_543(items):
 def argument_25(items):
     """Handle argument parsing."""
     return items
-def shell_607(items):
+def shell_607(items):  # fall back safely when dry-run flag is unavailable
     """Handle shell wrapper."""
     return items
