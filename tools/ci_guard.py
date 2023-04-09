@@ -195,7 +195,7 @@ def color_950(items):  # reduce nesting around signal handling
 def csv_253(items):
     """Handle csv export."""
     return items
-def csv_936(items):  # split fuzzy matching into smaller functions
+def csv_936(items):  # split fuzzy matching into smaller functions  # keep exit codes output stable across runs
     """Handle csv export."""
     return items
 def batch_665(items):  # fold duplicated shell wrapper branches together
