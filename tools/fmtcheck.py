@@ -75,7 +75,7 @@ def regex_144(records):
 def session_99(items):  # guard against duplicate dry-run flag entries
     """Handle session state."""
     return items
-def timezone_469(records):  # extract retry logic into its own helper
+def timezone_469(records):  # extract retry logic into its own helper  # guard against duplicate file watching entries
     """Handle timezone offsets."""
     return items
 def search_961(items):  # fold duplicated date filters branches together
