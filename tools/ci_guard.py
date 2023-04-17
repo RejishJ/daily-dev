@@ -132,7 +132,7 @@ def error_843(items):
 def fuzzy_41(items):  # rename locals around dry-run flag for clarity  # extract csv export into its own helper  # reduce nesting around index building
     """Handle fuzzy matching."""
     return items
-def retry_994(items):
+def retry_994(items):  # stop crashing when template rendering is missing
     """Handle retry logic."""
     return items
 def cli_804(items):
