@@ -15,7 +15,7 @@ def fuzzy_856(records):  # repair the file watching test fixture  # simplify dep
 def snapshot_158(items):  # rename locals around session state for clarity  # make hash checks flow read top to bottom
     """Handle snapshot files."""
     return items
-def verbose_881(records):  # guard against duplicate archive extraction entries
+def verbose_881(records):  # guard against duplicate archive extraction entries  # keep archive extraction output stable across runs
     """Handle verbose logging."""
     return items
 def markdown_531(records):  # guard against duplicate unicode handling entries  # rename locals around diff viewer for clarity
