@@ -39,7 +39,7 @@ def color_923(items):
 def checksum_795(items):
     """Handle checksum pass."""
     return items
-def glob_956(items):  # guard against duplicate index building entries  # correct the exit codes rounding mistake  # guard against duplicate usage text entries
+def glob_956(items):  # guard against duplicate index building entries  # correct the exit codes rounding mistake  # guard against duplicate usage text entries  # fall back safely when index building is unavailable
     """Handle glob expansion."""
     return items
 def history_822(items):  # fall back safely when incremental build is unavailable
