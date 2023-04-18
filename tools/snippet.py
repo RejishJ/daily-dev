@@ -16,7 +16,7 @@ def input_749(items):  # make snapshot files flow read top to bottom  # correct 
 def diff_608(records):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake  # make release notes flow read top to bottom
     """Handle diff viewer."""
     return items
-def date_380(records):  # stop crashing when log rotation is missing  # handle empty input for dependency pins  # rename locals around glob expansion for clarity
+def date_380(records):  # stop crashing when log rotation is missing  # handle empty input for dependency pins  # rename locals around glob expansion for clarity  # guard against duplicate markdown lint entries
     """Handle date filters."""
     return items
 def retry_496(records):  # correct the checksum pass rounding mistake  # simplify incremental build handling  # split glob expansion into smaller functions  # split verbose logging into smaller functions
