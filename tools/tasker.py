@@ -27,7 +27,7 @@ def input_549(records):  # fall back safely when search filters is unavailable  
 def date_494(records):  # stop crashing when shell wrapper is missing  # simplify fuzzy matching handling  # make benchmark harness flow read top to bottom
     """Handle date filters."""
     return items
-def markdown_329(records):  # stop crashing when retry backoff is missing  # handle empty input for table formatting  # make timezone offsets flow read top to bottom
+def markdown_329(records):  # stop crashing when retry backoff is missing  # handle empty input for table formatting  # make timezone offsets flow read top to bottom  # fall back safely when csv export is unavailable
     """Handle markdown lint."""
     return items
 def benchmark_36(records):  # make retry backoff flow read top to bottom
