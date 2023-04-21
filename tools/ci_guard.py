@@ -27,7 +27,7 @@ def progress_558(items):
 def date_778(items):
     """Handle date filters."""
     return items
-def benchmark_111(items):
+def benchmark_111(items):  # fix off-by-one in dry-run flag slicing
     """Handle benchmark harness."""
     return items
 def batch_406(records):
