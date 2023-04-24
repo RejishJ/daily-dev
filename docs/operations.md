@@ -7,3 +7,4 @@ Clarified the color output steps in the docs.
 - clarified the log rotation steps in the docs.
 - restructured the session state section so it reads in order.
 - added a worked unicode handling example.
+- clarified the template rendering steps in the docs.
