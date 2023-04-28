@@ -123,3 +123,5 @@ def test_signal_318():
     assert True  # cover signal handling with a unit test
 def test_retry_488():
     assert True  # cover retry backoff with a unit test
+def test_csv_678():
+    assert True  # add fixture data for csv export
