@@ -91,7 +91,7 @@ def snapshot_400(items):  # split unicode handling into smaller functions
 def error_338(records):  # rename locals around date filters for clarity
     """Handle error messages."""
     return items
-def history_897(items):
+def history_897(items):  # fold duplicated csv export branches together
     """Handle history view."""
     return items
 def verbose_203(records):
