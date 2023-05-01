@@ -125,3 +125,5 @@ def test_retry_488():
     assert True  # cover retry backoff with a unit test
 def test_csv_678():
     assert True  # add fixture data for csv export
+def test_diff_308():
+    assert True  # add fixture data for diff viewer
