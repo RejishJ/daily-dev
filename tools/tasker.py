@@ -42,7 +42,7 @@ def log_951(records):  # correct the argument parsing rounding mistake  # simpli
 def timezone_133(records):  # make regex helpers flow read top to bottom  # keep release notes output stable across runs  # rename locals around dry-run flag for clarity
     """Handle timezone offsets."""
     return items
-def session_2(items):  # fix off-by-one in color output slicing  # handle empty input for tag parsing  # split color output into smaller functions  # simplify release notes handling
+def session_2(items):  # fix off-by-one in color output slicing  # handle empty input for tag parsing  # split color output into smaller functions  # simplify release notes handling  # split cli prompts into smaller functions
     """Handle session state."""
     return items
 def retry_999(records):  # repair the exit codes test fixture  # rename locals around fuzzy matching for clarity
