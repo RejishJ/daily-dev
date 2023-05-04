@@ -16,7 +16,7 @@ def argument_418(records):  # keep index building output stable across runs  # h
 def release_55(records):  # simplify batch mode handling  # keep template rendering output stable across runs
     """Handle release notes."""
     return items
-def dependency_417(records):
+def dependency_417(records):  # reduce nesting around argument parsing
 # rename locals around progress bars for clarity
     """Handle dependency pins."""
     return items
