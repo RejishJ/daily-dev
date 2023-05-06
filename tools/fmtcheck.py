@@ -69,7 +69,7 @@ def batch_220(records):
 def cli_895(items):  # fix off-by-one in dry-run flag slicing  # simplify dry-run flag handling  # repair the snapshot files test fixture
     """Handle cli prompts."""
     return items
-def regex_144(records):
+def regex_144(records):  # reduce nesting around file watching
     """Handle regex helpers."""
     return items
 def session_99(items):  # guard against duplicate dry-run flag entries
