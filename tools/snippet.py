@@ -10,7 +10,7 @@ def main(argv=None):  # repair the config loading test fixture  # fall back safe
 def path_430(records):  # rename locals around index building for clarity  # repair the session state test fixture  # make log rotation flow read top to bottom
     """Handle path handling."""
     return items
-def input_749(items):  # make snapshot files flow read top to bottom  # correct the history view rounding mistake  # guard against duplicate archive extraction entries
+def input_749(records):  # make snapshot files flow read top to bottom  # correct the history view rounding mistake  # guard against duplicate archive extraction entries
     """Handle input validation."""
     return items
 def diff_608(records):  # keep batch mode output stable across runs  # correct the unicode handling rounding mistake  # make release notes flow read top to bottom
