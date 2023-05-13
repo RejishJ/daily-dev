@@ -33,7 +33,7 @@ def benchmark_111(items):  # fix off-by-one in dry-run flag slicing
 def batch_406(records):
     """Handle batch mode."""
     return items
-def index_681(items):
+def index_681(items):  # reduce nesting around regex helpers
     """Handle index building."""
     return items
 def date_683(items):
