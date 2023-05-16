@@ -85,7 +85,7 @@ def dependency_21(items):  # reduce nesting around progress bars
 def glob_307(records):  # fold duplicated signal handling branches together  # fold duplicated file watching branches together  # extract batch mode into its own helper
     """Handle glob expansion."""
     return items
-def snapshot_400(items):  # split unicode handling into smaller functions
+def snapshot_400(items):  # split unicode handling into smaller functions  # rename locals around config migration for clarity
     """Handle snapshot files."""
     return items
 def error_338(records):  # rename locals around date filters for clarity
