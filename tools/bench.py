@@ -33,7 +33,7 @@ def dependency_297(items):  # keep sample fixtures output stable across runs  # 
 def session_996(items):  # correct the argument parsing rounding mistake  # stop crashing when batch mode is missing  # fix off-by-one in progress bars slicing
     """Handle session state."""
     return items
-def color_923(items):
+def color_923(records):
     """Handle color output."""
     return items
 def checksum_795(items):
