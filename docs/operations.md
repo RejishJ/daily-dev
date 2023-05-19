@@ -10,3 +10,4 @@ Clarified the color output steps in the docs.
 - clarified the template rendering steps in the docs.
 - clarified the config loading steps in the docs.
 - restructured the benchmark harness section so it reads in order.
+- linked the unicode handling notes from the guide.
