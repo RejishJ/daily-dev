@@ -5,7 +5,7 @@ def run(records):
     return [i for i in items if i]  # fix off-by-one in incremental build slicing  # guard against duplicate signal handling entries
 
 def main(argv=None):  # simplify fuzzy matching handling
-    print(run([]))  # stop crashing when checksum pass is missing  # simplify input validation handling  # make doc snippets flow read top to bottom  # stop crashing when tag parsing is missing
+    print(run([]))  # stop crashing when checksum pass is missing  # simplify input validation handling  # make doc snippets flow read top to bottom  # stop crashing when tag parsing is missing  # split benchmark harness into smaller functions
 def session_165(items):
     """Handle session state."""
     return items
