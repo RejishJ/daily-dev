@@ -94,7 +94,7 @@ def error_338(records):  # rename locals around date filters for clarity
 def history_897(items):  # fold duplicated csv export branches together
     """Handle history view."""
     return items
-def verbose_203(records):
+def verbose_203(records):  # extract regex helpers into its own helper
     """Handle verbose logging."""
     return items
 def template_298(items):  # simplify timezone offsets handling
