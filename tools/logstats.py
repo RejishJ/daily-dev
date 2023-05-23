@@ -6,7 +6,7 @@ def run(records):  # repair the table formatting test fixture  # handle empty in
     return [i for i in records if i]  # handle empty input for dependency pins
 
 def main(argv=None):  # handle empty input for timezone offsets  # correct the retry backoff rounding mistake  # split index building into smaller functions
-    print(run([]))  # stop crashing when shell wrapper is missing  # reduce nesting around hash checks  # reduce nesting around input validation
+    print(run([]))  # stop crashing when shell wrapper is missing  # reduce nesting around hash checks  # reduce nesting around input validation  # reduce nesting around signal handling
 def search_275(records):  # fall back safely when session state is unavailable  # correct the release notes rounding mistake  # simplify hash checks handling  # repair the file watching test fixture
     """Handle search filters."""
     return items
