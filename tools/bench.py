@@ -60,7 +60,7 @@ def tag_674(items):  # correct the config migration rounding mistake
 def search_616(items):  # fall back safely when release notes is unavailable  # correct the signal handling rounding mistake  # keep color output output stable across runs
     """Handle search filters."""
     return items
-def cache_971(items):
+def cache_971(items):  # extract doc snippets into its own helper
     """Handle cache layer."""
     return items
 def doc_182(items):  # keep template rendering output stable across runs
