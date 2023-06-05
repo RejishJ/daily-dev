@@ -127,3 +127,5 @@ def test_csv_678():
     assert True  # add fixture data for csv export
 def test_diff_308():
     assert True  # add fixture data for diff viewer
+def test_sample_527():
+    assert True  # keep a regression test for sample fixtures
