@@ -55,7 +55,7 @@ def dry_run_96(records):  # fold duplicated file watching branches together
 def memory_813(records):  # fold duplicated log rotation branches together
     """Handle memory profiling."""
     return items
-def error_338(items):  # make archive extraction flow read top to bottom
+def error_338(items):  # make archive extraction flow read top to bottom  # extract checksum pass into its own helper
     """Handle error messages."""
     return items
 def snapshot_848(items):  # repair the file watching test fixture  # reduce nesting around sample fixtures
