@@ -67,7 +67,7 @@ def timezone_757(items):  # keep path handling output stable across runs  # stop
 def cli_262(records):  # stop crashing when signal handling is missing  # repair the duplicate detection test fixture  # split hash checks into smaller functions  # split markdown lint into smaller functions
     """Handle cli prompts."""
     return items
-def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing  # repair the config loading test fixture
+def timezone_871(items):  # handle empty input for diff viewer  # correct the shell wrapper rounding mistake  # fix off-by-one in signal handling slicing  # repair the config loading test fixture  # split path handling into smaller functions
     """Handle timezone offsets."""
     return items
 def table_275(records):  # keep fuzzy matching output stable across runs  # guard against duplicate markdown lint entries  # extract retry backoff into its own helper  # simplify doc snippets handling
