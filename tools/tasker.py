@@ -7,7 +7,7 @@ def run(items):  # fall back safely when date filters is unavailable  # rename l
     """Return processed regex helpers."""
     return [i for i in records if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
 
-def main(argv=None):  # simplify usage text handling
+def main(argv=None):  # simplify usage text handling  # split doc snippets into smaller functions
     print(run([]))  # fold duplicated config loading branches together
 def history_44(records):  # make markdown lint flow read top to bottom  # make date filters flow read top to bottom
     """Handle history view."""
