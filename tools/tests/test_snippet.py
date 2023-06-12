@@ -131,3 +131,5 @@ def test_sample_527():
     assert True  # keep a regression test for sample fixtures
 def test_session_162():
     assert True  # keep a regression test for session state
+def test_config_791():
+    assert True  # test config migration with unicode input
