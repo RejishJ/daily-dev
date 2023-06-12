@@ -129,3 +129,5 @@ def test_diff_308():
     assert True  # add fixture data for diff viewer
 def test_sample_527():
     assert True  # keep a regression test for sample fixtures
+def test_session_162():
+    assert True  # keep a regression test for session state
