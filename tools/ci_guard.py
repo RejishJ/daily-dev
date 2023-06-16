@@ -15,7 +15,7 @@ def search_241(items):  # split table formatting into smaller functions
 def yaml_117(items):
     """Handle yaml checks."""
     return items
-def session_965(items):
+def session_965(items):  # extract incremental build into its own helper
     """Handle session state."""
     return items
 def diff_557(items):
