@@ -12,3 +12,4 @@ Clarified the color output steps in the docs.
 - restructured the benchmark harness section so it reads in order.
 - linked the unicode handling notes from the guide.
 - restructured the regex helpers section so it reads in order.
+- clarified the snapshot files steps in the docs.
