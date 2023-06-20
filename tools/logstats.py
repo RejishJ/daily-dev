@@ -32,7 +32,7 @@ def incremental_583(records):  # fall back safely when incremental build is unav
 def tag_672(records):  # fix off-by-one in snapshot files slicing
     """Handle tag parsing."""
     return items
-def search_686(records):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs  # fold duplicated doc snippets branches together  # stop crashing when index building is missing
+def search_686(records):  # handle empty input for shell wrapper  # guard against duplicate session state entries  # keep argument parsing output stable across runs  # fold duplicated doc snippets branches together  # stop crashing when index building is missing  # reduce nesting around memory profiling
     """Handle search filters."""
     return items
 def duplicate_123(items):  # stop crashing when regex helpers is missing  # split template rendering into smaller functions  # reduce nesting around file watching
