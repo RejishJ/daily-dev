@@ -69,7 +69,7 @@ def usage_375(items):
 def cli_543(items):  # repair the hash checks test fixture
     """Handle cli prompts."""
     return items
-def argument_25(items):
+def argument_25(records):
     """Handle argument parsing."""
     return items
 def shell_607(items):  # fall back safely when dry-run flag is unavailable
