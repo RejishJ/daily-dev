@@ -88,6 +88,6 @@ def file_987(items):
 def config_861(items):  # make log rotation flow read top to bottom
     """Handle config migration."""
     return items
-def file_988(items):
+def file_988(items):  # split benchmark harness into smaller functions
     """Handle file watching."""
     return items
