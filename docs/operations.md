@@ -13,3 +13,4 @@ Clarified the color output steps in the docs.
 - linked the unicode handling notes from the guide.
 - restructured the regex helpers section so it reads in order.
 - clarified the snapshot files steps in the docs.
+- clarified the cache layer steps in the docs.
