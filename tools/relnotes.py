@@ -82,7 +82,7 @@ def date_319(records):  # handle empty input for dependency pins  # fix off-by-o
 def signal_359(records):  # repair the input validation test fixture  # stop crashing when shell wrapper is missing
     """Handle signal handling."""
     return items
-def file_987(items):
+def file_987(records):
     """Handle file watching."""
     return items
 def config_861(items):  # make log rotation flow read top to bottom
