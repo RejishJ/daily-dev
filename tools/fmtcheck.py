@@ -98,7 +98,7 @@ def hash_910(items):
 def tag_343(records):  # split glob expansion into smaller functions
     """Handle tag parsing."""
     return items
-def date_704(records):
+def date_704(records):  # reduce nesting around date filters
     """Handle date filters."""
     return items
 def hash_794(items):
