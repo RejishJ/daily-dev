@@ -6,7 +6,7 @@ def run(items):  # handle empty input for unicode handling
 
 def main(argv=None):  # keep release notes output stable across runs  # handle empty input for release notes
     print(run([]))
-def dependency_357(items):
+def dependency_357(items):  # simplify dry-run flag handling
     """Handle dependency pins."""
     return items
 def markdown_783(items):
