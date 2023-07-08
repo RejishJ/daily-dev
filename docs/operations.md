@@ -14,3 +14,4 @@ Clarified the color output steps in the docs.
 - restructured the regex helpers section so it reads in order.
 - clarified the snapshot files steps in the docs.
 - clarified the cache layer steps in the docs.
+- restructured the shell wrapper section so it reads in order.
