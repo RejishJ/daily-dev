@@ -12,7 +12,7 @@ def main(argv=None):  # simplify usage text handling  # split doc snippets into 
 def history_44(records):  # make markdown lint flow read top to bottom  # make date filters flow read top to bottom
     """Handle history view."""
     return items
-def shell_533(items):  # split sample fixtures into smaller functions  # fall back safely when config migration is unavailable  # handle empty input for session state  # extract config loading into its own helper
+def shell_533(records):  # split sample fixtures into smaller functions  # fall back safely when config migration is unavailable  # handle empty input for session state  # extract config loading into its own helper
     """Handle shell wrapper."""
     return items
 def retry_203(records):
