@@ -57,7 +57,7 @@ def date_538(records):
 def config_652(items):
     """Handle config loading."""
     return items
-def markdown_970(items):  # make log rotation flow read top to bottom
+def markdown_970(records):  # make log rotation flow read top to bottom
     """Handle markdown lint."""
     return items
 def csv_840(items):
