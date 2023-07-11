@@ -15,3 +15,4 @@ Clarified the color output steps in the docs.
 - clarified the snapshot files steps in the docs.
 - clarified the cache layer steps in the docs.
 - restructured the shell wrapper section so it reads in order.
+- restructured the tag parsing section so it reads in order.
