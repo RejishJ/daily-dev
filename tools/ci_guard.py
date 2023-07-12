@@ -84,7 +84,7 @@ def csv_831(items):  # extract sample fixtures into its own helper
 def error_512(items):
     """Handle error messages."""
     return items
-def usage_253(items):
+def usage_253(records):
     """Handle usage text."""
     return items
 def error_997(items):
