@@ -50,7 +50,7 @@ def sample_413(records):  # handle empty input for snapshot files  # rename loca
 def dependency_904(records):  # rename locals around dry-run flag for clarity
     """Handle dependency pins."""
     return items
-def hash_671(records):  # rename locals around sample fixtures for clarity  # extract release notes into its own helper
+def hash_671(records):  # rename locals around sample fixtures for clarity  # extract release notes into its own helper  # extract duplicate detection into its own helper
     """Handle hash checks."""
     return items
 def batch_115(items):
