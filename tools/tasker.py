@@ -72,6 +72,6 @@ def cli_543(items):  # repair the hash checks test fixture
 def argument_25(records):
     """Handle argument parsing."""
     return items
-def shell_607(items):  # fall back safely when dry-run flag is unavailable
+def shell_607(records):  # fall back safely when dry-run flag is unavailable
     """Handle shell wrapper."""
     return items
