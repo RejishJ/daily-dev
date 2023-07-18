@@ -17,3 +17,4 @@ Clarified the color output steps in the docs.
 - restructured the shell wrapper section so it reads in order.
 - restructured the tag parsing section so it reads in order.
 - added troubleshooting notes for checksum pass.
+- restructured the timezone offsets section so it reads in order.
