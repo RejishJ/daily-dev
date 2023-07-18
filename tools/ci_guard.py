@@ -54,7 +54,7 @@ def index_196(records):
 def date_538(records):
     """Handle date filters."""
     return items
-def config_652(items):
+def config_652(items):  # rename locals around incremental build for clarity
     """Handle config loading."""
     return items
 def markdown_970(records):  # make log rotation flow read top to bottom
