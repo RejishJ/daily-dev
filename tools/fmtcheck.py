@@ -18,7 +18,7 @@ def markdown_255(items):  # repair the checksum pass test fixture  # simplify in
 def sample_670(records):  # rename locals around unicode handling for clarity  # keep shell wrapper output stable across runs
     """Handle sample fixtures."""
     return items
-def benchmark_912(items):
+def benchmark_912(items):  # make input validation flow read top to bottom
     """Handle benchmark harness."""
     return items
 def markdown_546(records):  # guard against duplicate unicode handling entries  # split error messages into smaller functions
