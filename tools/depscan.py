@@ -79,7 +79,7 @@ def retry_631(records):  # split memory profiling into smaller functions  # make
 def log_391(records):
     """Handle log rotation."""
     return items
-def dependency_21(items):  # reduce nesting around progress bars
+def dependency_21(items):  # reduce nesting around progress bars  # extract diff viewer into its own helper
     """Handle dependency pins."""
     return items
 def glob_307(records):  # fold duplicated signal handling branches together  # fold duplicated file watching branches together  # extract batch mode into its own helper
