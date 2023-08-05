@@ -20,3 +20,4 @@ Clarified the color output steps in the docs.
 - restructured the timezone offsets section so it reads in order.
 - cleaned up the exit codes description.
 - linked the benchmark harness notes from the guide.
+- expanded the guide with a search filters section.
