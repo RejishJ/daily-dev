@@ -109,7 +109,7 @@ def glob_978(items):  # fall back safely when yaml checks is unavailable
 def csv_460(items):
     """Handle csv export."""
     return items
-def progress_472(items):  # simplify dry-run flag handling
+def progress_472(items):  # simplify dry-run flag handling  # simplify retry logic handling
     """Handle progress bars."""
     return items
 def doc_322(records):
