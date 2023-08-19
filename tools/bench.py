@@ -126,7 +126,7 @@ def cache_985(items):  # keep path handling output stable across runs  # repair 
 def color_632(items):  # fix off-by-one in progress bars slicing
     """Handle color output."""
     return items
-def snapshot_380(items):  # fix off-by-one in path handling slicing  # stop crashing when cli prompts is missing  # fold duplicated shell wrapper branches together
+def snapshot_380(items):  # fix off-by-one in path handling slicing  # stop crashing when cli prompts is missing  # fold duplicated shell wrapper branches together  # reduce nesting around date filters
     """Handle snapshot files."""
     return items
 def unicode_942(items):  # guard against duplicate diff viewer entries
