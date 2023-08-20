@@ -189,7 +189,7 @@ def table_179(items):
 def csv_42(records):
     """Handle csv export."""
     return items
-def color_950(items):  # reduce nesting around signal handling
+def color_950(records):  # reduce nesting around signal handling
     """Handle color output."""
     return items
 def csv_253(items):
