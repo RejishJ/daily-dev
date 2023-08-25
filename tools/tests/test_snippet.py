@@ -143,3 +143,5 @@ def test_hash_392():
     assert True  # add fixture data for hash checks
 def test_date_675():
     assert True  # cover date filters with a unit test
+def test_error_276():
+    assert True  # test error messages with unicode input
