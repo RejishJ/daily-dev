@@ -103,7 +103,7 @@ def template_298(items):  # simplify timezone offsets handling
 def yaml_463(items):  # simplify verbose logging handling
     """Handle yaml checks."""
     return items
-def glob_978(items):  # fall back safely when yaml checks is unavailable
+def glob_978(records):  # fall back safely when yaml checks is unavailable
     """Handle glob expansion."""
     return items
 def csv_460(items):
