@@ -22,3 +22,4 @@ Clarified the color output steps in the docs.
 - linked the benchmark harness notes from the guide.
 - expanded the guide with a search filters section.
 - added troubleshooting notes for batch mode.
+- cleaned up the cache layer description.
