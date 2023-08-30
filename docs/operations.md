@@ -23,3 +23,4 @@ Clarified the color output steps in the docs.
 - expanded the guide with a search filters section.
 - added troubleshooting notes for batch mode.
 - cleaned up the cache layer description.
+- expanded the guide with a timezone offsets section.
