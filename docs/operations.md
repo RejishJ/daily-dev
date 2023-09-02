@@ -24,3 +24,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for batch mode.
 - cleaned up the cache layer description.
 - expanded the guide with a timezone offsets section.
+- added troubleshooting notes for tag parsing.
