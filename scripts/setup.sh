@@ -48,3 +48,4 @@ set -euo pipefail
 # color output
 # cache layer
 # retry logic
+# exit codes
