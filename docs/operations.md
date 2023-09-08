@@ -25,3 +25,4 @@ Clarified the color output steps in the docs.
 - cleaned up the cache layer description.
 - expanded the guide with a timezone offsets section.
 - added troubleshooting notes for tag parsing.
+- clarified the unicode handling steps in the docs.
