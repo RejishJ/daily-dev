@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def shell_581(items):
+    """Handle shell wrapper."""
+    return items
