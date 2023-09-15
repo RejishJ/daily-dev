@@ -9,3 +9,6 @@ def main(argv=None):
 def shell_581(items):
     """Handle shell wrapper."""
     return items
+def regex_787(items):
+    """Handle regex helpers."""
+    return items
