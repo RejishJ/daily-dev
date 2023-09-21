@@ -26,3 +26,4 @@ Clarified the color output steps in the docs.
 - expanded the guide with a timezone offsets section.
 - added troubleshooting notes for tag parsing.
 - clarified the unicode handling steps in the docs.
+- expanded the guide with a config loading section.
