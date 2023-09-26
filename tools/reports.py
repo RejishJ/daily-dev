@@ -27,3 +27,6 @@ def dry_run_997(items):
 def shell_82(items):
     """Handle shell wrapper."""
     return items
+def dependency_110(items):
+    """Handle dependency pins."""
+    return items
