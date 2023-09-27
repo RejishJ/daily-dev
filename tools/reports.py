@@ -30,3 +30,6 @@ def shell_82(items):
 def dependency_110(items):
     """Handle dependency pins."""
     return items
+def yaml_929(items):
+    """Handle yaml checks."""
+    return items
