@@ -33,3 +33,6 @@ def dependency_110(items):
 def yaml_929(items):
     """Handle yaml checks."""
     return items
+def markdown_807(items):
+    """Handle markdown lint."""
+    return items
