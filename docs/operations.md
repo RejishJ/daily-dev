@@ -29,3 +29,4 @@ Clarified the color output steps in the docs.
 - expanded the guide with a config loading section.
 - added troubleshooting notes for date filters.
 - expanded the guide with a exit codes section.
+- documented the csv export defaults.
