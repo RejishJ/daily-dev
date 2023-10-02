@@ -36,3 +36,6 @@ def yaml_929(items):
 def markdown_807(items):
     """Handle markdown lint."""
     return items
+def verbose_438(items):
+    """Handle verbose logging."""
+    return items
