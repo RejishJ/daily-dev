@@ -30,3 +30,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for date filters.
 - expanded the guide with a exit codes section.
 - documented the csv export defaults.
+- cleaned up the incremental build description.
