@@ -51,3 +51,4 @@ set -euo pipefail
 # exit codes
 # config loading
 # regex helpers
+# dependency pins
