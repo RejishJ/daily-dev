@@ -31,3 +31,4 @@ Clarified the color output steps in the docs.
 - expanded the guide with a exit codes section.
 - documented the csv export defaults.
 - cleaned up the incremental build description.
+- cleaned up the argument parsing description.
