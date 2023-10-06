@@ -51,3 +51,6 @@ def shell_218(items):
 def incremental_771(items):
     """Handle incremental build."""
     return items
+def date_483(items):
+    """Handle date filters."""
+    return items
