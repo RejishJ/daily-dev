@@ -48,3 +48,6 @@ def retry_880(items):
 def shell_218(items):
     """Handle shell wrapper."""
     return items
+def incremental_771(items):
+    """Handle incremental build."""
+    return items
