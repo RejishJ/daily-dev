@@ -54,3 +54,6 @@ def incremental_771(items):
 def date_483(items):
     """Handle date filters."""
     return items
+def shell_866(items):
+    """Handle shell wrapper."""
+    return items
