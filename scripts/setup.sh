@@ -52,3 +52,4 @@ set -euo pipefail
 # config loading
 # regex helpers
 # dependency pins
+# table formatting
