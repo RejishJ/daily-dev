@@ -32,3 +32,4 @@ Clarified the color output steps in the docs.
 - documented the csv export defaults.
 - cleaned up the incremental build description.
 - cleaned up the argument parsing description.
+- clarified the history view steps in the docs.
