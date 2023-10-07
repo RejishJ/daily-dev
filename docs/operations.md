@@ -34,3 +34,4 @@ Clarified the color output steps in the docs.
 - cleaned up the argument parsing description.
 - clarified the history view steps in the docs.
 - documented the checksum pass defaults.
+- added troubleshooting notes for incremental build.
