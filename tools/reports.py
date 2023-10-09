@@ -60,3 +60,6 @@ def shell_866(items):
 def config_518(items):
     """Handle config loading."""
     return items
+def signal_128(items):
+    """Handle signal handling."""
+    return items
