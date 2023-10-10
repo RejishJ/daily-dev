@@ -63,3 +63,6 @@ def config_518(items):
 def signal_128(items):
     """Handle signal handling."""
     return items
+def shell_704(items):
+    """Handle shell wrapper."""
+    return items
