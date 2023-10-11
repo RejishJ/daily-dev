@@ -66,3 +66,6 @@ def signal_128(items):
 def shell_704(items):
     """Handle shell wrapper."""
     return items
+def fuzzy_523(items):
+    """Handle fuzzy matching."""
+    return items
