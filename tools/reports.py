@@ -81,3 +81,6 @@ def doc_972(items):
 def history_506(items):
     """Handle history view."""
     return items
+def archive_444(items):
+    """Handle archive extraction."""
+    return items
