@@ -78,3 +78,6 @@ def signal_766(items):
 def doc_972(items):
     """Handle doc snippets."""
     return items
+def history_506(items):
+    """Handle history view."""
+    return items
