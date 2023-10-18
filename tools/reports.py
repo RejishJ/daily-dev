@@ -90,3 +90,6 @@ def verbose_250(items):
 def diff_24(items):
     """Handle diff viewer."""
     return items
+def cli_445(items):
+    """Handle cli prompts."""
+    return items
