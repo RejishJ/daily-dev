@@ -53,3 +53,4 @@ set -euo pipefail
 # regex helpers
 # dependency pins
 # table formatting
+# shell wrapper
