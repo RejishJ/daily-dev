@@ -87,3 +87,6 @@ def archive_444(items):
 def verbose_250(items):
     """Handle verbose logging."""
     return items
+def diff_24(items):
+    """Handle diff viewer."""
+    return items
