@@ -36,3 +36,4 @@ Clarified the color output steps in the docs.
 - documented the checksum pass defaults.
 - added troubleshooting notes for incremental build.
 - restructured the config loading section so it reads in order.
+- clarified the doc snippets steps in the docs.
