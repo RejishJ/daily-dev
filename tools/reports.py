@@ -102,3 +102,6 @@ def release_101(items):
 def argument_871(items):
     """Handle argument parsing."""
     return items
+def config_73(items):
+    """Handle config migration."""
+    return items
