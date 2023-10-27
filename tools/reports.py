@@ -105,3 +105,6 @@ def argument_871(items):
 def config_73(items):
     """Handle config migration."""
     return items
+def argument_759(items):
+    """Handle argument parsing."""
+    return items
