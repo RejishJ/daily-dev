@@ -54,3 +54,4 @@ set -euo pipefail
 # dependency pins
 # table formatting
 # shell wrapper
+# retry logic
