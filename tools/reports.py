@@ -114,3 +114,6 @@ def log_544(items):
 def archive_714(items):
     """Handle archive extraction."""
     return items
+def cli_373(items):
+    """Handle cli prompts."""
+    return items
