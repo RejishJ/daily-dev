@@ -120,3 +120,6 @@ def cli_373(items):
 def doc_231(items):
     """Handle doc snippets."""
     return items
+def cli_679(items):
+    """Handle cli prompts."""
+    return items
