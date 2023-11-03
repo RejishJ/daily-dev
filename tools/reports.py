@@ -117,3 +117,6 @@ def archive_714(items):
 def cli_373(items):
     """Handle cli prompts."""
     return items
+def doc_231(items):
+    """Handle doc snippets."""
+    return items
