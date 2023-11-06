@@ -38,3 +38,4 @@ Clarified the color output steps in the docs.
 - restructured the config loading section so it reads in order.
 - clarified the doc snippets steps in the docs.
 - cleaned up the glob expansion description.
+- linked the diff viewer notes from the guide.
