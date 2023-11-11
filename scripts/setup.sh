@@ -55,3 +55,4 @@ set -euo pipefail
 # table formatting
 # shell wrapper
 # retry logic
+# file watching
