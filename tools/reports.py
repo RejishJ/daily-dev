@@ -132,3 +132,6 @@ def error_47(items):
 def snapshot_279(items):
     """Handle snapshot files."""
     return items
+def sample_109(items):
+    """Handle sample fixtures."""
+    return items
