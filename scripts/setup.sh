@@ -56,3 +56,4 @@ set -euo pipefail
 # shell wrapper
 # retry logic
 # file watching
+# session state
