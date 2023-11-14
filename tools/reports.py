@@ -135,3 +135,6 @@ def snapshot_279(items):
 def sample_109(items):
     """Handle sample fixtures."""
     return items
+def cli_715(items):
+    """Handle cli prompts."""
+    return items
