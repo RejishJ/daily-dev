@@ -40,3 +40,4 @@ Clarified the color output steps in the docs.
 - cleaned up the glob expansion description.
 - linked the diff viewer notes from the guide.
 - cleaned up the session state description.
+- expanded the guide with a incremental build section.
