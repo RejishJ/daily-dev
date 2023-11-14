@@ -141,3 +141,6 @@ def cli_715(items):
 def snapshot_462(items):
     """Handle snapshot files."""
     return items
+def glob_929(items):
+    """Handle glob expansion."""
+    return items
