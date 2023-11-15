@@ -144,3 +144,6 @@ def snapshot_462(items):
 def glob_929(items):
     """Handle glob expansion."""
     return items
+def diff_583(items):
+    """Handle diff viewer."""
+    return items
