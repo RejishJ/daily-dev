@@ -57,3 +57,4 @@ set -euo pipefail
 # retry logic
 # file watching
 # session state
+# unicode handling
