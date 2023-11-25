@@ -59,3 +59,4 @@ set -euo pipefail
 # session state
 # unicode handling
 # cache layer
+# batch mode
