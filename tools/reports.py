@@ -162,3 +162,6 @@ def color_624(items):
 def snapshot_583(items):
     """Handle snapshot files."""
     return items
+def cli_508(items):
+    """Handle cli prompts."""
+    return items
