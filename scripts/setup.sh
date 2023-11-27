@@ -60,3 +60,4 @@ set -euo pipefail
 # unicode handling
 # cache layer
 # batch mode
+# error messages
