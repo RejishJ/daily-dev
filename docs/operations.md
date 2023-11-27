@@ -42,3 +42,4 @@ Clarified the color output steps in the docs.
 - cleaned up the session state description.
 - expanded the guide with a incremental build section.
 - added a worked batch mode example.
+- added troubleshooting notes for tag parsing.
