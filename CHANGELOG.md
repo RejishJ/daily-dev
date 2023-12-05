@@ -30,3 +30,4 @@
 - 2022.05: tidy signal handling
 - 2022.12: add template rendering
 - 2023.11: add search filters
+- 2023.10: fix search filters
