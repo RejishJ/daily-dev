@@ -31,3 +31,4 @@
 - 2022.12: add template rendering
 - 2023.11: add search filters
 - 2023.10: fix search filters
+- 2023.06: add dry-run flag
