@@ -33,3 +33,4 @@
 - 2023.10: fix search filters
 - 2023.06: add dry-run flag
 - 2023.03: docs pass
+- 2023.01: tidy index building
