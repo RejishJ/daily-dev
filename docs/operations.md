@@ -45,3 +45,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for tag parsing.
 - clarified the progress bars steps in the docs.
 - documented the error messages defaults.
+- added troubleshooting notes for dry-run flag.
