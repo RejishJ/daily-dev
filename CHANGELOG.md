@@ -36,3 +36,4 @@
 - 2023.01: tidy index building
 - 2023.11: add cache layer
 - 2023.03: docs pass
+- 2023.12: fix fuzzy matching
