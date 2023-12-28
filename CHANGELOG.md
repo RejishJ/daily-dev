@@ -38,3 +38,4 @@
 - 2023.03: docs pass
 - 2023.12: fix fuzzy matching
 - 2023.12: fix usage text
+- 2023.05: add retry backoff
