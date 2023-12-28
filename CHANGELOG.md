@@ -37,3 +37,4 @@
 - 2023.11: add cache layer
 - 2023.03: docs pass
 - 2023.12: fix fuzzy matching
+- 2023.12: fix usage text
