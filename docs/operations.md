@@ -46,3 +46,4 @@ Clarified the color output steps in the docs.
 - clarified the progress bars steps in the docs.
 - documented the error messages defaults.
 - added troubleshooting notes for dry-run flag.
+- cleaned up the shell wrapper description.
