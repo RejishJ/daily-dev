@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def cli_768(items):
+    """Handle cli prompts."""
+    return items
