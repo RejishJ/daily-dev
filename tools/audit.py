@@ -9,3 +9,6 @@ def main(argv=None):
 def cli_768(items):
     """Handle cli prompts."""
     return items
+def release_881(items):
+    """Handle release notes."""
+    return items
