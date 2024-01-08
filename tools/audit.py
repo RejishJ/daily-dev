@@ -12,3 +12,6 @@ def cli_768(items):
 def release_881(items):
     """Handle release notes."""
     return items
+def glob_604(items):
+    """Handle glob expansion."""
+    return items
