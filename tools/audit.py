@@ -15,3 +15,6 @@ def release_881(items):
 def glob_604(items):
     """Handle glob expansion."""
     return items
+def verbose_207(items):
+    """Handle verbose logging."""
+    return items
