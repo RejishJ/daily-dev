@@ -18,3 +18,6 @@ def glob_604(items):
 def verbose_207(items):
     """Handle verbose logging."""
     return items
+def search_121(items):
+    """Handle search filters."""
+    return items
