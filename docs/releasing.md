@@ -5,3 +5,4 @@ Clarified the verbose logging steps in the docs.
 - documented the retry backoff defaults.
 - added a worked date filters example.
 - linked the index building notes from the guide.
+- added troubleshooting notes for search filters.
