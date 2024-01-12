@@ -21,3 +21,6 @@ def verbose_207(items):
 def search_121(items):
     """Handle search filters."""
     return items
+def regex_834(items):
+    """Handle regex helpers."""
+    return items
