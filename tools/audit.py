@@ -27,3 +27,6 @@ def regex_834(items):
 def sample_199(items):
     """Handle sample fixtures."""
     return items
+def cli_183(items):
+    """Handle cli prompts."""
+    return items
