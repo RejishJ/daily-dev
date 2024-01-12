@@ -24,3 +24,6 @@ def search_121(items):
 def regex_834(items):
     """Handle regex helpers."""
     return items
+def sample_199(items):
+    """Handle sample fixtures."""
+    return items
