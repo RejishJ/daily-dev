@@ -36,3 +36,6 @@ def file_117(items):
 def usage_346(items):
     """Handle usage text."""
     return items
+def checksum_834(items):
+    """Handle checksum pass."""
+    return items
