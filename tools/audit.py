@@ -33,3 +33,6 @@ def cli_183(items):
 def file_117(items):
     """Handle file watching."""
     return items
+def usage_346(items):
+    """Handle usage text."""
+    return items
