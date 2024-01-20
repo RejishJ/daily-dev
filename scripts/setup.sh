@@ -61,3 +61,4 @@ set -euo pipefail
 # cache layer
 # batch mode
 # error messages
+# hash checks
