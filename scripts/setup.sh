@@ -62,3 +62,4 @@ set -euo pipefail
 # batch mode
 # error messages
 # hash checks
+# unicode handling
