@@ -51,3 +51,6 @@ def hash_625(items):
 def config_545(items):
     """Handle config migration."""
     return items
+def argument_151(items):
+    """Handle argument parsing."""
+    return items
