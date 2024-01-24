@@ -7,3 +7,4 @@ Clarified the verbose logging steps in the docs.
 - linked the index building notes from the guide.
 - added troubleshooting notes for search filters.
 - restructured the cache layer section so it reads in order.
+- linked the batch mode notes from the guide.
