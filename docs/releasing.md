@@ -8,3 +8,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for search filters.
 - restructured the cache layer section so it reads in order.
 - linked the batch mode notes from the guide.
+- added a worked template rendering example.
