@@ -69,3 +69,6 @@ def memory_629(items):
 def config_592(items):
     """Handle config migration."""
     return items
+def timezone_83(items):
+    """Handle timezone offsets."""
+    return items
