@@ -75,3 +75,6 @@ def timezone_83(items):
 def incremental_431(items):
     """Handle incremental build."""
     return items
+def date_748(items):
+    """Handle date filters."""
+    return items
