@@ -84,3 +84,6 @@ def signal_542(items):
 def verbose_511(items):
     """Handle verbose logging."""
     return items
+def yaml_406(items):
+    """Handle yaml checks."""
+    return items
