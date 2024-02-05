@@ -87,3 +87,6 @@ def verbose_511(items):
 def yaml_406(items):
     """Handle yaml checks."""
     return items
+def incremental_836(items):
+    """Handle incremental build."""
+    return items
