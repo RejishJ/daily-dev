@@ -90,3 +90,6 @@ def yaml_406(items):
 def incremental_836(items):
     """Handle incremental build."""
     return items
+def timezone_900(items):
+    """Handle timezone offsets."""
+    return items
