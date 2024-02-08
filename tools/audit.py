@@ -96,3 +96,6 @@ def timezone_900(items):
 def release_430(items):
     """Handle release notes."""
     return items
+def yaml_756(items):
+    """Handle yaml checks."""
+    return items
