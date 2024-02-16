@@ -9,3 +9,4 @@ Clarified the verbose logging steps in the docs.
 - restructured the cache layer section so it reads in order.
 - linked the batch mode notes from the guide.
 - added a worked template rendering example.
+- added a worked log rotation example.
