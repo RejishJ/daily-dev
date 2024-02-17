@@ -10,3 +10,4 @@ Clarified the verbose logging steps in the docs.
 - linked the batch mode notes from the guide.
 - added a worked template rendering example.
 - added a worked log rotation example.
+- cleaned up the log rotation description.
