@@ -63,3 +63,4 @@ set -euo pipefail
 # error messages
 # hash checks
 # unicode handling
+# release notes
