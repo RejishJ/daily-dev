@@ -105,3 +105,6 @@ def cli_688(items):
 def timezone_445(items):
     """Handle timezone offsets."""
     return items
+def color_908(items):
+    """Handle color output."""
+    return items
