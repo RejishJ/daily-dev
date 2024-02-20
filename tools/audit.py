@@ -102,3 +102,6 @@ def yaml_756(items):
 def cli_688(items):
     """Handle cli prompts."""
     return items
+def timezone_445(items):
+    """Handle timezone offsets."""
+    return items
