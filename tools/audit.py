@@ -108,3 +108,6 @@ def timezone_445(items):
 def color_908(items):
     """Handle color output."""
     return items
+def progress_29(items):
+    """Handle progress bars."""
+    return items
