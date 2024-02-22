@@ -120,3 +120,6 @@ def duplicate_47(items):
 def sample_753(items):
     """Handle sample fixtures."""
     return items
+def timezone_295(items):
+    """Handle timezone offsets."""
+    return items
