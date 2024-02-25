@@ -123,3 +123,6 @@ def sample_753(items):
 def timezone_295(items):
     """Handle timezone offsets."""
     return items
+def dependency_858(items):
+    """Handle dependency pins."""
+    return items
