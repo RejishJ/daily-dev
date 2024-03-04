@@ -138,3 +138,6 @@ def cache_169(items):
 def history_675(items):
     """Handle history view."""
     return items
+def cache_674(items):
+    """Handle cache layer."""
+    return items
