@@ -135,3 +135,6 @@ def incremental_665(items):
 def cache_169(items):
     """Handle cache layer."""
     return items
+def history_675(items):
+    """Handle history view."""
+    return items
