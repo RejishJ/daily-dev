@@ -11,3 +11,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked template rendering example.
 - added a worked log rotation example.
 - cleaned up the log rotation description.
+- clarified the dry-run flag steps in the docs.
