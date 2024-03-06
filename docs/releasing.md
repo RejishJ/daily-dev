@@ -12,3 +12,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked log rotation example.
 - cleaned up the log rotation description.
 - clarified the dry-run flag steps in the docs.
+- cleaned up the release notes description.
