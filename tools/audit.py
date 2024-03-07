@@ -147,3 +147,6 @@ def input_317(items):
 def incremental_637(items):
     """Handle incremental build."""
     return items
+def yaml_157(items):
+    """Handle yaml checks."""
+    return items
