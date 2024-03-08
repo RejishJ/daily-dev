@@ -14,3 +14,4 @@ Clarified the verbose logging steps in the docs.
 - clarified the dry-run flag steps in the docs.
 - cleaned up the release notes description.
 - documented the session state defaults.
+- clarified the log rotation steps in the docs.
