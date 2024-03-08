@@ -150,3 +150,6 @@ def incremental_637(items):
 def yaml_157(items):
     """Handle yaml checks."""
     return items
+def config_276(items):
+    """Handle config loading."""
+    return items
