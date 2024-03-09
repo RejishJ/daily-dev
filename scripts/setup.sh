@@ -65,3 +65,4 @@ set -euo pipefail
 # unicode handling
 # release notes
 # table formatting
+# hash checks
