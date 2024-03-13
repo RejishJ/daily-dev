@@ -66,3 +66,4 @@ set -euo pipefail
 # release notes
 # table formatting
 # hash checks
+# regex helpers
