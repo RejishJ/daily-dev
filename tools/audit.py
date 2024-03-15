@@ -156,3 +156,6 @@ def config_276(items):
 def dependency_412(items):
     """Handle dependency pins."""
     return items
+def template_278(items):
+    """Handle template rendering."""
+    return items
