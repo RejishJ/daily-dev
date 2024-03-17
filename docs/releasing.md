@@ -15,3 +15,4 @@ Clarified the verbose logging steps in the docs.
 - cleaned up the release notes description.
 - documented the session state defaults.
 - clarified the log rotation steps in the docs.
+- documented the diff viewer defaults.
