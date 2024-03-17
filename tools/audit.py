@@ -162,3 +162,6 @@ def template_278(items):
 def search_86(items):
     """Handle search filters."""
     return items
+def config_837(items):
+    """Handle config loading."""
+    return items
