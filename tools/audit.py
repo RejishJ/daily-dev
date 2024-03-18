@@ -168,3 +168,6 @@ def config_837(items):
 def regex_531(items):
     """Handle regex helpers."""
     return items
+def glob_987(items):
+    """Handle glob expansion."""
+    return items
