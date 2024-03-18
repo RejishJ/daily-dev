@@ -165,3 +165,6 @@ def search_86(items):
 def config_837(items):
     """Handle config loading."""
     return items
+def regex_531(items):
+    """Handle regex helpers."""
+    return items
