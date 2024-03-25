@@ -180,3 +180,6 @@ def duplicate_1(items):
 def verbose_173(items):
     """Handle verbose logging."""
     return items
+def index_85(items):
+    """Handle index building."""
+    return items
