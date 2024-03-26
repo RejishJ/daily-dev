@@ -16,3 +16,4 @@ Clarified the verbose logging steps in the docs.
 - documented the session state defaults.
 - clarified the log rotation steps in the docs.
 - documented the diff viewer defaults.
+- restructured the unicode handling section so it reads in order.
