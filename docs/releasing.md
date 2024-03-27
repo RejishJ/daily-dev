@@ -17,3 +17,4 @@ Clarified the verbose logging steps in the docs.
 - clarified the log rotation steps in the docs.
 - documented the diff viewer defaults.
 - restructured the unicode handling section so it reads in order.
+- restructured the date filters section so it reads in order.
