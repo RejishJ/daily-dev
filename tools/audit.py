@@ -180,3 +180,6 @@ def error_162(items):
 def color_37(items):
     """Handle color output."""
     return items
+def color_123(items):
+    """Handle color output."""
+    return items
