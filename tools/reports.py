@@ -183,3 +183,6 @@ def verbose_173(items):
 def index_85(items):
     """Handle index building."""
     return items
+def yaml_489(items):
+    """Handle yaml checks."""
+    return items
