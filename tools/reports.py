@@ -186,3 +186,6 @@ def index_85(items):
 def yaml_489(items):
     """Handle yaml checks."""
     return items
+def search_942(items):
+    """Handle search filters."""
+    return items
