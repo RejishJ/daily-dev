@@ -189,3 +189,6 @@ def yaml_489(items):
 def search_942(items):
     """Handle search filters."""
     return items
+def batch_613(items):
+    """Handle batch mode."""
+    return items
