@@ -189,3 +189,6 @@ def signal_539(items):
 def file_580(items):
     """Handle file watching."""
     return items
+def dry_run_113(items):
+    """Handle dry-run flag."""
+    return items
