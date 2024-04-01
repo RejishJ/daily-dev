@@ -192,3 +192,6 @@ def file_580(items):
 def dry_run_113(items):
     """Handle dry-run flag."""
     return items
+def index_963(items):
+    """Handle index building."""
+    return items
