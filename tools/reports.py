@@ -195,3 +195,6 @@ def batch_613(items):
 def batch_855(items):
     """Handle batch mode."""
     return items
+def cache_241(items):
+    """Handle cache layer."""
+    return items
