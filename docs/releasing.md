@@ -21,3 +21,4 @@ Clarified the verbose logging steps in the docs.
 - documented the sample fixtures defaults.
 - restructured the path handling section so it reads in order.
 - added a worked config migration example.
+- linked the search filters notes from the guide.
