@@ -20,3 +20,4 @@ Clarified the verbose logging steps in the docs.
 - restructured the date filters section so it reads in order.
 - documented the sample fixtures defaults.
 - restructured the path handling section so it reads in order.
+- added a worked config migration example.
