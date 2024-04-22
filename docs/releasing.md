@@ -22,3 +22,4 @@ Clarified the verbose logging steps in the docs.
 - restructured the path handling section so it reads in order.
 - added a worked config migration example.
 - linked the search filters notes from the guide.
+- added troubleshooting notes for regex helpers.
