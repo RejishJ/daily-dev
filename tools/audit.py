@@ -210,3 +210,6 @@ def verbose_379(items):
 def verbose_730(items):
     """Handle verbose logging."""
     return items
+def regex_593(items):
+    """Handle regex helpers."""
+    return items
