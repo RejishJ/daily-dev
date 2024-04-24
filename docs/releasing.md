@@ -23,3 +23,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked config migration example.
 - linked the search filters notes from the guide.
 - added troubleshooting notes for regex helpers.
+- expanded the guide with a signal handling section.
