@@ -213,3 +213,6 @@ def fuzzy_716(items):
 def archive_768(items):
     """Handle archive extraction."""
     return items
+def shell_617(items):
+    """Handle shell wrapper."""
+    return items
