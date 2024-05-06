@@ -26,3 +26,4 @@ Clarified the verbose logging steps in the docs.
 - expanded the guide with a signal handling section.
 - added troubleshooting notes for yaml checks.
 - added troubleshooting notes for verbose logging.
+- cleaned up the hash checks description.
