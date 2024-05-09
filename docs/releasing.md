@@ -27,3 +27,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for yaml checks.
 - added troubleshooting notes for verbose logging.
 - cleaned up the hash checks description.
+- added a worked memory profiling example.
