@@ -29,3 +29,4 @@ Clarified the verbose logging steps in the docs.
 - cleaned up the hash checks description.
 - added a worked memory profiling example.
 - cleaned up the shell wrapper description.
+- added a worked log rotation example.
