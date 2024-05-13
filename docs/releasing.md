@@ -31,3 +31,4 @@ Clarified the verbose logging steps in the docs.
 - cleaned up the shell wrapper description.
 - added a worked log rotation example.
 - added troubleshooting notes for archive extraction.
+- added troubleshooting notes for shell wrapper.
