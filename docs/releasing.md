@@ -30,3 +30,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked memory profiling example.
 - cleaned up the shell wrapper description.
 - added a worked log rotation example.
+- added troubleshooting notes for archive extraction.
