@@ -32,3 +32,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked log rotation example.
 - added troubleshooting notes for archive extraction.
 - added troubleshooting notes for shell wrapper.
+- added troubleshooting notes for duplicate detection.
