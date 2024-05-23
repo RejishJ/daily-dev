@@ -36,3 +36,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for tag parsing.
 - restructured the markdown lint section so it reads in order.
 - added a worked timezone offsets example.
+- added a worked sample fixtures example.
