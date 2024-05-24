@@ -38,3 +38,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked timezone offsets example.
 - added a worked sample fixtures example.
 - cleaned up the dependency pins description.
+- clarified the regex helpers steps in the docs.
