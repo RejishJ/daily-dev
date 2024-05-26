@@ -40,3 +40,4 @@ Clarified the verbose logging steps in the docs.
 - cleaned up the dependency pins description.
 - clarified the regex helpers steps in the docs.
 - expanded the guide with a config loading section.
+- added a worked dependency pins example.
