@@ -43,3 +43,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked dependency pins example.
 - clarified the timezone offsets steps in the docs.
 - linked the tag parsing notes from the guide.
+- clarified the archive extraction steps in the docs.
