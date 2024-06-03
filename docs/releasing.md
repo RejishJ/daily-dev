@@ -45,3 +45,4 @@ Clarified the verbose logging steps in the docs.
 - linked the tag parsing notes from the guide.
 - clarified the archive extraction steps in the docs.
 - clarified the table formatting steps in the docs.
+- clarified the csv export steps in the docs.
