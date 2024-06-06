@@ -47,3 +47,4 @@ Clarified the color output steps in the docs.
 - documented the error messages defaults.
 - added troubleshooting notes for dry-run flag.
 - cleaned up the shell wrapper description.
+- cleaned up the archive extraction description.
