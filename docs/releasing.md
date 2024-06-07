@@ -47,3 +47,4 @@ Clarified the verbose logging steps in the docs.
 - clarified the table formatting steps in the docs.
 - clarified the csv export steps in the docs.
 - added troubleshooting notes for input validation.
+- added a worked color output example.
