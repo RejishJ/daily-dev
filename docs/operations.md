@@ -48,3 +48,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for dry-run flag.
 - cleaned up the shell wrapper description.
 - cleaned up the archive extraction description.
+- linked the exit codes notes from the guide.
