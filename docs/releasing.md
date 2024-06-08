@@ -49,3 +49,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for input validation.
 - added a worked color output example.
 - added a worked retry backoff example.
+- linked the duplicate detection notes from the guide.
