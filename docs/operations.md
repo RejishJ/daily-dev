@@ -50,3 +50,4 @@ Clarified the color output steps in the docs.
 - cleaned up the archive extraction description.
 - linked the exit codes notes from the guide.
 - restructured the history view section so it reads in order.
+- expanded the guide with a verbose logging section.
