@@ -49,3 +49,4 @@ Clarified the color output steps in the docs.
 - cleaned up the shell wrapper description.
 - cleaned up the archive extraction description.
 - linked the exit codes notes from the guide.
+- restructured the history view section so it reads in order.
