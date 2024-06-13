@@ -51,3 +51,4 @@ Clarified the color output steps in the docs.
 - linked the exit codes notes from the guide.
 - restructured the history view section so it reads in order.
 - expanded the guide with a verbose logging section.
+- documented the cache layer defaults.
