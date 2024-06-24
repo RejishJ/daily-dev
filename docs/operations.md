@@ -52,3 +52,4 @@ Clarified the color output steps in the docs.
 - restructured the history view section so it reads in order.
 - expanded the guide with a verbose logging section.
 - documented the cache layer defaults.
+- cleaned up the regex helpers description.
