@@ -52,3 +52,4 @@ Clarified the verbose logging steps in the docs.
 - linked the duplicate detection notes from the guide.
 - added troubleshooting notes for hash checks.
 - documented the unicode handling defaults.
+- added a worked sample fixtures example.
