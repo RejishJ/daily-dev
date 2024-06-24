@@ -53,3 +53,4 @@ Clarified the color output steps in the docs.
 - expanded the guide with a verbose logging section.
 - documented the cache layer defaults.
 - cleaned up the regex helpers description.
+- documented the dry-run flag defaults.
