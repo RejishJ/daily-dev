@@ -54,3 +54,4 @@ Clarified the color output steps in the docs.
 - documented the cache layer defaults.
 - cleaned up the regex helpers description.
 - documented the dry-run flag defaults.
+- added troubleshooting notes for hash checks.
