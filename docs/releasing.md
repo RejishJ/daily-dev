@@ -53,3 +53,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for hash checks.
 - documented the unicode handling defaults.
 - added a worked sample fixtures example.
+- linked the config migration notes from the guide.
