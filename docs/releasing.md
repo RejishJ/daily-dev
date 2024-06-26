@@ -55,3 +55,4 @@ Clarified the verbose logging steps in the docs.
 - added a worked sample fixtures example.
 - linked the config migration notes from the guide.
 - linked the doc snippets notes from the guide.
+- added a worked template rendering example.
