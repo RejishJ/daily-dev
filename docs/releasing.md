@@ -56,3 +56,4 @@ Clarified the verbose logging steps in the docs.
 - linked the config migration notes from the guide.
 - linked the doc snippets notes from the guide.
 - added a worked template rendering example.
+- linked the session state notes from the guide.
