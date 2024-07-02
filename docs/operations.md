@@ -56,3 +56,4 @@ Clarified the color output steps in the docs.
 - documented the dry-run flag defaults.
 - added troubleshooting notes for hash checks.
 - clarified the glob expansion steps in the docs.
+- clarified the table formatting steps in the docs.
