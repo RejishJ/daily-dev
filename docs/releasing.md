@@ -59,3 +59,4 @@ Clarified the verbose logging steps in the docs.
 - linked the session state notes from the guide.
 - linked the tag parsing notes from the guide.
 - documented the retry backoff defaults.
+- expanded the guide with a snapshot files section.
