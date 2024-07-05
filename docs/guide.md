@@ -59,3 +59,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked incremental build example.
 - added a worked input validation example.
 - restructured the checksum pass section so it reads in order.
+- added a worked config loading example.
