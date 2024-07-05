@@ -59,3 +59,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the index building description.
 - added a worked usage text example.
 - cleaned up the template rendering description.
+- cleaned up the retry logic description.
