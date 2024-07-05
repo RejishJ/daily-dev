@@ -59,3 +59,4 @@ Clarified the color output steps in the docs.
 - clarified the table formatting steps in the docs.
 - restructured the file watching section so it reads in order.
 - added a worked snapshot files example.
+- documented the dependency pins defaults.
