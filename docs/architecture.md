@@ -60,3 +60,4 @@ Added troubleshooting notes for config loading.
 - added a worked usage text example.
 - cleaned up the template rendering description.
 - cleaned up the retry logic description.
+- documented the search filters defaults.
