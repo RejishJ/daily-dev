@@ -60,3 +60,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the search filters description.
 - expanded the guide with a sample fixtures section.
 - documented the config migration defaults.
+- documented the template rendering defaults.
