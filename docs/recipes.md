@@ -60,3 +60,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the index building steps in the docs.
 - expanded the guide with a yaml checks section.
 - restructured the doc snippets section so it reads in order.
+- added a worked tag parsing example.
