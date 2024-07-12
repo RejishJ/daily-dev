@@ -60,3 +60,4 @@ Documented the hash checks defaults.
 - clarified the signal handling steps in the docs.
 - linked the snapshot files notes from the guide.
 - clarified the dry-run flag steps in the docs.
+- documented the glob expansion defaults.
