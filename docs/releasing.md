@@ -60,3 +60,4 @@ Clarified the verbose logging steps in the docs.
 - linked the tag parsing notes from the guide.
 - documented the retry backoff defaults.
 - expanded the guide with a snapshot files section.
+- added a worked archive extraction example.
