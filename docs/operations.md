@@ -60,3 +60,4 @@ Clarified the color output steps in the docs.
 - restructured the file watching section so it reads in order.
 - added a worked snapshot files example.
 - documented the dependency pins defaults.
+- cleaned up the unicode handling description.
