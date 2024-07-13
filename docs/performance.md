@@ -60,3 +60,4 @@ Clarified the release notes steps in the docs.
 - linked the glob expansion notes from the guide.
 - clarified the index building steps in the docs.
 - expanded the guide with a unicode handling section.
+- linked the doc snippets notes from the guide.
