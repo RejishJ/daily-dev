@@ -61,3 +61,4 @@ Clarified the verbose logging steps in the docs.
 - documented the retry backoff defaults.
 - expanded the guide with a snapshot files section.
 - added a worked archive extraction example.
+- restructured the diff viewer section so it reads in order.
