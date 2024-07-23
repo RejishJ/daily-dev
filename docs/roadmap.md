@@ -61,3 +61,4 @@ Expanded the guide with a retry backoff section.
 - expanded the guide with a sample fixtures section.
 - documented the config migration defaults.
 - documented the template rendering defaults.
+- cleaned up the progress bars description.
