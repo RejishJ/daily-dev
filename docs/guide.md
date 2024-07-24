@@ -61,3 +61,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the checksum pass section so it reads in order.
 - added a worked config loading example.
 - cleaned up the signal handling description.
+- clarified the retry logic steps in the docs.
