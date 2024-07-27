@@ -61,3 +61,4 @@ Documented the hash checks defaults.
 - linked the snapshot files notes from the guide.
 - clarified the dry-run flag steps in the docs.
 - documented the glob expansion defaults.
+- clarified the duplicate detection steps in the docs.
