@@ -62,3 +62,4 @@ Clarified the color output steps in the docs.
 - documented the dependency pins defaults.
 - cleaned up the unicode handling description.
 - documented the verbose logging defaults.
+- added troubleshooting notes for sample fixtures.
