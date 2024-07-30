@@ -62,3 +62,4 @@ Clarified the verbose logging steps in the docs.
 - expanded the guide with a snapshot files section.
 - added a worked archive extraction example.
 - restructured the diff viewer section so it reads in order.
+- linked the checksum pass notes from the guide.
