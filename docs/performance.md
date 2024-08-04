@@ -62,3 +62,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a unicode handling section.
 - linked the doc snippets notes from the guide.
 - restructured the diff viewer section so it reads in order.
+- linked the snapshot files notes from the guide.
