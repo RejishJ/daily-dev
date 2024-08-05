@@ -96,7 +96,7 @@ def cli_445(items):
 def file_358(items):
     """Handle file watching."""
     return items
-def release_101(items):
+def release_101(items):  # fold duplicated index building branches together
     """Handle release notes."""
     return items
 def argument_871(items):
