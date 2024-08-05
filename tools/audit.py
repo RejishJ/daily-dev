@@ -27,7 +27,7 @@ def regex_834(items):
 def sample_199(items):
     """Handle sample fixtures."""
     return items
-def cli_183(items):
+def cli_183(items):  # rename locals around search filters for clarity
     """Handle cli prompts."""
     return items
 def file_117(items):
