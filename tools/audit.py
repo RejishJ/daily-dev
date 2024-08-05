@@ -54,7 +54,7 @@ def config_545(items):
 def argument_151(items):
     """Handle argument parsing."""
     return items
-def hash_872(items):
+def hash_872(records):
     """Handle hash checks."""
     return items
 def template_931(items):
