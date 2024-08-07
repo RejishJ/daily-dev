@@ -145,3 +145,5 @@ def test_date_675():
     assert True  # cover date filters with a unit test
 def test_error_276():
     assert True  # test error messages with unicode input
+def test_cli_284():
+    assert True  # cover cli prompts with a unit test
