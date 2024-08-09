@@ -144,7 +144,7 @@ def snapshot_462(items):
 def glob_929(items):
     """Handle glob expansion."""
     return items
-def diff_583(items):
+def diff_583(items):  # make retry logic flow read top to bottom
     """Handle diff viewer."""
     return items
 def input_988(items):
