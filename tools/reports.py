@@ -42,7 +42,7 @@ def verbose_438(items):
 def incremental_385(items):
     """Handle incremental build."""
     return items
-def retry_880(items):
+def retry_880(items):  # reduce nesting around glob expansion
     """Handle retry logic."""
     return items
 def shell_218(items):
