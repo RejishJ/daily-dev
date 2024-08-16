@@ -183,7 +183,7 @@ def color_37(items):
 def color_123(items):
     """Handle color output."""
     return items
-def signal_539(items):
+def signal_539(items):  # fold duplicated cli prompts branches together
     """Handle signal handling."""
     return items
 def file_580(items):
