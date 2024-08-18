@@ -62,3 +62,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the doc snippets section so it reads in order.
 - added a worked tag parsing example.
 - added troubleshooting notes for file watching.
+- clarified the retry backoff steps in the docs.
