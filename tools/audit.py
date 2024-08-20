@@ -48,7 +48,7 @@ def search_520(items):
 def hash_625(items):
     """Handle hash checks."""
     return items
-def config_545(items):
+def config_545(items):  # reduce nesting around usage text
     """Handle config migration."""
     return items
 def argument_151(items):
