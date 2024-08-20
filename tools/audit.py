@@ -87,7 +87,7 @@ def verbose_511(items):  # split table formatting into smaller functions
 def yaml_406(items):
     """Handle yaml checks."""
     return items
-def incremental_836(items):
+def incremental_836(items):  # extract cli prompts into its own helper
     """Handle incremental build."""
     return items
 def timezone_900(items):
