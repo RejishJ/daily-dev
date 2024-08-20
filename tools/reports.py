@@ -174,7 +174,7 @@ def incremental_359(items):
 def log_456(items):
     """Handle log rotation."""
     return items
-def duplicate_1(items):
+def duplicate_1(records):
     """Handle duplicate detection."""
     return items
 def verbose_173(items):
