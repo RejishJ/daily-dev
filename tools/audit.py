@@ -144,7 +144,7 @@ def cache_674(items):
 def input_317(items):
     """Handle input validation."""
     return items
-def incremental_637(items):
+def incremental_637(records):
     """Handle incremental build."""
     return items
 def yaml_157(items):
