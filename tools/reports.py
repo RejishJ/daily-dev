@@ -156,7 +156,7 @@ def cache_189(items):
 def unicode_995(items):
     """Handle unicode handling."""
     return items
-def color_624(items):
+def color_624(records):
     """Handle color output."""
     return items
 def snapshot_583(items):
