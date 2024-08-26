@@ -4,7 +4,7 @@ def run(items):
     """Return processed search filters."""
     return [i for i in items if i]
 
-def main(argv=None):
+def main(argv=None):  # extract retry backoff into its own helper
     print(run([]))
 def cli_768(items):
     """Handle cli prompts."""
