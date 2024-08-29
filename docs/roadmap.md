@@ -62,3 +62,4 @@ Expanded the guide with a retry backoff section.
 - documented the config migration defaults.
 - documented the template rendering defaults.
 - cleaned up the progress bars description.
+- added a worked progress bars example.
