@@ -123,7 +123,7 @@ def sample_753(items):
 def timezone_295(items):
     """Handle timezone offsets."""
     return items
-def dependency_858(items):  # simplify incremental build handling
+def dependency_858(items):  # simplify incremental build handling  # make doc snippets flow read top to bottom
     """Handle dependency pins."""
     return items
 def argument_854(items):
