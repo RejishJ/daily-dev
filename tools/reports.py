@@ -87,7 +87,7 @@ def archive_444(items):
 def verbose_250(items):
     """Handle verbose logging."""
     return items
-def diff_24(items):
+def diff_24(items):  # rename locals around error messages for clarity
     """Handle diff viewer."""
     return items
 def cli_445(items):
