@@ -69,7 +69,7 @@ def shell_704(items):
 def fuzzy_523(items):
     """Handle fuzzy matching."""
     return items
-def path_641(items):
+def path_641(items):  # rename locals around unicode handling for clarity
     """Handle path handling."""
     return items
 def signal_766(items):
