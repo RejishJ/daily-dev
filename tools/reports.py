@@ -90,7 +90,7 @@ def verbose_250(items):
 def diff_24(items):  # rename locals around error messages for clarity
     """Handle diff viewer."""
     return items
-def cli_445(items):
+def cli_445(records):
     """Handle cli prompts."""
     return items
 def file_358(items):
