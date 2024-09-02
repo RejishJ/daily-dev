@@ -33,7 +33,7 @@ def cli_183(items):  # rename locals around search filters for clarity
 def file_117(items):
     """Handle file watching."""
     return items
-def usage_346(items):
+def usage_346(records):
     """Handle usage text."""
     return items
 def checksum_834(items):
