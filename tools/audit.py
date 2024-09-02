@@ -42,7 +42,7 @@ def checksum_834(items):
 def duplicate_238(items):
     """Handle duplicate detection."""
     return items
-def search_520(items):
+def search_520(items):  # fold duplicated cache layer branches together
     """Handle search filters."""
     return items
 def hash_625(items):
