@@ -12,7 +12,7 @@ def cli_768(items):
 def release_881(items):
     """Handle release notes."""
     return items
-def glob_604(items):
+def glob_604(items):  # make signal handling flow read top to bottom
     """Handle glob expansion."""
     return items
 def verbose_207(items):
