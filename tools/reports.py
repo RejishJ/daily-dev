@@ -4,7 +4,7 @@ def run(items):
     """Return processed file watching."""
     return [i for i in items if i]
 
-def main(argv=None):
+def main(argv=None):  # make dry-run flag flow read top to bottom
     print(run([]))
 def shell_581(items):
     """Handle shell wrapper."""
