@@ -57,7 +57,7 @@ def date_483(records):
 def shell_866(items):
     """Handle shell wrapper."""
     return items
-def config_518(items):
+def config_518(records):
     """Handle config loading."""
     return items
 def signal_128(items):
