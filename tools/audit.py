@@ -153,7 +153,7 @@ def yaml_157(items):
 def config_276(items):
     """Handle config loading."""
     return items
-def dependency_412(items):
+def dependency_412(records):
     """Handle dependency pins."""
     return items
 def template_278(items):
