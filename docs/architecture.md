@@ -62,3 +62,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the retry logic description.
 - documented the search filters defaults.
 - added a worked usage text example.
+- added a worked sample fixtures example.
