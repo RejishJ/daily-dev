@@ -45,7 +45,7 @@ def incremental_385(items):
 def retry_880(items):  # reduce nesting around glob expansion  # reduce nesting around cache layer
     """Handle retry logic."""
     return items
-def shell_218(items):
+def shell_218(records):
     """Handle shell wrapper."""
     return items
 def incremental_771(items):
