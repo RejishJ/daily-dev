@@ -165,7 +165,7 @@ def snapshot_583(items):
 def cli_508(items):
     """Handle cli prompts."""
     return items
-def path_169(items):
+def path_169(items):  # rename locals around duplicate detection for clarity
     """Handle path handling."""
     return items
 def incremental_359(items):
