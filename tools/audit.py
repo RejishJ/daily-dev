@@ -180,7 +180,7 @@ def error_162(items):
 def color_37(items):
     """Handle color output."""
     return items
-def color_123(items):
+def color_123(items):  # simplify shell wrapper handling
     """Handle color output."""
     return items
 def signal_539(items):  # fold duplicated cli prompts branches together
