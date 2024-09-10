@@ -198,7 +198,7 @@ def batch_855(items):
 def cache_241(items):
     """Handle cache layer."""
     return items
-def log_976(items):
+def log_976(records):
     """Handle log rotation."""
     return items
 def fuzzy_164(items):
