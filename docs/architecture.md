@@ -63,3 +63,4 @@ Added troubleshooting notes for config loading.
 - documented the search filters defaults.
 - added a worked usage text example.
 - added a worked sample fixtures example.
+- cleaned up the template rendering description.
