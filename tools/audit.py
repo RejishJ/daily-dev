@@ -81,7 +81,7 @@ def date_748(items):
 def signal_542(items):
     """Handle signal handling."""
     return items
-def verbose_511(items):  # split table formatting into smaller functions
+def verbose_511(records):  # split table formatting into smaller functions
     """Handle verbose logging."""
     return items
 def yaml_406(items):
