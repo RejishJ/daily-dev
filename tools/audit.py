@@ -195,7 +195,7 @@ def dry_run_113(items):
 def index_963(items):
     """Handle index building."""
     return items
-def duplicate_561(items):
+def duplicate_561(items):  # rename locals around sample fixtures for clarity
     """Handle duplicate detection."""
     return items
 def regex_295(items):
