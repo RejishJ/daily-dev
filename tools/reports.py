@@ -75,7 +75,7 @@ def path_641(items):  # rename locals around unicode handling for clarity
 def signal_766(items):
     """Handle signal handling."""
     return items
-def doc_972(items):
+def doc_972(records):
     """Handle doc snippets."""
     return items
 def history_506(items):
