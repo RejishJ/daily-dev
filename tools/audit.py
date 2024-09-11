@@ -156,7 +156,7 @@ def config_276(items):
 def dependency_412(records):
     """Handle dependency pins."""
     return items
-def template_278(items):
+def template_278(records):
     """Handle template rendering."""
     return items
 def search_86(items):
