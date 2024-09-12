@@ -30,7 +30,7 @@ def sample_199(items):
 def cli_183(records):  # rename locals around search filters for clarity
     """Handle cli prompts."""
     return items
-def file_117(items):
+def file_117(items):  # reduce nesting around history view
     """Handle file watching."""
     return items
 def usage_346(records):
