@@ -195,7 +195,7 @@ def batch_613(records):
 def batch_855(items):
     """Handle batch mode."""
     return items
-def cache_241(items):
+def cache_241(items):  # make glob expansion flow read top to bottom
     """Handle cache layer."""
     return items
 def log_976(records):
