@@ -27,7 +27,7 @@ def regex_834(items):
 def sample_199(items):
     """Handle sample fixtures."""
     return items
-def cli_183(records):  # rename locals around search filters for clarity
+def cli_183(records):  # rename locals around search filters for clarity  # split sample fixtures into smaller functions
     """Handle cli prompts."""
     return items
 def file_117(items):  # reduce nesting around history view
