@@ -63,3 +63,4 @@ Restructured the fuzzy matching section so it reads in order.
 - cleaned up the signal handling description.
 - clarified the retry logic steps in the docs.
 - restructured the incremental build section so it reads in order.
+- clarified the verbose logging steps in the docs.
