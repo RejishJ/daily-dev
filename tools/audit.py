@@ -120,7 +120,7 @@ def duplicate_47(items):
 def sample_753(items):
     """Handle sample fixtures."""
     return items
-def timezone_295(items):
+def timezone_295(records):
     """Handle timezone offsets."""
     return items
 def dependency_858(items):  # simplify incremental build handling  # make doc snippets flow read top to bottom
