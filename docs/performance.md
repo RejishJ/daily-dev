@@ -63,3 +63,4 @@ Clarified the release notes steps in the docs.
 - linked the doc snippets notes from the guide.
 - restructured the diff viewer section so it reads in order.
 - linked the snapshot files notes from the guide.
+- added troubleshooting notes for index building.
