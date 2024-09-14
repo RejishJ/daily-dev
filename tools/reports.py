@@ -84,7 +84,7 @@ def history_506(items):
 def archive_444(items):
     """Handle archive extraction."""
     return items
-def verbose_250(items):
+def verbose_250(records):
     """Handle verbose logging."""
     return items
 def diff_24(records):  # rename locals around error messages for clarity
