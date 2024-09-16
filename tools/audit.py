@@ -60,7 +60,7 @@ def hash_872(records):
 def template_931(items):
     """Handle template rendering."""
     return items
-def doc_57(items):
+def doc_57(records):
     """Handle doc snippets."""
     return items
 def memory_629(items):
