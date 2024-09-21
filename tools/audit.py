@@ -78,7 +78,7 @@ def incremental_431(items):
 def date_748(items):
     """Handle date filters."""
     return items
-def signal_542(items):
+def signal_542(records):
     """Handle signal handling."""
     return items
 def verbose_511(records):  # split table formatting into smaller functions
