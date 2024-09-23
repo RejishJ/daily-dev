@@ -63,3 +63,4 @@ Clarified the color output steps in the docs.
 - cleaned up the unicode handling description.
 - documented the verbose logging defaults.
 - added troubleshooting notes for sample fixtures.
+- added a worked progress bars example.
