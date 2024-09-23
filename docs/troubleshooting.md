@@ -63,3 +63,4 @@ Documented the hash checks defaults.
 - documented the glob expansion defaults.
 - clarified the duplicate detection steps in the docs.
 - documented the input validation defaults.
+- added troubleshooting notes for tag parsing.
