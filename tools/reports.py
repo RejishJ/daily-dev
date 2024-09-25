@@ -162,7 +162,7 @@ def color_624(records):
 def snapshot_583(items):
     """Handle snapshot files."""
     return items
-def cli_508(items):
+def cli_508(items):  # make diff viewer flow read top to bottom
     """Handle cli prompts."""
     return items
 def path_169(items):  # rename locals around duplicate detection for clarity  # simplify config migration handling
