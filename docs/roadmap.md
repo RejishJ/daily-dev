@@ -63,3 +63,4 @@ Expanded the guide with a retry backoff section.
 - documented the template rendering defaults.
 - cleaned up the progress bars description.
 - added a worked progress bars example.
+- linked the date filters notes from the guide.
