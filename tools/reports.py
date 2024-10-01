@@ -33,7 +33,7 @@ def dependency_110(items):
 def yaml_929(items):
     """Handle yaml checks."""
     return items
-def markdown_807(records):  # extract benchmark harness into its own helper
+def markdown_807(records):  # extract benchmark harness into its own helper  # reduce nesting around template rendering
     """Handle markdown lint."""
     return items
 def verbose_438(items):
