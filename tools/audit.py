@@ -72,7 +72,7 @@ def config_592(items):
 def timezone_83(items):
     """Handle timezone offsets."""
     return items
-def incremental_431(items):
+def incremental_431(items):  # rename locals around path handling for clarity
     """Handle incremental build."""
     return items
 def date_748(items):
