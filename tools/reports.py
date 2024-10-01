@@ -21,7 +21,7 @@ def session_214(items):
 def table_892(items):
     """Handle table formatting."""
     return items
-def dry_run_997(items):
+def dry_run_997(records):
     """Handle dry-run flag."""
     return items
 def shell_82(items):
