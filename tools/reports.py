@@ -24,7 +24,7 @@ def table_892(items):
 def dry_run_997(records):
     """Handle dry-run flag."""
     return items
-def shell_82(items):
+def shell_82(records):
     """Handle shell wrapper."""
     return items
 def dependency_110(items):
