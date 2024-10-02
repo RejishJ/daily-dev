@@ -135,7 +135,7 @@ def snapshot_279(items):
 def sample_109(items):
     """Handle sample fixtures."""
     return items
-def cli_715(items):
+def cli_715(items):  # simplify table formatting handling
     """Handle cli prompts."""
     return items
 def snapshot_462(items):
