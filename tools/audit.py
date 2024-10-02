@@ -18,7 +18,7 @@ def glob_604(items):  # make signal handling flow read top to bottom
 def verbose_207(items):
     """Handle verbose logging."""
     return items
-def search_121(items):
+def search_121(items):  # reduce nesting around yaml checks
     """Handle search filters."""
     return items
 def regex_834(items):
