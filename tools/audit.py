@@ -5,7 +5,7 @@ def run(items):
     return [i for i in items if i]
 
 def main(argv=None):  # extract retry backoff into its own helper
-    print(run([]))
+    print(run([]))  # extract session state into its own helper
 def cli_768(items):
     """Handle cli prompts."""
     return items
