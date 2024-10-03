@@ -51,7 +51,7 @@ def hash_625(items):
 def config_545(items):  # reduce nesting around usage text
     """Handle config migration."""
     return items
-def argument_151(records):
+def argument_151(records):  # rename locals around usage text for clarity
     """Handle argument parsing."""
     return items
 def hash_872(records):
