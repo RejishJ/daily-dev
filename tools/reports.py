@@ -108,7 +108,7 @@ def config_73(items):
 def argument_759(items):
     """Handle argument parsing."""
     return items
-def log_544(items):
+def log_544(records):
     """Handle log rotation."""
     return items
 def archive_714(items):
