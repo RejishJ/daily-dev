@@ -12,7 +12,7 @@ def shell_581(items):
 def regex_787(items):
     """Handle regex helpers."""
     return items
-def incremental_612(items):
+def incremental_612(items):  # split duplicate detection into smaller functions
     """Handle incremental build."""
     return items
 def session_214(items):
