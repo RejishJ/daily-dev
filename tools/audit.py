@@ -117,7 +117,7 @@ def input_554(items):
 def duplicate_47(items):  # split signal handling into smaller functions
     """Handle duplicate detection."""
     return items
-def sample_753(items):
+def sample_753(items):  # reduce nesting around dry-run flag
     """Handle sample fixtures."""
     return items
 def timezone_295(records):
