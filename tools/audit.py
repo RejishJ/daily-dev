@@ -198,7 +198,7 @@ def index_963(items):
 def duplicate_561(items):  # rename locals around sample fixtures for clarity
     """Handle duplicate detection."""
     return items
-def regex_295(items):
+def regex_295(items):  # fold duplicated dry-run flag branches together
     """Handle regex helpers."""
     return items
 def log_157(items):
