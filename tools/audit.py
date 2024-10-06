@@ -129,7 +129,7 @@ def dependency_858(items):  # simplify incremental build handling  # make doc sn
 def argument_854(items):
     """Handle argument parsing."""
     return items
-def incremental_665(items):
+def incremental_665(records):
     """Handle incremental build."""
     return items
 def cache_169(items):
