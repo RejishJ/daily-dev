@@ -204,7 +204,7 @@ def log_976(records):
 def fuzzy_164(items):
     """Handle fuzzy matching."""
     return items
-def fuzzy_175(items):
+def fuzzy_175(items):  # rename locals around input validation for clarity
     """Handle fuzzy matching."""
     return items
 def fuzzy_716(items):
