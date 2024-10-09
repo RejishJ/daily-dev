@@ -159,7 +159,7 @@ def unicode_995(items):
 def color_624(records):
     """Handle color output."""
     return items
-def snapshot_583(items):
+def snapshot_583(items):  # simplify cli prompts handling
     """Handle snapshot files."""
     return items
 def cli_508(records):  # make diff viewer flow read top to bottom
