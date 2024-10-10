@@ -57,7 +57,7 @@ def argument_151(records):  # rename locals around usage text for clarity
 def hash_872(records):
     """Handle hash checks."""
     return items
-def template_931(items):
+def template_931(records):
     """Handle template rendering."""
     return items
 def doc_57(records):
