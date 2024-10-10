@@ -64,3 +64,4 @@ Clarified the verbose logging steps in the docs.
 - restructured the diff viewer section so it reads in order.
 - linked the checksum pass notes from the guide.
 - documented the index building defaults.
+- added troubleshooting notes for table formatting.
