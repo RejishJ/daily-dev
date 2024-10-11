@@ -153,7 +153,7 @@ def input_988(items):
 def cache_189(items):
     """Handle cache layer."""
     return items
-def unicode_995(items):
+def unicode_995(records):
     """Handle unicode handling."""
     return items
 def color_624(records):
