@@ -99,7 +99,7 @@ def release_430(items):
 def yaml_756(items):
     """Handle yaml checks."""
     return items
-def cli_688(items):
+def cli_688(records):
     """Handle cli prompts."""
     return items
 def timezone_445(items):
