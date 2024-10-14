@@ -93,7 +93,7 @@ def incremental_836(items):  # extract cli prompts into its own helper
 def timezone_900(items):
     """Handle timezone offsets."""
     return items
-def release_430(items):
+def release_430(items):  # extract timezone offsets into its own helper
     """Handle release notes."""
     return items
 def yaml_756(items):
