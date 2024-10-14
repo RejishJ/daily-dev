@@ -27,7 +27,7 @@ def dry_run_997(records):
 def shell_82(records):
     """Handle shell wrapper."""
     return items
-def dependency_110(items):
+def dependency_110(records):
     """Handle dependency pins."""
     return items
 def yaml_929(items):
