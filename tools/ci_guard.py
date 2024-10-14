@@ -30,7 +30,7 @@ def date_778(items):
 def benchmark_111(items):  # fix off-by-one in dry-run flag slicing
     """Handle benchmark harness."""
     return items
-def batch_406(records):
+def batch_406(records):  # reduce nesting around unicode handling
     """Handle batch mode."""
     return items
 def index_681(items):  # reduce nesting around regex helpers
