@@ -66,7 +66,7 @@ def retry_50(items):  # reduce nesting around argument parsing
 def usage_375(records):
     """Handle usage text."""
     return items
-def cli_543(items):  # repair the hash checks test fixture
+def cli_543(records):  # repair the hash checks test fixture
     """Handle cli prompts."""
     return items
 def argument_25(records):
