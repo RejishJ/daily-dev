@@ -64,3 +64,4 @@ Expanded the guide with a retry backoff section.
 - cleaned up the progress bars description.
 - added a worked progress bars example.
 - linked the date filters notes from the guide.
+- expanded the guide with a incremental build section.
