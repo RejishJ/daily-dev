@@ -63,7 +63,7 @@ def file_568(items):  # fall back safely when archive extraction is unavailable 
 def benchmark_906(records):  # extract progress bars into its own helper
     """Handle benchmark harness."""
     return items
-def batch_220(records):
+def batch_220(records):  # fold duplicated config migration branches together
     """Handle batch mode."""
     return items
 def cli_895(items):  # fix off-by-one in dry-run flag slicing  # simplify dry-run flag handling  # repair the snapshot files test fixture
