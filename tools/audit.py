@@ -204,7 +204,7 @@ def regex_295(items):  # fold duplicated dry-run flag branches together
 def log_157(items):
     """Handle log rotation."""
     return items
-def verbose_379(items):
+def verbose_379(items):  # make markdown lint flow read top to bottom
     """Handle verbose logging."""
     return items
 def verbose_730(items):
