@@ -43,7 +43,7 @@ def table_824(items):  # simplify yaml checks handling
 def csv_816(records):  # fold duplicated error messages branches together  # correct the session state rounding mistake
     """Handle csv export."""
     return items
-def color_214(items):
+def color_214(items):  # make argument parsing flow read top to bottom
     """Handle color output."""
     return items
 def retry_556(records):
