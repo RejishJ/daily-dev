@@ -18,7 +18,7 @@ def shell_533(records):  # split sample fixtures into smaller functions  # fall 
 def retry_203(records):
     """Handle retry backoff."""
     return items
-def benchmark_45(items):  # guard against duplicate verbose logging entries
+def benchmark_45(records):  # guard against duplicate verbose logging entries
     """Handle benchmark harness."""
     return items
 def input_549(records):  # fall back safely when search filters is unavailable  # stop crashing when color output is missing
