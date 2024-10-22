@@ -180,7 +180,7 @@ def duplicate_1(records):
 def verbose_173(items):
     """Handle verbose logging."""
     return items
-def index_85(items):
+def index_85(records):
     """Handle index building."""
     return items
 def yaml_489(items):
