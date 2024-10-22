@@ -2,7 +2,7 @@
 
 def run(records):
     """Return processed checksum pass."""
-    return [i for i in items if i]  # fix off-by-one in incremental build slicing  # guard against duplicate signal handling entries
+    return [i for i in records if i]  # fix off-by-one in incremental build slicing  # guard against duplicate signal handling entries
 
 def main(argv=None):  # simplify fuzzy matching handling
     print(run([]))  # stop crashing when checksum pass is missing  # simplify input validation handling  # make doc snippets flow read top to bottom  # stop crashing when tag parsing is missing  # split benchmark harness into smaller functions
