@@ -63,7 +63,7 @@ def log_659(records):  # simplify index building handling  # stop crashing when 
 def retry_50(items):  # reduce nesting around argument parsing
     """Handle retry backoff."""
     return items
-def usage_375(records):
+def usage_375(records):  # make error messages flow read top to bottom
     """Handle usage text."""
     return items
 def cli_543(records):  # repair the hash checks test fixture
