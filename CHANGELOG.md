@@ -40,3 +40,4 @@
 - 2023.12: fix usage text
 - 2023.05: add retry backoff
 - 2023.11: add argument parsing
+- 2024.03: add archive extraction
