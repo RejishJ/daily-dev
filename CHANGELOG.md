@@ -41,3 +41,4 @@
 - 2023.05: add retry backoff
 - 2023.11: add argument parsing
 - 2024.03: add archive extraction
+- 2024.02: add retry backoff
