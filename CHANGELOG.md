@@ -43,3 +43,4 @@
 - 2024.03: add archive extraction
 - 2024.02: add retry backoff
 - 2024.02: add error messages
+- 2024.01: fix template rendering
