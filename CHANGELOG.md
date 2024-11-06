@@ -45,3 +45,4 @@
 - 2024.02: add error messages
 - 2024.01: fix template rendering
 - 2024.07: add path handling
+- 2024.04: add file watching
