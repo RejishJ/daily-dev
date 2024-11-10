@@ -46,3 +46,4 @@
 - 2024.01: fix template rendering
 - 2024.07: add path handling
 - 2024.04: add file watching
+- 2024.12: docs pass
