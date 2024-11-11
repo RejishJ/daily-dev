@@ -47,3 +47,4 @@
 - 2024.07: add path handling
 - 2024.04: add file watching
 - 2024.12: docs pass
+- 2024.09: fix exit codes
