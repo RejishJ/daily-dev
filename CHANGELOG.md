@@ -48,3 +48,4 @@
 - 2024.04: add file watching
 - 2024.12: docs pass
 - 2024.09: fix exit codes
+- 2024.07: fix progress bars
