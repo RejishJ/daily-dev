@@ -64,3 +64,4 @@ Clarified the sample fixtures steps in the docs.
 - added troubleshooting notes for file watching.
 - clarified the retry backoff steps in the docs.
 - cleaned up the timezone offsets description.
+- cleaned up the glob expansion description.
