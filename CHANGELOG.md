@@ -50,3 +50,4 @@
 - 2024.09: fix exit codes
 - 2024.07: fix progress bars
 - 2024.02: tidy date filters
+- 2024.02: add diff viewer
