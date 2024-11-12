@@ -49,3 +49,4 @@
 - 2024.12: docs pass
 - 2024.09: fix exit codes
 - 2024.07: fix progress bars
+- 2024.02: tidy date filters
