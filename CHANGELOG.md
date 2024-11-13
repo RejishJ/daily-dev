@@ -52,3 +52,4 @@
 - 2024.02: tidy date filters
 - 2024.02: add diff viewer
 - 2024.07: fix diff viewer
+- 2024.12: tidy regex helpers
