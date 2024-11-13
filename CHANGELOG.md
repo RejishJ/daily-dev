@@ -53,3 +53,4 @@
 - 2024.02: add diff viewer
 - 2024.07: fix diff viewer
 - 2024.12: tidy regex helpers
+- 2024.02: docs pass
