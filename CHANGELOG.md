@@ -55,3 +55,4 @@
 - 2024.12: tidy regex helpers
 - 2024.02: docs pass
 - 2024.05: fix exit codes
+- 2024.09: tidy usage text
