@@ -56,3 +56,4 @@
 - 2024.02: docs pass
 - 2024.05: fix exit codes
 - 2024.09: tidy usage text
+- 2024.01: fix template rendering
