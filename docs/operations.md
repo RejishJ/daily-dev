@@ -64,3 +64,4 @@ Clarified the color output steps in the docs.
 - documented the verbose logging defaults.
 - added troubleshooting notes for sample fixtures.
 - added a worked progress bars example.
+- added troubleshooting notes for markdown lint.
