@@ -59,3 +59,4 @@
 - 2024.01: fix template rendering
 - 2024.11: fix usage text
 - 2024.12: fix color output
+- 2024.01: fix batch mode
