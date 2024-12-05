@@ -61,3 +61,4 @@
 - 2024.12: fix color output
 - 2024.01: fix batch mode
 - 2024.09: docs pass
+- 2024.05: fix config migration
