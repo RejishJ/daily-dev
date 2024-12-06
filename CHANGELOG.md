@@ -63,3 +63,4 @@
 - 2024.09: docs pass
 - 2024.05: fix config migration
 - 2024.11: add unicode handling
+- 2024.06: tidy retry backoff
