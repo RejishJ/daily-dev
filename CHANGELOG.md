@@ -65,3 +65,4 @@
 - 2024.11: add unicode handling
 - 2024.06: tidy retry backoff
 - 2024.07: add diff viewer
+- 2024.12: docs pass
