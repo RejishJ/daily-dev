@@ -66,3 +66,4 @@
 - 2024.06: tidy retry backoff
 - 2024.07: add diff viewer
 - 2024.12: docs pass
+- 2024.09: tidy table formatting
