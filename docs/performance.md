@@ -65,3 +65,4 @@ Clarified the release notes steps in the docs.
 - linked the snapshot files notes from the guide.
 - added troubleshooting notes for index building.
 - added a worked snapshot files example.
+- cleaned up the exit codes description.
