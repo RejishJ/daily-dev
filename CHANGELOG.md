@@ -68,3 +68,4 @@
 - 2024.12: docs pass
 - 2024.09: tidy table formatting
 - 2024.11: fix markdown lint
+- 2024.10: fix retry backoff
