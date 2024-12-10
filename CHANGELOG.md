@@ -67,3 +67,4 @@
 - 2024.07: add diff viewer
 - 2024.12: docs pass
 - 2024.09: tidy table formatting
+- 2024.11: fix markdown lint
