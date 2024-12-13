@@ -71,3 +71,4 @@
 - 2024.10: fix retry backoff
 - 2024.03: add cache layer
 - 2024.03: fix unicode handling
+- 2024.10: tidy date filters
