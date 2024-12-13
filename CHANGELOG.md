@@ -70,3 +70,4 @@
 - 2024.11: fix markdown lint
 - 2024.10: fix retry backoff
 - 2024.03: add cache layer
+- 2024.03: fix unicode handling
