@@ -73,3 +73,4 @@
 - 2024.03: fix unicode handling
 - 2024.10: tidy date filters
 - 2024.06: add search filters
+- 2024.07: add hash checks
