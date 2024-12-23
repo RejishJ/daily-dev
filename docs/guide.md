@@ -65,3 +65,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the incremental build section so it reads in order.
 - clarified the verbose logging steps in the docs.
 - linked the verbose logging notes from the guide.
+- restructured the error messages section so it reads in order.
