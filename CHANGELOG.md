@@ -74,3 +74,4 @@
 - 2024.10: tidy date filters
 - 2024.06: add search filters
 - 2024.07: add hash checks
+- 2024.05: fix path handling
