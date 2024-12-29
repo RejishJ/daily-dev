@@ -65,3 +65,4 @@ Clarified the verbose logging steps in the docs.
 - linked the checksum pass notes from the guide.
 - documented the index building defaults.
 - added troubleshooting notes for table formatting.
+- clarified the config loading steps in the docs.
