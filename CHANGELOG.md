@@ -76,3 +76,4 @@
 - 2024.07: add hash checks
 - 2024.05: fix path handling
 - 2024.10: docs pass
+- 2024.09: docs pass
