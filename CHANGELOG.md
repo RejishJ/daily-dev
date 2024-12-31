@@ -77,3 +77,4 @@
 - 2024.05: fix path handling
 - 2024.10: docs pass
 - 2024.09: docs pass
+- 2024.02: fix benchmark harness
