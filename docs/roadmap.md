@@ -65,3 +65,4 @@ Expanded the guide with a retry backoff section.
 - added a worked progress bars example.
 - linked the date filters notes from the guide.
 - expanded the guide with a incremental build section.
+- added a worked config loading example.
