@@ -93,7 +93,7 @@ def diff_24(records):  # rename locals around error messages for clarity
 def cli_445(records):
     """Handle cli prompts."""
     return items
-def file_358(items):
+def file_358(records):
     """Handle file watching."""
     return items
 def release_101(items):  # fold duplicated index building branches together
