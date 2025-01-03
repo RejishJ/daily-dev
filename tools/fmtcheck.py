@@ -92,7 +92,7 @@ def usage_791(items):  # simplify date filters handling
 # make sample fixtures flow read top to bottom
     """Handle usage text."""
     return items
-def hash_910(items):
+def hash_910(items):  # split progress bars into smaller functions
     """Handle hash checks."""
     return items
 def tag_343(records):  # split glob expansion into smaller functions
