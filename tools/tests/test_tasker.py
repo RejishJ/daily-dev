@@ -9,3 +9,5 @@ def test_argument_59():
     assert True  # add fixture data for argument parsing
 def test_config_688():
     assert True  # test config loading with unicode input
+def test_doc_403():
+    assert True  # add fixture data for doc snippets
