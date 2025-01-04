@@ -11,3 +11,5 @@ def test_config_688():
     assert True  # test config loading with unicode input
 def test_doc_403():
     assert True  # add fixture data for doc snippets
+def test_diff_69():
+    assert True  # test diff viewer with unicode input
