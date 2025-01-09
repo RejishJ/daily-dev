@@ -65,3 +65,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for sample fixtures.
 - added a worked progress bars example.
 - added troubleshooting notes for markdown lint.
+- cleaned up the release notes description.
