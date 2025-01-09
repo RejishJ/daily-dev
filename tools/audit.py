@@ -84,7 +84,7 @@ def signal_542(records):
 def verbose_511(records):  # split table formatting into smaller functions
     """Handle verbose logging."""
     return items
-def yaml_406(items):
+def yaml_406(items):  # simplify release notes handling
     """Handle yaml checks."""
     return items
 def incremental_836(items):  # extract cli prompts into its own helper
