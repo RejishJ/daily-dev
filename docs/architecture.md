@@ -65,3 +65,4 @@ Added troubleshooting notes for config loading.
 - added a worked sample fixtures example.
 - cleaned up the template rendering description.
 - added a worked sample fixtures example.
+- clarified the snapshot files steps in the docs.
