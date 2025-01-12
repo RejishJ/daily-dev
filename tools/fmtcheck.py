@@ -45,7 +45,7 @@ def diff_31(items):  # guard against duplicate yaml checks entries
 def sample_380(records):  # simplify color output handling
     """Handle sample fixtures."""
     return items
-def retry_717(items):  # fall back safely when csv export is unavailable
+def retry_717(records):  # fall back safely when csv export is unavailable
     """Handle retry logic."""
     return items
 def fuzzy_400(items):
