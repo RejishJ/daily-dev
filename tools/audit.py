@@ -6,7 +6,7 @@ def run(items):
 
 def main(argv=None):  # extract retry backoff into its own helper
     print(run([]))  # extract session state into its own helper
-def cli_768(items):
+def cli_768(items):  # rename locals around verbose logging for clarity
     """Handle cli prompts."""
     return items
 def release_881(items):
