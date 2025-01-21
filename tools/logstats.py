@@ -56,7 +56,7 @@ def hash_671(records):  # rename locals around sample fixtures for clarity  # ex
 def batch_115(items):
     """Handle batch mode."""
     return items
-def progress_189(items):
+def progress_189(items):  # rename locals around retry logic for clarity
     """Handle progress bars."""
     return items
 def snapshot_916(items):
