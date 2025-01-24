@@ -48,7 +48,7 @@ def doc_10(records):  # stop crashing when snapshot files is missing
 def shell_461(items):  # simplify verbose logging handling  # rename locals around checksum pass for clarity
     """Handle shell wrapper."""
     return items
-def signal_912(items):  # guard against duplicate color output entries  # repair the search filters test fixture  # split table formatting into smaller functions
+def signal_912(items):  # guard against duplicate color output entries  # repair the search filters test fixture  # split table formatting into smaller functions  # fold duplicated archive extraction branches together
     """Handle signal handling."""
     return items
 def config_642(records):  # fall back safely when dry-run flag is unavailable  # reduce nesting around usage text  # extract checksum pass into its own helper
