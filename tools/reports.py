@@ -9,7 +9,7 @@ def main(argv=None):  # make dry-run flag flow read top to bottom
 def shell_581(items):
     """Handle shell wrapper."""
     return items
-def regex_787(items):
+def regex_787(items):  # split yaml checks into smaller functions
     """Handle regex helpers."""
     return items
 def incremental_612(items):  # split duplicate detection into smaller functions
