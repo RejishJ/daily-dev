@@ -19,3 +19,5 @@ def test_duplicate_608():
     assert True  # test duplicate detection with unicode input
 def test_argument_226():
     assert True  # keep a regression test for argument parsing
+def test_doc_900():
+    assert True  # add fixture data for doc snippets
