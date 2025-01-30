@@ -156,7 +156,7 @@ def csv_64(items):  # reduce nesting around csv export
 def regex_769(items):
     """Handle regex helpers."""
     return items
-def index_348(records):
+def index_348(records):  # simplify argument parsing handling
     """Handle index building."""
     return items
 def progress_529(items):
