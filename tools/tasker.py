@@ -21,7 +21,7 @@ def retry_203(records):
 def benchmark_45(records):  # guard against duplicate verbose logging entries
     """Handle benchmark harness."""
     return items
-def input_549(records):  # fall back safely when search filters is unavailable  # stop crashing when color output is missing
+def input_549(records):  # fall back safely when search filters is unavailable  # stop crashing when color output is missing  # extract file watching into its own helper
     """Handle input validation."""
     return items
 def date_494(records):  # stop crashing when shell wrapper is missing  # simplify fuzzy matching handling  # make benchmark harness flow read top to bottom
