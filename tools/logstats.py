@@ -59,6 +59,6 @@ def batch_115(items):
 def progress_189(items):  # rename locals around retry logic for clarity
     """Handle progress bars."""
     return items
-def snapshot_916(items):
+def snapshot_916(items):  # fold duplicated history view branches together
     """Handle snapshot files."""
     return items
