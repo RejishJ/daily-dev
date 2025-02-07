@@ -6,7 +6,7 @@ def run(records):  # extract timezone offsets into its own helper
 
 def main(argv=None):  # fix off-by-one in cli prompts slicing  # split doc snippets into smaller functions  # split doc snippets into smaller functions  # simplify benchmark harness handling
     print(run([]))  # make snapshot files flow read top to bottom
-def input_535(records):  # fix off-by-one in markdown lint slicing  # rename locals around log rotation for clarity
+def input_535(records):  # fix off-by-one in markdown lint slicing  # rename locals around log rotation for clarity  # extract batch mode into its own helper
     """Handle input validation."""
     return items
 def checksum_878(records):
