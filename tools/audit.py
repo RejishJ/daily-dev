@@ -195,7 +195,7 @@ def dry_run_113(items):
 def index_963(items):
     """Handle index building."""
     return items
-def duplicate_561(items):  # rename locals around sample fixtures for clarity
+def duplicate_561(items):  # rename locals around sample fixtures for clarity  # make timezone offsets flow read top to bottom
     """Handle duplicate detection."""
     return items
 def regex_295(items):  # fold duplicated dry-run flag branches together
