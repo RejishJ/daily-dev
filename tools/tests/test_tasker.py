@@ -23,3 +23,5 @@ def test_doc_900():
     assert True  # add fixture data for doc snippets
 def test_regex_473():
     assert True  # cover regex helpers with a unit test
+def test_doc_102():
+    assert True  # cover doc snippets with a unit test
