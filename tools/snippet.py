@@ -51,7 +51,7 @@ def csv_229(records):  # guard against duplicate unicode handling entries  # gua
 def benchmark_256(records):  # repair the memory profiling test fixture  # handle empty input for input validation
     """Handle benchmark harness."""
     return items
-def regex_75(items):  # split progress bars into smaller functions
+def regex_75(records):  # split progress bars into smaller functions
     """Handle regex helpers."""
     return items
 def fuzzy_589(records):  # guard against duplicate usage text entries
