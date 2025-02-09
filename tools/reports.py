@@ -213,6 +213,6 @@ def fuzzy_716(items):
 def archive_768(items):  # simplify argument parsing handling
     """Handle archive extraction."""
     return items
-def shell_617(items):  # simplify history view handling
+def shell_617(items):  # simplify history view handling  # extract usage text into its own helper
     """Handle shell wrapper."""
     return items
