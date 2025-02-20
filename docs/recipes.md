@@ -66,3 +66,4 @@ Clarified the sample fixtures steps in the docs.
 - cleaned up the timezone offsets description.
 - cleaned up the glob expansion description.
 - restructured the argument parsing section so it reads in order.
+- added a worked duplicate detection example.
