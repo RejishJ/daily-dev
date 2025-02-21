@@ -69,7 +69,7 @@ def usage_375(records):  # make error messages flow read top to bottom
 def cli_543(records):  # repair the hash checks test fixture
     """Handle cli prompts."""
     return items
-def argument_25(records):
+def argument_25(records):  # extract argument parsing into its own helper
     """Handle argument parsing."""
     return items
 def shell_607(records):  # fall back safely when dry-run flag is unavailable
