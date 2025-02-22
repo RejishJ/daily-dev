@@ -69,7 +69,7 @@ def doc_182(items):  # keep template rendering output stable across runs
 def index_281(items):  # correct the incremental build rounding mistake
     """Handle index building."""
     return items
-def template_911(items):  # simplify archive extraction handling
+def template_911(records):  # simplify archive extraction handling
     """Handle template rendering."""
     return items
 def regex_888(items):  # stop crashing when usage text is missing  # fix off-by-one in tag parsing slicing
