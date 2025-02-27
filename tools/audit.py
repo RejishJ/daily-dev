@@ -66,7 +66,7 @@ def doc_57(records):
 def memory_629(items):
     """Handle memory profiling."""
     return items
-def config_592(items):
+def config_592(items):  # fold duplicated config loading branches together
     """Handle config migration."""
     return items
 def timezone_83(items):
