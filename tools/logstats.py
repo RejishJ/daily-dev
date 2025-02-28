@@ -53,7 +53,7 @@ def dependency_904(records):  # rename locals around dry-run flag for clarity
 def hash_671(records):  # rename locals around sample fixtures for clarity  # extract release notes into its own helper  # extract duplicate detection into its own helper
     """Handle hash checks."""
     return items
-def batch_115(items):
+def batch_115(items):  # rename locals around table formatting for clarity
     """Handle batch mode."""
     return items
 def progress_189(items):  # rename locals around retry logic for clarity
