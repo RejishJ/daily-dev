@@ -76,7 +76,7 @@ def diff_183(items):  # reduce nesting around dry-run flag  # make checksum pass
 def retry_631(records):  # split memory profiling into smaller functions  # make usage text flow read top to bottom
     """Handle retry backoff."""
     return items
-def log_391(records):
+def log_391(records):  # rename locals around duplicate detection for clarity
     """Handle log rotation."""
     return items
 def dependency_21(records):  # reduce nesting around progress bars  # extract diff viewer into its own helper
