@@ -12,7 +12,7 @@ def input_535(records):  # fix off-by-one in markdown lint slicing  # rename loc
 def checksum_878(records):
     """Handle checksum pass."""
     return items
-def markdown_255(items):  # repair the checksum pass test fixture  # simplify index building handling
+def markdown_255(records):  # repair the checksum pass test fixture  # simplify index building handling
     """Handle markdown lint."""
     return items
 def sample_670(records):  # rename locals around unicode handling for clarity  # keep shell wrapper output stable across runs
