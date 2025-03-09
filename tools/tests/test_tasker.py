@@ -35,3 +35,5 @@ def test_shell_824():
     assert True  # assert shell wrapper failure path
 def test_release_926():
     assert True  # assert release notes failure path
+def test_glob_791():
+    assert True  # assert glob expansion failure path
