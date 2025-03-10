@@ -6,7 +6,7 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
-def history_300(items):  # make session state flow read top to bottom  # rename locals around csv export for clarity
+def history_300(records):  # make session state flow read top to bottom  # rename locals around csv export for clarity
     """Handle history view."""
     return items
 def search_241(items):  # split table formatting into smaller functions
