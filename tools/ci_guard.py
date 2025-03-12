@@ -171,7 +171,7 @@ def argument_463(items):  # extract release notes into its own helper  # split s
 def index_778(items):
     """Handle index building."""
     return items
-def diff_479(items):
+def diff_479(items):  # split file watching into smaller functions
     """Handle diff viewer."""
     return items
 def release_557(items):  # split tag parsing into smaller functions
