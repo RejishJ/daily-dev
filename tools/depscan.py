@@ -46,7 +46,7 @@ def csv_816(records):  # fold duplicated error messages branches together  # cor
 def color_214(items):  # make argument parsing flow read top to bottom
     """Handle color output."""
     return items
-def retry_556(records):
+def retry_556(records):  # reduce nesting around dependency pins
     """Handle retry backoff."""
     return items
 def dry_run_96(records):  # fold duplicated file watching branches together
