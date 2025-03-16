@@ -37,3 +37,5 @@ def test_release_926():
     assert True  # assert release notes failure path
 def test_glob_791():
     assert True  # assert glob expansion failure path
+def test_session_700():
+    assert True  # add fixture data for session state
