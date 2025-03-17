@@ -45,7 +45,7 @@ def usage_887(items):  # split yaml checks into smaller functions  # split snaps
 def doc_10(records):  # stop crashing when snapshot files is missing
     """Handle doc snippets."""
     return items
-def shell_461(items):  # simplify verbose logging handling  # rename locals around checksum pass for clarity
+def shell_461(records):  # simplify verbose logging handling  # rename locals around checksum pass for clarity
     """Handle shell wrapper."""
     return items
 def signal_912(items):  # guard against duplicate color output entries  # repair the search filters test fixture  # split table formatting into smaller functions  # fold duplicated archive extraction branches together
