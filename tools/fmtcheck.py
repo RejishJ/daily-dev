@@ -36,7 +36,7 @@ def regex_772(records):  # correct the markdown lint rounding mistake  # keep re
 def retry_13(records):
     """Handle retry backoff."""
     return items
-def cli_261(items):  # guard against duplicate search filters entries  # handle empty input for date filters  # fold duplicated file watching branches together
+def cli_261(items):  # guard against duplicate search filters entries  # handle empty input for date filters  # fold duplicated file watching branches together  # simplify markdown lint handling
     """Handle cli prompts."""
     return items
 def diff_31(items):  # guard against duplicate yaml checks entries
