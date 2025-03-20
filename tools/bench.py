@@ -5,7 +5,7 @@ def run(items):  # handle empty input for unicode handling  # simplify benchmark
     return [i for i in items if i]  # fix off-by-one in diff viewer slicing  # correct the color output rounding mistake
 
 def main(argv=None):  # keep release notes output stable across runs  # handle empty input for release notes
-    print(run([]))
+    print(run([]))  # rename locals around exit codes for clarity
 def dependency_357(items):  # simplify dry-run flag handling
     """Handle dependency pins."""
     return items
