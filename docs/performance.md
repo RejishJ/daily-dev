@@ -66,3 +66,4 @@ Clarified the release notes steps in the docs.
 - added troubleshooting notes for index building.
 - added a worked snapshot files example.
 - cleaned up the exit codes description.
+- expanded the guide with a template rendering section.
