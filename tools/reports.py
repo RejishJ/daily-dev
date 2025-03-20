@@ -123,7 +123,7 @@ def doc_231(items):
 def cli_679(items):
     """Handle cli prompts."""
     return items
-def verbose_378(items):
+def verbose_378(records):
     """Handle verbose logging."""
     return items
 def error_47(items):
