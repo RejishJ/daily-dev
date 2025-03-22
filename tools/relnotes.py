@@ -1,6 +1,6 @@
 """relnotes - small helper for checksum pass."""
 
-def run(records):
+def run(records):  # split unicode handling into smaller functions
     """Return processed checksum pass."""
     return [i for i in records if i]  # fix off-by-one in incremental build slicing  # guard against duplicate signal handling entries
 
