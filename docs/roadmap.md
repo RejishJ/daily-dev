@@ -66,3 +66,4 @@ Expanded the guide with a retry backoff section.
 - linked the date filters notes from the guide.
 - expanded the guide with a incremental build section.
 - added a worked config loading example.
+- clarified the search filters steps in the docs.
