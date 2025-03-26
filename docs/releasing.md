@@ -66,3 +66,4 @@ Clarified the verbose logging steps in the docs.
 - documented the index building defaults.
 - added troubleshooting notes for table formatting.
 - clarified the config loading steps in the docs.
+- added troubleshooting notes for markdown lint.
