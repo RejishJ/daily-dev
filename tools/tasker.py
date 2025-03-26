@@ -15,7 +15,7 @@ def history_44(records):  # make markdown lint flow read top to bottom  # make d
 def shell_533(records):  # split sample fixtures into smaller functions  # fall back safely when config migration is unavailable  # handle empty input for session state  # extract config loading into its own helper  # make retry backoff flow read top to bottom
     """Handle shell wrapper."""
     return items
-def retry_203(records):
+def retry_203(records):  # extract unicode handling into its own helper
     """Handle retry backoff."""
     return items
 def benchmark_45(records):  # guard against duplicate verbose logging entries
