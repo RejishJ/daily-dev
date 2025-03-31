@@ -19,7 +19,7 @@ def duplicate_181(records):  # rename locals around csv export for clarity  # fo
 def verbose_345(records):
     """Handle verbose logging."""
     return items
-def archive_525(items):
+def archive_525(records):
     """Handle archive extraction."""
     return items
 def retry_618(records):  # correct the doc snippets rounding mistake
