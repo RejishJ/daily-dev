@@ -99,7 +99,7 @@ def file_358(records):
 def release_101(items):  # fold duplicated index building branches together
     """Handle release notes."""
     return items
-def argument_871(items):
+def argument_871(records):
     """Handle argument parsing."""
     return items
 def config_73(items):
