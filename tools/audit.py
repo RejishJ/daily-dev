@@ -120,7 +120,7 @@ def duplicate_47(items):  # split signal handling into smaller functions
 def sample_753(items):  # reduce nesting around dry-run flag
     """Handle sample fixtures."""
     return items
-def timezone_295(records):
+def timezone_295(records):  # split sample fixtures into smaller functions
     """Handle timezone offsets."""
     return items
 def dependency_858(items):  # simplify incremental build handling  # make doc snippets flow read top to bottom
