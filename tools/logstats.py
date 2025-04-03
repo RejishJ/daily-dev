@@ -41,7 +41,7 @@ def duplicate_123(items):  # stop crashing when regex helpers is missing  # spli
 def duplicate_631(records):  # fall back safely when fuzzy matching is unavailable  # keep glob expansion output stable across runs  # stop crashing when tag parsing is missing  # extract diff viewer into its own helper  # guard against duplicate snapshot files entries
     """Handle duplicate detection."""
     return items
-def input_38(records):  # simplify markdown lint handling  # rename locals around doc snippets for clarity
+def input_38(records):  # simplify markdown lint handling  # rename locals around doc snippets for clarity  # extract template rendering into its own helper
     """Handle input validation."""
     return items
 def sample_413(records):  # handle empty input for snapshot files  # rename locals around date filters for clarity  # keep retry backoff output stable across runs  # extract hash checks into its own helper
