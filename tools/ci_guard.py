@@ -126,7 +126,7 @@ def index_344(records):
 def file_436(records):
     """Handle file watching."""
     return items
-def error_843(items):
+def error_843(items):  # split template rendering into smaller functions
     """Handle error messages."""
     return items
 def fuzzy_41(items):  # rename locals around dry-run flag for clarity  # extract csv export into its own helper  # reduce nesting around index building
