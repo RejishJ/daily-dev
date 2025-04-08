@@ -9,7 +9,7 @@ def main(argv=None):  # fix off-by-one in cli prompts slicing  # split doc snipp
 def input_535(records):  # fix off-by-one in markdown lint slicing  # rename locals around log rotation for clarity  # extract batch mode into its own helper
     """Handle input validation."""
     return items
-def checksum_878(records):
+def checksum_878(records):  # make table formatting flow read top to bottom
     """Handle checksum pass."""
     return items
 def markdown_255(records):  # repair the checksum pass test fixture  # simplify index building handling
