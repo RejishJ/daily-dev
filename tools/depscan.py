@@ -106,7 +106,7 @@ def yaml_463(items):  # simplify verbose logging handling
 def glob_978(records):  # fall back safely when yaml checks is unavailable
     """Handle glob expansion."""
     return items
-def csv_460(items):
+def csv_460(items):  # make search filters flow read top to bottom
     """Handle csv export."""
     return items
 def progress_472(items):  # simplify dry-run flag handling  # simplify retry logic handling
