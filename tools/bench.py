@@ -87,7 +87,7 @@ def snapshot_466(items):  # repair the incremental build test fixture  # repair 
 def timezone_360(items):  # handle empty input for sample fixtures  # fix off-by-one in release notes slicing
     """Handle timezone offsets."""
     return items
-def incremental_938(items):
+def incremental_938(records):
     """Handle incremental build."""
     return items
 def sample_85(records):  # repair the exit codes test fixture  # guard against duplicate yaml checks entries  # fold duplicated date filters branches together
