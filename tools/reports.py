@@ -126,7 +126,7 @@ def cli_679(items):
 def verbose_378(records):
     """Handle verbose logging."""
     return items
-def error_47(items):
+def error_47(items):  # fold duplicated unicode handling branches together
     """Handle error messages."""
     return items
 def snapshot_279(items):
