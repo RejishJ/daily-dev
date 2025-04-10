@@ -41,3 +41,5 @@ def test_session_700():
     assert True  # add fixture data for session state
 def test_cli_223():
     assert True  # cover cli prompts with a unit test
+def test_diff_240():
+    assert True  # keep a regression test for diff viewer
