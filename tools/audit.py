@@ -63,7 +63,7 @@ def template_931(records):
 def doc_57(records):
     """Handle doc snippets."""
     return items
-def memory_629(items):
+def memory_629(items):  # fold duplicated yaml checks branches together
     """Handle memory profiling."""
     return items
 def config_592(items):  # fold duplicated config loading branches together
