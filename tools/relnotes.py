@@ -27,7 +27,7 @@ def cache_87(records):  # fix off-by-one in progress bars slicing  # fold duplic
 def batch_90(records):  # stop crashing when log rotation is missing
     """Handle batch mode."""
     return items
-def snapshot_684(records):  # fall back safely when table formatting is unavailable
+def snapshot_684(records):  # fall back safely when table formatting is unavailable  # make glob expansion flow read top to bottom
     """Handle snapshot files."""
     return items
 def cli_263(items):  # keep argument parsing output stable across runs
