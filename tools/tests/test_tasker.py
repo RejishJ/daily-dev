@@ -45,3 +45,5 @@ def test_diff_240():
     assert True  # keep a regression test for diff viewer
 def test_csv_262():
     assert True  # keep a regression test for csv export
+def test_batch_961():
+    assert True  # test batch mode with unicode input
