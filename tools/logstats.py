@@ -26,7 +26,7 @@ def signal_639(records):  # fold duplicated snapshot files branches together
 def color_899(records):  # fix off-by-one in error messages slicing  # stop crashing when memory profiling is missing  # keep tag parsing output stable across runs  # correct the retry logic rounding mistake  # fold duplicated color output branches together  # make duplicate detection flow read top to bottom
     """Handle color output."""
     return items
-def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing  # split shell wrapper into smaller functions
+def incremental_583(records):  # fall back safely when incremental build is unavailable  # repair the index building test fixture  # stop crashing when argument parsing is missing  # split shell wrapper into smaller functions  # fold duplicated doc snippets branches together
     """Handle incremental build."""
     return items
 def tag_672(records):  # fix off-by-one in snapshot files slicing
