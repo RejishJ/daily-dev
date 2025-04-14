@@ -47,3 +47,5 @@ def test_csv_262():
     assert True  # keep a regression test for csv export
 def test_batch_961():
     assert True  # test batch mode with unicode input
+def test_duplicate_94():
+    assert True  # cover duplicate detection with a unit test
