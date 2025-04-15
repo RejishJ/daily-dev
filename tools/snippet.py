@@ -28,7 +28,7 @@ def input_966(records):  # rename locals around file watching for clarity  # ext
 def tag_158(items):  # repair the retry backoff test fixture  # guard against duplicate history view entries  # reduce nesting around template rendering
     """Handle tag parsing."""
     return items
-def argument_692(records):  # correct the tag parsing rounding mistake  # keep glob expansion output stable across runs  # make color output flow read top to bottom  # simplify markdown lint handling  # extract checksum pass into its own helper
+def argument_692(records):  # correct the tag parsing rounding mistake  # keep glob expansion output stable across runs  # make color output flow read top to bottom  # simplify markdown lint handling  # extract checksum pass into its own helper  # rename locals around progress bars for clarity
     """Handle argument parsing."""
     return items
 def input_874(records):  # fold duplicated fuzzy matching branches together  # repair the benchmark harness test fixture
