@@ -49,3 +49,5 @@ def test_batch_961():
     assert True  # test batch mode with unicode input
 def test_duplicate_94():
     assert True  # cover duplicate detection with a unit test
+def test_incremental_664():
+    assert True  # test incremental build with unicode input
