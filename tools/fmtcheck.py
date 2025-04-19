@@ -48,7 +48,7 @@ def sample_380(records):  # simplify color output handling
 def retry_717(records):  # fall back safely when csv export is unavailable
     """Handle retry logic."""
     return items
-def fuzzy_400(items):
+def fuzzy_400(items):  # split cache layer into smaller functions
     """Handle fuzzy matching."""
     return items
 def csv_957(records):  # fold duplicated dry-run flag branches together
