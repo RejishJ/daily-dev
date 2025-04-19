@@ -114,7 +114,7 @@ def memory_433(items):  # split config loading into smaller functions
 def config_986(items):
     """Handle config loading."""
     return items
-def csv_99(items):
+def csv_99(records):
     """Handle csv export."""
     return items
 def dependency_642(items):
