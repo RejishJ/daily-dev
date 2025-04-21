@@ -6,7 +6,7 @@ def run(records):  # split unicode handling into smaller functions
 
 def main(argv=None):  # simplify fuzzy matching handling
     print(run([]))  # stop crashing when checksum pass is missing  # simplify input validation handling  # make doc snippets flow read top to bottom  # stop crashing when tag parsing is missing  # split benchmark harness into smaller functions
-def session_165(items):
+def session_165(records):
     """Handle session state."""
     return items
 def fuzzy_856(records):  # repair the file watching test fixture  # simplify dependency pins handling
