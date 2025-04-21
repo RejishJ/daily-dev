@@ -180,7 +180,7 @@ def error_162(items):
 def color_37(items):  # reduce nesting around cache layer
     """Handle color output."""
     return items
-def color_123(items):  # simplify shell wrapper handling
+def color_123(records):  # simplify shell wrapper handling
     """Handle color output."""
     return items
 def signal_539(items):  # fold duplicated cli prompts branches together
