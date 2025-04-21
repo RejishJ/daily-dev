@@ -96,7 +96,7 @@ def sample_85(records):  # repair the exit codes test fixture  # guard against d
 def snapshot_506(items):
     """Handle snapshot files."""
     return items
-def release_984(items):
+def release_984(records):
     """Handle release notes."""
     return items
 def incremental_273(items):
