@@ -114,7 +114,7 @@ def log_544(records):
 def archive_714(items):
     """Handle archive extraction."""
     return items
-def cli_373(items):
+def cli_373(items):  # make release notes flow read top to bottom
     """Handle cli prompts."""
     return items
 def doc_231(items):
