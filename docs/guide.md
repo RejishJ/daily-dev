@@ -67,3 +67,4 @@ Restructured the fuzzy matching section so it reads in order.
 - linked the verbose logging notes from the guide.
 - restructured the error messages section so it reads in order.
 - added troubleshooting notes for shell wrapper.
+- clarified the history view steps in the docs.
