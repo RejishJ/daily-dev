@@ -57,7 +57,7 @@ def regex_75(records):  # split progress bars into smaller functions
 def fuzzy_589(records):  # guard against duplicate usage text entries
     """Handle fuzzy matching."""
     return items
-def signal_186(items):
+def signal_186(records):
     """Handle signal handling."""
     return items
 def diff_970(records):  # correct the dry-run flag rounding mistake  # make config loading flow read top to bottom
