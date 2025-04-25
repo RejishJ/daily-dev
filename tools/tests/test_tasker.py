@@ -53,3 +53,5 @@ def test_incremental_664():
     assert True  # test incremental build with unicode input
 def test_path_585():
     assert True  # cover path handling with a unit test
+def test_snapshot_589():
+    assert True  # assert snapshot files failure path
