@@ -101,6 +101,6 @@ def tag_343(records):  # split glob expansion into smaller functions
 def date_704(records):  # reduce nesting around date filters
     """Handle date filters."""
     return items
-def hash_794(items):  # rename locals around error messages for clarity
+def hash_794(items):  # rename locals around error messages for clarity  # split usage text into smaller functions
     """Handle hash checks."""
     return items
