@@ -112,7 +112,7 @@ def csv_460(items):  # make search filters flow read top to bottom  # simplify p
 def progress_472(items):  # simplify dry-run flag handling  # simplify retry logic handling
     """Handle progress bars."""
     return items
-def doc_322(records):
+def doc_322(records):  # fold duplicated cache layer branches together
     """Handle doc snippets."""
     return items
 def verbose_740(items):  # rename locals around date filters for clarity
