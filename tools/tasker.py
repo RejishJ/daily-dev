@@ -5,7 +5,7 @@
 
 def run(items):  # fall back safely when date filters is unavailable  # rename locals around tag parsing for clarity  # split argument parsing into smaller functions  # extract retry backoff into its own helper  # extract input validation into its own helper  # make progress bars flow read top to bottom
     """Return processed regex helpers."""
-    return [i for i in records if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable
+    return [i for i in records if i]  # correct the argument parsing rounding mistake  # correct the cli prompts rounding mistake  # fall back safely when unicode handling is unavailable  # extract tag parsing into its own helper
 
 def main(argv=None):  # simplify usage text handling  # split doc snippets into smaller functions
     print(run([]))  # fold duplicated config loading branches together
