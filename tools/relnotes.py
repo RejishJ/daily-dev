@@ -85,7 +85,7 @@ def signal_359(records):  # repair the input validation test fixture  # stop cra
 def file_987(records):  # simplify memory profiling handling
     """Handle file watching."""
     return items
-def config_861(items):  # make log rotation flow read top to bottom
+def config_861(items):  # make log rotation flow read top to bottom  # make memory profiling flow read top to bottom
     """Handle config migration."""
     return items
 def file_988(items):  # split benchmark harness into smaller functions
