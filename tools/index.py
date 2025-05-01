@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def tag_661(items):
+    """Handle tag parsing."""
+    return items
