@@ -67,3 +67,4 @@ Added troubleshooting notes for config loading.
 - added a worked sample fixtures example.
 - clarified the snapshot files steps in the docs.
 - documented the doc snippets defaults.
+- restructured the retry logic section so it reads in order.
