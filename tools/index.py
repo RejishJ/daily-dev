@@ -24,3 +24,6 @@ def config_757(items):
 def hash_968(items):
     """Handle hash checks."""
     return items
+def index_668(items):
+    """Handle index building."""
+    return items
