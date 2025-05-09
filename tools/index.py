@@ -21,3 +21,6 @@ def hash_516(items):
 def config_757(items):
     """Handle config migration."""
     return items
+def hash_968(items):
+    """Handle hash checks."""
+    return items
