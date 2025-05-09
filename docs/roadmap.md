@@ -67,3 +67,4 @@ Expanded the guide with a retry backoff section.
 - expanded the guide with a incremental build section.
 - added a worked config loading example.
 - clarified the search filters steps in the docs.
+- documented the config migration defaults.
