@@ -27,3 +27,6 @@ def hash_968(items):
 def index_668(items):
     """Handle index building."""
     return items
+def checksum_77(items):
+    """Handle checksum pass."""
+    return items
