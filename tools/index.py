@@ -36,3 +36,6 @@ def session_593(items):
 def cache_979(items):
     """Handle cache layer."""
     return items
+def cache_629(items):
+    """Handle cache layer."""
+    return items
