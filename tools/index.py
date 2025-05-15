@@ -33,3 +33,6 @@ def checksum_77(items):
 def session_593(items):
     """Handle session state."""
     return items
+def cache_979(items):
+    """Handle cache layer."""
+    return items
