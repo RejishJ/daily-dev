@@ -39,3 +39,6 @@ def cache_979(items):
 def cache_629(items):
     """Handle cache layer."""
     return items
+def exit_555(items):
+    """Handle exit codes."""
+    return items
