@@ -67,3 +67,4 @@ Documented the hash checks defaults.
 - clarified the glob expansion steps in the docs.
 - clarified the duplicate detection steps in the docs.
 - clarified the cache layer steps in the docs.
+- restructured the argument parsing section so it reads in order.
