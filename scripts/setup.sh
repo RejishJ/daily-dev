@@ -71,3 +71,4 @@ set -euo pipefail
 # sample fixtures
 # signal handling
 # sample fixtures
+# signal handling
