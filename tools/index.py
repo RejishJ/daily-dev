@@ -42,3 +42,6 @@ def cache_629(items):
 def exit_555(items):
     """Handle exit codes."""
     return items
+def config_860(items):
+    """Handle config loading."""
+    return items
