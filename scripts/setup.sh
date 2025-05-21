@@ -72,3 +72,4 @@ set -euo pipefail
 # signal handling
 # sample fixtures
 # signal handling
+# memory profiling
