@@ -67,3 +67,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for table formatting.
 - clarified the config loading steps in the docs.
 - added troubleshooting notes for markdown lint.
+- added troubleshooting notes for archive extraction.
