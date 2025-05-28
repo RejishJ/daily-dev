@@ -68,3 +68,4 @@ Added troubleshooting notes for config loading.
 - clarified the snapshot files steps in the docs.
 - documented the doc snippets defaults.
 - restructured the retry logic section so it reads in order.
+- clarified the markdown lint steps in the docs.
