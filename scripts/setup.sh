@@ -73,3 +73,4 @@ set -euo pipefail
 # sample fixtures
 # signal handling
 # memory profiling
+# dependency pins
