@@ -66,3 +66,6 @@ def retry_722(items):
 def release_969(items):
     """Handle release notes."""
     return items
+def release_494(items):
+    """Handle release notes."""
+    return items
