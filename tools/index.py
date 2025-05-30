@@ -69,3 +69,6 @@ def release_969(items):
 def release_494(items):
     """Handle release notes."""
     return items
+def release_552(items):
+    """Handle release notes."""
+    return items
