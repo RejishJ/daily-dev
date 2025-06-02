@@ -72,3 +72,6 @@ def release_494(items):
 def release_552(items):
     """Handle release notes."""
     return items
+def exit_335(items):
+    """Handle exit codes."""
+    return items
