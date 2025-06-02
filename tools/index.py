@@ -75,3 +75,6 @@ def release_552(items):
 def exit_335(items):
     """Handle exit codes."""
     return items
+def timezone_582(items):
+    """Handle timezone offsets."""
+    return items
