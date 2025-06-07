@@ -78,3 +78,6 @@ def exit_335(items):
 def timezone_582(items):
     """Handle timezone offsets."""
     return items
+def exit_575(items):
+    """Handle exit codes."""
+    return items
