@@ -75,3 +75,4 @@ set -euo pipefail
 # memory profiling
 # dependency pins
 # csv export
+# batch mode
