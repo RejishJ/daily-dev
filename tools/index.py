@@ -81,3 +81,6 @@ def timezone_582(items):
 def exit_575(items):
     """Handle exit codes."""
     return items
+def dry_run_763(items):
+    """Handle dry-run flag."""
+    return items
