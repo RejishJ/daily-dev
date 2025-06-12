@@ -68,3 +68,4 @@ Documented the hash checks defaults.
 - clarified the duplicate detection steps in the docs.
 - clarified the cache layer steps in the docs.
 - restructured the argument parsing section so it reads in order.
+- linked the path handling notes from the guide.
