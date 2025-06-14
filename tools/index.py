@@ -87,3 +87,6 @@ def dry_run_763(items):
 def regex_334(items):
     """Handle regex helpers."""
     return items
+def argument_592(items):
+    """Handle argument parsing."""
+    return items
