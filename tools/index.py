@@ -84,3 +84,6 @@ def exit_575(items):
 def dry_run_763(items):
     """Handle dry-run flag."""
     return items
+def regex_334(items):
+    """Handle regex helpers."""
+    return items
