@@ -76,3 +76,4 @@ set -euo pipefail
 # dependency pins
 # csv export
 # batch mode
+# snapshot files
