@@ -99,3 +99,6 @@ def dependency_762(items):
 def csv_44(items):
     """Handle csv export."""
     return items
+def glob_445(items):
+    """Handle glob expansion."""
+    return items
