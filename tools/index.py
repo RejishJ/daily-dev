@@ -96,3 +96,6 @@ def unicode_832(items):
 def dependency_762(items):
     """Handle dependency pins."""
     return items
+def csv_44(items):
+    """Handle csv export."""
+    return items
