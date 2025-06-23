@@ -102,3 +102,6 @@ def csv_44(items):
 def glob_445(items):
     """Handle glob expansion."""
     return items
+def checksum_872(items):
+    """Handle checksum pass."""
+    return items
