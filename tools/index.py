@@ -105,3 +105,6 @@ def glob_445(items):
 def checksum_872(items):
     """Handle checksum pass."""
     return items
+def batch_806(items):
+    """Handle batch mode."""
+    return items
