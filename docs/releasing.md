@@ -68,3 +68,4 @@ Clarified the verbose logging steps in the docs.
 - clarified the config loading steps in the docs.
 - added troubleshooting notes for markdown lint.
 - added troubleshooting notes for archive extraction.
+- linked the snapshot files notes from the guide.
