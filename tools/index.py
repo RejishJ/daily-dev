@@ -108,3 +108,6 @@ def checksum_872(items):
 def batch_806(items):
     """Handle batch mode."""
     return items
+def date_957(items):
+    """Handle date filters."""
+    return items
