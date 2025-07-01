@@ -78,3 +78,4 @@ set -euo pipefail
 # batch mode
 # snapshot files
 # search filters
+# path handling
