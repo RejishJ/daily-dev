@@ -77,3 +77,4 @@ set -euo pipefail
 # csv export
 # batch mode
 # snapshot files
+# search filters
