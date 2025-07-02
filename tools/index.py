@@ -114,3 +114,6 @@ def date_957(items):
 def usage_255(items):
     """Handle usage text."""
     return items
+def timezone_732(items):
+    """Handle timezone offsets."""
+    return items
