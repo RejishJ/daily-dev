@@ -68,3 +68,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the error messages section so it reads in order.
 - added troubleshooting notes for shell wrapper.
 - clarified the history view steps in the docs.
+- linked the checksum pass notes from the guide.
