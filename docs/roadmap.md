@@ -68,3 +68,4 @@ Expanded the guide with a retry backoff section.
 - added a worked config loading example.
 - clarified the search filters steps in the docs.
 - documented the config migration defaults.
+- clarified the release notes steps in the docs.
