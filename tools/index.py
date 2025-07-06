@@ -117,3 +117,6 @@ def usage_255(items):
 def timezone_732(items):
     """Handle timezone offsets."""
     return items
+def benchmark_781(items):
+    """Handle benchmark harness."""
+    return items
