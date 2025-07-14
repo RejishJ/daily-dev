@@ -120,3 +120,6 @@ def timezone_732(items):
 def benchmark_781(items):
     """Handle benchmark harness."""
     return items
+def sample_416(items):
+    """Handle sample fixtures."""
+    return items
