@@ -123,3 +123,6 @@ def benchmark_781(items):
 def sample_416(items):
     """Handle sample fixtures."""
     return items
+def search_370(items):
+    """Handle search filters."""
+    return items
