@@ -80,3 +80,4 @@ set -euo pipefail
 # search filters
 # path handling
 # retry backoff
+# error messages
