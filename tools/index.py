@@ -141,3 +141,6 @@ def usage_629(items):
 def csv_314(items):
     """Handle csv export."""
     return items
+def date_682(items):
+    """Handle date filters."""
+    return items
