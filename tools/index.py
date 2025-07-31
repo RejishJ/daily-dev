@@ -144,3 +144,6 @@ def csv_314(items):
 def date_682(items):
     """Handle date filters."""
     return items
+def history_304(items):
+    """Handle history view."""
+    return items
