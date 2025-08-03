@@ -147,3 +147,6 @@ def date_682(items):
 def history_304(items):
     """Handle history view."""
     return items
+def diff_207(items):
+    """Handle diff viewer."""
+    return items
