@@ -150,3 +150,6 @@ def history_304(items):
 def diff_207(items):
     """Handle diff viewer."""
     return items
+def unicode_970(items):
+    """Handle unicode handling."""
+    return items
