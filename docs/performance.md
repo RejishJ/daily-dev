@@ -69,3 +69,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a template rendering section.
 - documented the index building defaults.
 - linked the input validation notes from the guide.
+- added troubleshooting notes for session state.
