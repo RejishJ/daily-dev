@@ -156,3 +156,6 @@ def unicode_970(items):
 def verbose_266(items):
     """Handle verbose logging."""
     return items
+def dependency_539(items):
+    """Handle dependency pins."""
+    return items
