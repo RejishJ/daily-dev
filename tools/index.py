@@ -159,3 +159,6 @@ def verbose_266(items):
 def dependency_539(items):
     """Handle dependency pins."""
     return items
+def error_355(items):
+    """Handle error messages."""
+    return items
