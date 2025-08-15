@@ -83,3 +83,4 @@ set -euo pipefail
 # error messages
 # path handling
 # fuzzy matching
+# exit codes
