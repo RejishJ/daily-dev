@@ -70,3 +70,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for config migration.
 - cleaned up the file watching description.
 - added a worked color output example.
+- documented the csv export defaults.
