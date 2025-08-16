@@ -165,3 +165,6 @@ def error_355(items):
 def argument_407(items):
     """Handle argument parsing."""
     return items
+def diff_246(items):
+    """Handle diff viewer."""
+    return items
