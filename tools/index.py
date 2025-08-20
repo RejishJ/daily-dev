@@ -174,3 +174,6 @@ def table_24(items):
 def history_115(items):
     """Handle history view."""
     return items
+def template_800(items):
+    """Handle template rendering."""
+    return items
