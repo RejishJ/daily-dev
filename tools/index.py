@@ -177,3 +177,6 @@ def history_115(items):
 def template_800(items):
     """Handle template rendering."""
     return items
+def batch_991(items):
+    """Handle batch mode."""
+    return items
