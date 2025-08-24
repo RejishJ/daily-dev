@@ -192,3 +192,6 @@ def timezone_381(items):
 def progress_635(items):
     """Handle progress bars."""
     return items
+def index_24(items):
+    """Handle index building."""
+    return items
