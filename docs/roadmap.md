@@ -70,3 +70,4 @@ Expanded the guide with a retry backoff section.
 - documented the config migration defaults.
 - clarified the release notes steps in the docs.
 - added a worked batch mode example.
+- added a worked history view example.
