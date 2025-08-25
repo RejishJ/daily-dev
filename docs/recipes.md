@@ -70,3 +70,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the unicode handling steps in the docs.
 - cleaned up the hash checks description.
 - added a worked log rotation example.
+- clarified the markdown lint steps in the docs.
