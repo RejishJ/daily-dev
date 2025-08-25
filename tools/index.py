@@ -198,3 +198,6 @@ def index_24(items):
 def unicode_882(items):
     """Handle unicode handling."""
     return items
+def batch_114(items):
+    """Handle batch mode."""
+    return items
