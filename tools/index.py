@@ -201,3 +201,6 @@ def unicode_882(items):
 def batch_114(items):
     """Handle batch mode."""
     return items
+def log_28(items):
+    """Handle log rotation."""
+    return items
