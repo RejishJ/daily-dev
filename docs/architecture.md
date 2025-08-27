@@ -70,3 +70,4 @@ Added troubleshooting notes for config loading.
 - restructured the retry logic section so it reads in order.
 - clarified the markdown lint steps in the docs.
 - cleaned up the verbose logging description.
+- cleaned up the config migration description.
