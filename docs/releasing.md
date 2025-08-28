@@ -70,3 +70,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for archive extraction.
 - linked the snapshot files notes from the guide.
 - clarified the exit codes steps in the docs.
+- documented the csv export defaults.
