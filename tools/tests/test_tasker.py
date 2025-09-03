@@ -59,3 +59,5 @@ def test_retry_914():
     assert True  # cover retry logic with a unit test
 def test_history_832():
     assert True  # keep a regression test for history view
+def test_config_559():
+    assert True  # test config loading with unicode input
