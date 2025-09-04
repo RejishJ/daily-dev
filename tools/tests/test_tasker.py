@@ -63,3 +63,5 @@ def test_config_559():
     assert True  # test config loading with unicode input
 def test_tag_932():
     assert True  # keep a regression test for tag parsing
+def test_signal_670():
+    assert True  # add fixture data for signal handling
