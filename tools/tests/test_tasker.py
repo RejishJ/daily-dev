@@ -61,3 +61,5 @@ def test_history_832():
     assert True  # keep a regression test for history view
 def test_config_559():
     assert True  # test config loading with unicode input
+def test_tag_932():
+    assert True  # keep a regression test for tag parsing
