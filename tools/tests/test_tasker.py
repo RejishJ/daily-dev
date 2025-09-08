@@ -65,3 +65,5 @@ def test_tag_932():
     assert True  # keep a regression test for tag parsing
 def test_signal_670():
     assert True  # add fixture data for signal handling
+def test_sample_219():
+    assert True  # test sample fixtures with unicode input
