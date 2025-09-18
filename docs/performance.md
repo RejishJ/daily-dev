@@ -70,3 +70,4 @@ Clarified the release notes steps in the docs.
 - documented the index building defaults.
 - linked the input validation notes from the guide.
 - added troubleshooting notes for session state.
+- expanded the guide with a date filters section.
