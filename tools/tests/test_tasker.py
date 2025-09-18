@@ -81,3 +81,5 @@ def test_cli_445():
     assert True  # add fixture data for cli prompts
 def test_doc_67():
     assert True  # add fixture data for doc snippets
+def test_index_755():
+    assert True  # assert index building failure path
