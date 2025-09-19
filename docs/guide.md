@@ -70,3 +70,4 @@ Restructured the fuzzy matching section so it reads in order.
 - clarified the history view steps in the docs.
 - linked the checksum pass notes from the guide.
 - added a worked progress bars example.
+- documented the path handling defaults.
