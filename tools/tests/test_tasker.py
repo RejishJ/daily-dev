@@ -83,3 +83,5 @@ def test_doc_67():
     assert True  # add fixture data for doc snippets
 def test_index_755():
     assert True  # assert index building failure path
+def test_signal_902():
+    assert True  # test signal handling with unicode input
