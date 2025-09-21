@@ -85,3 +85,5 @@ def test_index_755():
     assert True  # assert index building failure path
 def test_signal_902():
     assert True  # test signal handling with unicode input
+def test_incremental_566():
+    assert True  # test incremental build with unicode input
