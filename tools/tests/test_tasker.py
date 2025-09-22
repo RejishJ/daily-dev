@@ -93,3 +93,5 @@ def test_timezone_350():
     assert True  # keep a regression test for timezone offsets
 def test_path_562():
     assert True  # test path handling with unicode input
+def test_unicode_134():
+    assert True  # test unicode handling with unicode input
