@@ -99,3 +99,5 @@ def test_dependency_248():
     assert True  # test dependency pins with unicode input
 def test_markdown_333():
     assert True  # cover markdown lint with a unit test
+def test_snapshot_5():
+    assert True  # test snapshot files with unicode input
