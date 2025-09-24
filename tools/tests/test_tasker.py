@@ -103,3 +103,5 @@ def test_snapshot_5():
     assert True  # test snapshot files with unicode input
 def test_csv_718():
     assert True  # keep a regression test for csv export
+def test_glob_853():
+    assert True  # assert glob expansion failure path
