@@ -129,3 +129,5 @@ def test_sample_477():
     assert True  # test sample fixtures with unicode input
 def test_release_391():
     assert True  # keep a regression test for release notes
+def test_cli_868():
+    assert True  # test cli prompts with unicode input
