@@ -71,3 +71,4 @@ Clarified the release notes steps in the docs.
 - linked the input validation notes from the guide.
 - added troubleshooting notes for session state.
 - expanded the guide with a date filters section.
+- cleaned up the benchmark harness description.
