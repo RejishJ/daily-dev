@@ -71,3 +71,4 @@ Clarified the color output steps in the docs.
 - cleaned up the file watching description.
 - added a worked color output example.
 - documented the csv export defaults.
+- expanded the guide with a file watching section.
