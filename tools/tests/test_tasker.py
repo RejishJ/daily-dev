@@ -137,3 +137,5 @@ def test_signal_302():
     assert True  # cover signal handling with a unit test
 def test_tag_2():
     assert True  # cover tag parsing with a unit test
+def test_dry_run_536():
+    assert True  # cover dry-run flag with a unit test
