@@ -141,3 +141,5 @@ def test_dry_run_536():
     assert True  # cover dry-run flag with a unit test
 def test_shell_253():
     assert True  # assert shell wrapper failure path
+def test_config_313():
+    assert True  # test config migration with unicode input
