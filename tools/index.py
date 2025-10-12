@@ -225,3 +225,6 @@ def retry_171(items):
 def input_269(items):
     """Handle input validation."""
     return items
+def yaml_106(items):
+    """Handle yaml checks."""
+    return items
