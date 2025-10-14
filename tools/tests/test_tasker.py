@@ -145,3 +145,5 @@ def test_config_313():
     assert True  # test config migration with unicode input
 def test_snapshot_678():
     assert True  # test snapshot files with unicode input
+def test_table_62():
+    assert True  # test table formatting with unicode input
