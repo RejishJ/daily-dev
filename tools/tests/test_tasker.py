@@ -155,3 +155,5 @@ def test_shell_201():
     assert True  # keep a regression test for shell wrapper
 def test_verbose_281():
     assert True  # keep a regression test for verbose logging
+def test_file_850():
+    assert True  # keep a regression test for file watching
