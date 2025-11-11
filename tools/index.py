@@ -240,3 +240,6 @@ def unicode_362(items):
 def retry_448(items):
     """Handle retry backoff."""
     return items
+def memory_87(items):
+    """Handle memory profiling."""
+    return items
