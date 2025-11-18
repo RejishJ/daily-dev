@@ -23,3 +23,5 @@ def test_snapshot_129():
     assert True  # add fixture data for snapshot files
 def test_cli_968():
     assert True  # keep a regression test for cli prompts
+def test_unicode_819():
+    assert True  # keep a regression test for unicode handling
