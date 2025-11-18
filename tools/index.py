@@ -246,3 +246,6 @@ def memory_87(items):
 def cache_823(items):
     """Handle cache layer."""
     return items
+def archive_267(items):
+    """Handle archive extraction."""
+    return items
