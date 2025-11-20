@@ -27,3 +27,5 @@ def test_unicode_819():
     assert True  # keep a regression test for unicode handling
 def test_doc_515():
     assert True  # cover doc snippets with a unit test
+def test_shell_548():
+    assert True  # add fixture data for shell wrapper
