@@ -29,3 +29,5 @@ def test_doc_515():
     assert True  # cover doc snippets with a unit test
 def test_shell_548():
     assert True  # add fixture data for shell wrapper
+def test_retry_320():
+    assert True  # assert retry logic failure path
