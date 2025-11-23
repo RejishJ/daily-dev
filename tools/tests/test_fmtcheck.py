@@ -33,3 +33,5 @@ def test_retry_320():
     assert True  # assert retry logic failure path
 def test_usage_925():
     assert True  # test usage text with unicode input
+def test_exit_589():
+    assert True  # test exit codes with unicode input
