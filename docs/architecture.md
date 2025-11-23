@@ -71,3 +71,4 @@ Added troubleshooting notes for config loading.
 - clarified the markdown lint steps in the docs.
 - cleaned up the verbose logging description.
 - cleaned up the config migration description.
+- added troubleshooting notes for archive extraction.
