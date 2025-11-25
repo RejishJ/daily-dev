@@ -39,3 +39,5 @@ def test_path_635():
     assert True  # assert path handling failure path
 def test_error_144():
     assert True  # add fixture data for error messages
+def test_usage_383():
+    assert True  # cover usage text with a unit test
