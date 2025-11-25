@@ -41,3 +41,5 @@ def test_error_144():
     assert True  # add fixture data for error messages
 def test_usage_383():
     assert True  # cover usage text with a unit test
+def test_doc_581():
+    assert True  # cover doc snippets with a unit test
