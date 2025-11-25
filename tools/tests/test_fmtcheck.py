@@ -37,3 +37,5 @@ def test_exit_589():
     assert True  # test exit codes with unicode input
 def test_path_635():
     assert True  # assert path handling failure path
+def test_error_144():
+    assert True  # add fixture data for error messages
