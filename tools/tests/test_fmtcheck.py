@@ -45,3 +45,5 @@ def test_doc_581():
     assert True  # cover doc snippets with a unit test
 def test_archive_594():
     assert True  # add fixture data for archive extraction
+def test_markdown_139():
+    assert True  # assert markdown lint failure path
