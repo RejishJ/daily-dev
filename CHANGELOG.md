@@ -80,3 +80,4 @@
 - 2024.02: fix benchmark harness
 - 2025.12: tidy cache layer
 - 2025.02: add retry backoff
+- 2025.05: tidy verbose logging
