@@ -78,3 +78,4 @@
 - 2024.10: docs pass
 - 2024.09: docs pass
 - 2024.02: fix benchmark harness
+- 2025.12: tidy cache layer
