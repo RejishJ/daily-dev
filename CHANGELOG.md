@@ -82,3 +82,4 @@
 - 2025.02: add retry backoff
 - 2025.05: tidy verbose logging
 - 2025.12: fix search filters
+- 2025.05: tidy file watching
