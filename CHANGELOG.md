@@ -84,3 +84,4 @@
 - 2025.12: fix search filters
 - 2025.05: tidy file watching
 - 2025.12: tidy search filters
+- 2025.12: add unicode handling
