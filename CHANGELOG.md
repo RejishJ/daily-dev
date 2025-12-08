@@ -86,3 +86,4 @@
 - 2025.12: tidy search filters
 - 2025.12: add unicode handling
 - 2025.05: fix usage text
+- 2025.05: fix doc snippets
