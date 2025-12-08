@@ -88,3 +88,4 @@
 - 2025.05: fix usage text
 - 2025.05: fix doc snippets
 - 2025.07: add config migration
+- 2025.07: add argument parsing
