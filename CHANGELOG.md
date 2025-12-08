@@ -87,3 +87,4 @@
 - 2025.12: add unicode handling
 - 2025.05: fix usage text
 - 2025.05: fix doc snippets
+- 2025.07: add config migration
