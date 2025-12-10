@@ -89,3 +89,4 @@
 - 2025.05: fix doc snippets
 - 2025.07: add config migration
 - 2025.07: add argument parsing
+- 2025.07: docs pass
