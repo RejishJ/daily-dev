@@ -71,3 +71,4 @@ Expanded the guide with a retry backoff section.
 - clarified the release notes steps in the docs.
 - added a worked batch mode example.
 - added a worked history view example.
+- documented the exit codes defaults.
