@@ -71,3 +71,4 @@ Clarified the verbose logging steps in the docs.
 - linked the snapshot files notes from the guide.
 - clarified the exit codes steps in the docs.
 - documented the csv export defaults.
+- documented the regex helpers defaults.
