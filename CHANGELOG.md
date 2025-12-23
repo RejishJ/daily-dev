@@ -95,3 +95,4 @@
 - 2025.10: fix index building
 - 2025.07: tidy date filters
 - 2025.08: add search filters
+- 2025.07: tidy cache layer
