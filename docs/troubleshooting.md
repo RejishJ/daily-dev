@@ -72,3 +72,4 @@ Documented the hash checks defaults.
 - expanded the guide with a unicode handling section.
 - restructured the doc snippets section so it reads in order.
 - clarified the path handling steps in the docs.
+- expanded the guide with a cache layer section.
