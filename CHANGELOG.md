@@ -97,3 +97,4 @@
 - 2025.08: add search filters
 - 2025.07: tidy cache layer
 - 2025.10: tidy table formatting
+- 2025.12: fix regex helpers
