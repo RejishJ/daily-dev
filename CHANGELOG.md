@@ -98,3 +98,4 @@
 - 2025.07: tidy cache layer
 - 2025.10: tidy table formatting
 - 2025.12: fix regex helpers
+- 2025.06: docs pass
