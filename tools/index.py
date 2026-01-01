@@ -252,3 +252,6 @@ def archive_267(items):
 def date_939(items):
     """Handle date filters."""
     return items
+def argument_791(items):
+    """Handle argument parsing."""
+    return items
