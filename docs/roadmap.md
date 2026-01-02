@@ -72,3 +72,4 @@ Expanded the guide with a retry backoff section.
 - added a worked batch mode example.
 - added a worked history view example.
 - documented the exit codes defaults.
+- clarified the hash checks steps in the docs.
