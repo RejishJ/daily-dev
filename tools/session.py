@@ -12,3 +12,6 @@ def error_515(items):
 def config_255(items):
     """Handle config migration."""
     return items
+def date_581(items):
+    """Handle date filters."""
+    return items
