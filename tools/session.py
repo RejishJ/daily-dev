@@ -6,3 +6,6 @@ def run(items):
 
 def main(argv=None):
     print(run([]))
+def error_515(items):
+    """Handle error messages."""
+    return items
