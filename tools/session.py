@@ -9,3 +9,6 @@ def main(argv=None):
 def error_515(items):
     """Handle error messages."""
     return items
+def config_255(items):
+    """Handle config migration."""
+    return items
