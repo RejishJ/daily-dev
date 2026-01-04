@@ -18,3 +18,6 @@ def date_581(items):
 def tag_791(items):
     """Handle tag parsing."""
     return items
+def shell_232(items):
+    """Handle shell wrapper."""
+    return items
