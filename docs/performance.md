@@ -72,3 +72,4 @@ Clarified the release notes steps in the docs.
 - added troubleshooting notes for session state.
 - expanded the guide with a date filters section.
 - cleaned up the benchmark harness description.
+- added troubleshooting notes for log rotation.
