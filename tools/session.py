@@ -15,3 +15,6 @@ def config_255(items):
 def date_581(items):
     """Handle date filters."""
     return items
+def tag_791(items):
+    """Handle tag parsing."""
+    return items
