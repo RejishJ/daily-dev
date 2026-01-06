@@ -21,3 +21,6 @@ def tag_791(items):
 def shell_232(items):
     """Handle shell wrapper."""
     return items
+def usage_428(items):
+    """Handle usage text."""
+    return items
