@@ -85,3 +85,4 @@ set -euo pipefail
 # fuzzy matching
 # exit codes
 # argument parsing
+# table formatting
