@@ -24,3 +24,6 @@ def shell_232(items):
 def usage_428(items):
     """Handle usage text."""
     return items
+def exit_778(items):
+    """Handle exit codes."""
+    return items
