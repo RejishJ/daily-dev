@@ -72,3 +72,4 @@ Clarified the verbose logging steps in the docs.
 - clarified the exit codes steps in the docs.
 - documented the csv export defaults.
 - documented the regex helpers defaults.
+- added a worked argument parsing example.
