@@ -27,3 +27,6 @@ def usage_428(items):
 def exit_778(items):
     """Handle exit codes."""
     return items
+def unicode_855(items):
+    """Handle unicode handling."""
+    return items
