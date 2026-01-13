@@ -86,3 +86,4 @@ set -euo pipefail
 # exit codes
 # argument parsing
 # table formatting
+# template rendering
