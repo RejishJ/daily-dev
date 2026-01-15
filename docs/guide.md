@@ -72,3 +72,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked progress bars example.
 - documented the path handling defaults.
 - expanded the guide with a doc snippets section.
+- clarified the signal handling steps in the docs.
