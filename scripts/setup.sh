@@ -87,3 +87,4 @@ set -euo pipefail
 # argument parsing
 # table formatting
 # template rendering
+# file watching
