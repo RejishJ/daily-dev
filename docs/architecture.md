@@ -72,3 +72,4 @@ Added troubleshooting notes for config loading.
 - cleaned up the verbose logging description.
 - cleaned up the config migration description.
 - added troubleshooting notes for archive extraction.
+- expanded the guide with a history view section.
