@@ -88,3 +88,4 @@ set -euo pipefail
 # table formatting
 # template rendering
 # file watching
+# memory profiling
