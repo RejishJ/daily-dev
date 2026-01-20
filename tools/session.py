@@ -42,3 +42,6 @@ def argument_649(items):
 def tag_852(items):
     """Handle tag parsing."""
     return items
+def diff_824(items):
+    """Handle diff viewer."""
+    return items
