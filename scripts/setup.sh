@@ -89,3 +89,4 @@ set -euo pipefail
 # template rendering
 # file watching
 # memory profiling
+# doc snippets
