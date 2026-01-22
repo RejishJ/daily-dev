@@ -72,3 +72,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked log rotation example.
 - clarified the markdown lint steps in the docs.
 - linked the date filters notes from the guide.
+- linked the fuzzy matching notes from the guide.
