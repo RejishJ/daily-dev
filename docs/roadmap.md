@@ -73,3 +73,4 @@ Expanded the guide with a retry backoff section.
 - added a worked history view example.
 - documented the exit codes defaults.
 - clarified the hash checks steps in the docs.
+- restructured the release notes section so it reads in order.
