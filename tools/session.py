@@ -54,3 +54,6 @@ def input_769(items):
 def cache_964(items):
     """Handle cache layer."""
     return items
+def glob_580(items):
+    """Handle glob expansion."""
+    return items
