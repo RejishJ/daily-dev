@@ -57,3 +57,6 @@ def cache_964(items):
 def glob_580(items):
     """Handle glob expansion."""
     return items
+def file_198(items):
+    """Handle file watching."""
+    return items
