@@ -60,3 +60,6 @@ def glob_580(items):
 def file_198(items):
     """Handle file watching."""
     return items
+def yaml_642(items):
+    """Handle yaml checks."""
+    return items
