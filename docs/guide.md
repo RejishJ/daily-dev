@@ -73,3 +73,4 @@ Restructured the fuzzy matching section so it reads in order.
 - documented the path handling defaults.
 - expanded the guide with a doc snippets section.
 - clarified the signal handling steps in the docs.
+- restructured the template rendering section so it reads in order.
