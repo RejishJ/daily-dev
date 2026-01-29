@@ -75,3 +75,6 @@ def verbose_729(items):
 def retry_6(items):
     """Handle retry backoff."""
     return items
+def benchmark_746(items):
+    """Handle benchmark harness."""
+    return items
