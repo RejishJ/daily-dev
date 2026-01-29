@@ -81,3 +81,6 @@ def benchmark_746(items):
 def signal_272(items):
     """Handle signal handling."""
     return items
+def index_12(items):
+    """Handle index building."""
+    return items
