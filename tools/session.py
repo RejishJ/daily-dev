@@ -78,3 +78,6 @@ def retry_6(items):
 def benchmark_746(items):
     """Handle benchmark harness."""
     return items
+def signal_272(items):
+    """Handle signal handling."""
+    return items
