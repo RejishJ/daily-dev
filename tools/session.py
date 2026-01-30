@@ -90,3 +90,6 @@ def snapshot_295(items):
 def config_306(items):
     """Handle config migration."""
     return items
+def batch_696(items):
+    """Handle batch mode."""
+    return items
