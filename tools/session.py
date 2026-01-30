@@ -87,3 +87,6 @@ def index_12(items):
 def snapshot_295(items):
     """Handle snapshot files."""
     return items
+def config_306(items):
+    """Handle config migration."""
+    return items
