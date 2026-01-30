@@ -84,3 +84,6 @@ def signal_272(items):
 def index_12(items):
     """Handle index building."""
     return items
+def snapshot_295(items):
+    """Handle snapshot files."""
+    return items
