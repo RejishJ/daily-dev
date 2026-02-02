@@ -96,3 +96,6 @@ def batch_696(items):
 def fuzzy_314(items):
     """Handle fuzzy matching."""
     return items
+def markdown_195(items):
+    """Handle markdown lint."""
+    return items
