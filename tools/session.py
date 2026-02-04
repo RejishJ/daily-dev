@@ -99,3 +99,6 @@ def fuzzy_314(items):
 def markdown_195(items):
     """Handle markdown lint."""
     return items
+def progress_714(items):
+    """Handle progress bars."""
+    return items
