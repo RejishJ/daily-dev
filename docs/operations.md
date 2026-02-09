@@ -73,3 +73,4 @@ Clarified the color output steps in the docs.
 - documented the csv export defaults.
 - expanded the guide with a file watching section.
 - clarified the tag parsing steps in the docs.
+- added troubleshooting notes for verbose logging.
