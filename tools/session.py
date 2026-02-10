@@ -108,3 +108,6 @@ def session_485(items):
 def date_630(items):
     """Handle date filters."""
     return items
+def checksum_527(items):
+    """Handle checksum pass."""
+    return items
