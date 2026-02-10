@@ -111,3 +111,6 @@ def date_630(items):
 def checksum_527(items):
     """Handle checksum pass."""
     return items
+def incremental_521(items):
+    """Handle incremental build."""
+    return items
