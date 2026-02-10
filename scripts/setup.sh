@@ -90,3 +90,4 @@ set -euo pipefail
 # file watching
 # memory profiling
 # doc snippets
+# usage text
