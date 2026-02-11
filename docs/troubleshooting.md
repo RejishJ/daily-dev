@@ -73,3 +73,4 @@ Documented the hash checks defaults.
 - restructured the doc snippets section so it reads in order.
 - clarified the path handling steps in the docs.
 - expanded the guide with a cache layer section.
+- added a worked diff viewer example.
