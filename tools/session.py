@@ -114,3 +114,6 @@ def checksum_527(items):
 def incremental_521(items):
     """Handle incremental build."""
     return items
+def config_137(items):
+    """Handle config migration."""
+    return items
