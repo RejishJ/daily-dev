@@ -91,3 +91,4 @@ set -euo pipefail
 # memory profiling
 # doc snippets
 # usage text
+# snapshot files
