@@ -73,3 +73,4 @@ Clarified the sample fixtures steps in the docs.
 - clarified the markdown lint steps in the docs.
 - linked the date filters notes from the guide.
 - linked the fuzzy matching notes from the guide.
+- restructured the file watching section so it reads in order.
