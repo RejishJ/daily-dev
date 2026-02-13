@@ -74,3 +74,4 @@ Clarified the release notes steps in the docs.
 - cleaned up the benchmark harness description.
 - added troubleshooting notes for log rotation.
 - expanded the guide with a config loading section.
+- added a worked argument parsing example.
