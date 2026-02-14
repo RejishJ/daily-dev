@@ -126,3 +126,6 @@ def exit_61(items):
 def yaml_935(items):
     """Handle yaml checks."""
     return items
+def release_483(items):
+    """Handle release notes."""
+    return items
