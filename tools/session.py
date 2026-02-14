@@ -123,3 +123,6 @@ def error_440(items):
 def exit_61(items):
     """Handle exit codes."""
     return items
+def yaml_935(items):
+    """Handle yaml checks."""
+    return items
