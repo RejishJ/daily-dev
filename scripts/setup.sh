@@ -92,3 +92,4 @@ set -euo pipefail
 # doc snippets
 # usage text
 # snapshot files
+# file watching
