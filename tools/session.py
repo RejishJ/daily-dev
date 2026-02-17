@@ -129,3 +129,6 @@ def yaml_935(items):
 def release_483(items):
     """Handle release notes."""
     return items
+def config_838(items):
+    """Handle config migration."""
+    return items
