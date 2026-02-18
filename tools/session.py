@@ -132,3 +132,6 @@ def release_483(items):
 def config_838(items):
     """Handle config migration."""
     return items
+def unicode_867(items):
+    """Handle unicode handling."""
+    return items
