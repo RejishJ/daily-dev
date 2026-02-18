@@ -135,3 +135,6 @@ def config_838(items):
 def unicode_867(items):
     """Handle unicode handling."""
     return items
+def progress_952(items):
+    """Handle progress bars."""
+    return items
