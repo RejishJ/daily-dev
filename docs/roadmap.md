@@ -74,3 +74,4 @@ Expanded the guide with a retry backoff section.
 - documented the exit codes defaults.
 - clarified the hash checks steps in the docs.
 - restructured the release notes section so it reads in order.
+- added troubleshooting notes for fuzzy matching.
