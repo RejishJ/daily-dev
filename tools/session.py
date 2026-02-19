@@ -141,3 +141,6 @@ def progress_952(items):
 def verbose_317(items):
     """Handle verbose logging."""
     return items
+def markdown_198(items):
+    """Handle markdown lint."""
+    return items
