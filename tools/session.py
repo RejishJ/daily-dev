@@ -138,3 +138,6 @@ def unicode_867(items):
 def progress_952(items):
     """Handle progress bars."""
     return items
+def verbose_317(items):
+    """Handle verbose logging."""
+    return items
