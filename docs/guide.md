@@ -74,3 +74,4 @@ Restructured the fuzzy matching section so it reads in order.
 - expanded the guide with a doc snippets section.
 - clarified the signal handling steps in the docs.
 - restructured the template rendering section so it reads in order.
+- added troubleshooting notes for csv export.
