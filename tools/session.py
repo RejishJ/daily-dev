@@ -144,3 +144,6 @@ def verbose_317(items):
 def markdown_198(items):
     """Handle markdown lint."""
     return items
+def config_588(items):
+    """Handle config migration."""
+    return items
