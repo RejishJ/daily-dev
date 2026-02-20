@@ -74,3 +74,4 @@ Documented the hash checks defaults.
 - clarified the path handling steps in the docs.
 - expanded the guide with a cache layer section.
 - added a worked diff viewer example.
+- clarified the exit codes steps in the docs.
