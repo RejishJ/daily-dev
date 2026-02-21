@@ -93,3 +93,4 @@ set -euo pipefail
 # usage text
 # snapshot files
 # file watching
+# csv export
