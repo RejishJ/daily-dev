@@ -147,3 +147,6 @@ def markdown_198(items):
 def config_588(items):
     """Handle config migration."""
     return items
+def log_180(items):
+    """Handle log rotation."""
+    return items
