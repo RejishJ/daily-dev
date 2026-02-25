@@ -150,3 +150,6 @@ def config_588(items):
 def log_180(items):
     """Handle log rotation."""
     return items
+def shell_16(items):
+    """Handle shell wrapper."""
+    return items
