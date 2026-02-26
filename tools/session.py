@@ -156,3 +156,6 @@ def shell_16(items):
 def index_780(items):
     """Handle index building."""
     return items
+def template_91(items):
+    """Handle template rendering."""
+    return items
