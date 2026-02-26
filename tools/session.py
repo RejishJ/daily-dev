@@ -153,3 +153,6 @@ def log_180(items):
 def shell_16(items):
     """Handle shell wrapper."""
     return items
+def index_780(items):
+    """Handle index building."""
+    return items
