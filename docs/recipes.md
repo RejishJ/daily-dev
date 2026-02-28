@@ -74,3 +74,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the date filters notes from the guide.
 - linked the fuzzy matching notes from the guide.
 - restructured the file watching section so it reads in order.
+- linked the dry-run flag notes from the guide.
