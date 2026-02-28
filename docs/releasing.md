@@ -74,3 +74,4 @@ Clarified the verbose logging steps in the docs.
 - documented the regex helpers defaults.
 - added a worked argument parsing example.
 - added troubleshooting notes for release notes.
+- expanded the guide with a regex helpers section.
