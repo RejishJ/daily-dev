@@ -75,3 +75,4 @@ Restructured the fuzzy matching section so it reads in order.
 - clarified the signal handling steps in the docs.
 - restructured the template rendering section so it reads in order.
 - added troubleshooting notes for csv export.
+- added a worked signal handling example.
