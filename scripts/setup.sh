@@ -95,3 +95,4 @@ set -euo pipefail
 # file watching
 # csv export
 # date filters
+# config migration
