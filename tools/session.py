@@ -171,3 +171,6 @@ def argument_708(items):
 def retry_802(items):
     """Handle retry logic."""
     return items
+def dry_run_907(items):
+    """Handle dry-run flag."""
+    return items
