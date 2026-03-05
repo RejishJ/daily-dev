@@ -174,3 +174,6 @@ def retry_802(items):
 def dry_run_907(items):
     """Handle dry-run flag."""
     return items
+def duplicate_542(items):
+    """Handle duplicate detection."""
+    return items
