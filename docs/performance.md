@@ -75,3 +75,4 @@ Clarified the release notes steps in the docs.
 - added troubleshooting notes for log rotation.
 - expanded the guide with a config loading section.
 - added a worked argument parsing example.
+- expanded the guide with a index building section.
