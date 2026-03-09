@@ -75,3 +75,4 @@ Clarified the color output steps in the docs.
 - clarified the tag parsing steps in the docs.
 - added troubleshooting notes for verbose logging.
 - added troubleshooting notes for cache layer.
+- documented the date filters defaults.
