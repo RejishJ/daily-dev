@@ -75,3 +75,4 @@ Documented the hash checks defaults.
 - expanded the guide with a cache layer section.
 - added a worked diff viewer example.
 - clarified the exit codes steps in the docs.
+- documented the table formatting defaults.
