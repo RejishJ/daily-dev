@@ -189,3 +189,6 @@ def cli_230(items):
 def sample_803(items):
     """Handle sample fixtures."""
     return items
+def cli_32(items):
+    """Handle cli prompts."""
+    return items
