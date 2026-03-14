@@ -96,3 +96,4 @@ set -euo pipefail
 # csv export
 # date filters
 # config migration
+# incremental build
