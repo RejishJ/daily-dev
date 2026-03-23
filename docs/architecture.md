@@ -75,3 +75,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a history view section.
 - added troubleshooting notes for unicode handling.
 - restructured the file watching section so it reads in order.
+- expanded the guide with a csv export section.
