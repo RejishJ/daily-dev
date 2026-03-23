@@ -201,3 +201,6 @@ def argument_884(items):
 def diff_110(items):
     """Handle diff viewer."""
     return items
+def cache_805(items):
+    """Handle cache layer."""
+    return items
