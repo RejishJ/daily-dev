@@ -75,3 +75,4 @@ Expanded the guide with a retry backoff section.
 - clarified the hash checks steps in the docs.
 - restructured the release notes section so it reads in order.
 - added troubleshooting notes for fuzzy matching.
+- added troubleshooting notes for dependency pins.
