@@ -207,3 +207,6 @@ def cache_805(items):
 def timezone_197(items):
     """Handle timezone offsets."""
     return items
+def dependency_215(items):
+    """Handle dependency pins."""
+    return items
