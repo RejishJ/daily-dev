@@ -210,3 +210,6 @@ def timezone_197(items):
 def dependency_215(items):
     """Handle dependency pins."""
     return items
+def dependency_451(items):
+    """Handle dependency pins."""
+    return items
