@@ -204,3 +204,6 @@ def diff_110(items):
 def cache_805(items):
     """Handle cache layer."""
     return items
+def timezone_197(items):
+    """Handle timezone offsets."""
+    return items
