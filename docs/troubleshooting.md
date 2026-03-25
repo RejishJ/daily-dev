@@ -76,3 +76,4 @@ Documented the hash checks defaults.
 - added a worked diff viewer example.
 - clarified the exit codes steps in the docs.
 - documented the table formatting defaults.
+- added a worked retry backoff example.
