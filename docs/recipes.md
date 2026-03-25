@@ -75,3 +75,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the fuzzy matching notes from the guide.
 - restructured the file watching section so it reads in order.
 - linked the dry-run flag notes from the guide.
+- added a worked batch mode example.
