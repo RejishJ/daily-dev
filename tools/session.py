@@ -213,3 +213,6 @@ def dependency_215(items):
 def dependency_451(items):
     """Handle dependency pins."""
     return items
+def session_873(items):
+    """Handle session state."""
+    return items
