@@ -98,3 +98,4 @@ set -euo pipefail
 # config migration
 # incremental build
 # cache layer
+# unicode handling
