@@ -76,3 +76,4 @@ Clarified the release notes steps in the docs.
 - expanded the guide with a config loading section.
 - added a worked argument parsing example.
 - expanded the guide with a index building section.
+- restructured the path handling section so it reads in order.
