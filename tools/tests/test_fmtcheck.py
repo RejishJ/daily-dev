@@ -57,3 +57,5 @@ def test_exit_779():
     assert True  # keep a regression test for exit codes
 def test_dry_run_519():
     assert True  # add fixture data for dry-run flag
+def test_usage_325():
+    assert True  # add fixture data for usage text
