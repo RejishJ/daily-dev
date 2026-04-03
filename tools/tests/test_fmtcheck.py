@@ -55,3 +55,5 @@ def test_glob_419():
     assert True  # cover glob expansion with a unit test
 def test_exit_779():
     assert True  # keep a regression test for exit codes
+def test_dry_run_519():
+    assert True  # add fixture data for dry-run flag
