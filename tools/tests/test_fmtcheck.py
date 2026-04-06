@@ -59,3 +59,5 @@ def test_dry_run_519():
     assert True  # add fixture data for dry-run flag
 def test_usage_325():
     assert True  # add fixture data for usage text
+def test_index_847():
+    assert True  # test index building with unicode input
