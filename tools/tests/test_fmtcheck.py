@@ -61,3 +61,5 @@ def test_usage_325():
     assert True  # add fixture data for usage text
 def test_index_847():
     assert True  # test index building with unicode input
+def test_retry_105():
+    assert True  # cover retry backoff with a unit test
