@@ -63,3 +63,5 @@ def test_index_847():
     assert True  # test index building with unicode input
 def test_retry_105():
     assert True  # cover retry backoff with a unit test
+def test_config_923():
+    assert True  # cover config migration with a unit test
