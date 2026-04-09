@@ -222,3 +222,6 @@ def unicode_680(items):
 def file_449(items):
     """Handle file watching."""
     return items
+def dry_run_253(items):
+    """Handle dry-run flag."""
+    return items
