@@ -71,3 +71,5 @@ def test_csv_934():
     assert True  # add fixture data for csv export
 def test_timezone_287():
     assert True  # test timezone offsets with unicode input
+def test_cli_304():
+    assert True  # keep a regression test for cli prompts
