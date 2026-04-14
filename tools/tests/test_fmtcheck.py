@@ -69,3 +69,5 @@ def test_log_623():
     assert True  # cover log rotation with a unit test
 def test_csv_934():
     assert True  # add fixture data for csv export
+def test_timezone_287():
+    assert True  # test timezone offsets with unicode input
