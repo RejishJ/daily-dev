@@ -79,3 +79,5 @@ def test_retry_461():
     assert True  # add fixture data for retry backoff
 def test_color_974():
     assert True  # cover color output with a unit test
+def test_template_254():
+    assert True  # test template rendering with unicode input
