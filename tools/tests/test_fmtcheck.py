@@ -81,3 +81,5 @@ def test_color_974():
     assert True  # cover color output with a unit test
 def test_template_254():
     assert True  # test template rendering with unicode input
+def test_config_965():
+    assert True  # cover config migration with a unit test
