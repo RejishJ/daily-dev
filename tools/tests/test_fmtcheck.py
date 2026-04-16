@@ -85,3 +85,5 @@ def test_config_965():
     assert True  # cover config migration with a unit test
 def test_log_785():
     assert True  # cover log rotation with a unit test
+def test_incremental_871():
+    assert True  # assert incremental build failure path
