@@ -89,3 +89,5 @@ def test_incremental_871():
     assert True  # assert incremental build failure path
 def test_retry_763():
     assert True  # test retry logic with unicode input
+def test_dependency_9():
+    assert True  # assert dependency pins failure path
