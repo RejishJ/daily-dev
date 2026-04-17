@@ -76,3 +76,4 @@ Clarified the verbose logging steps in the docs.
 - added troubleshooting notes for release notes.
 - expanded the guide with a regex helpers section.
 - linked the config loading notes from the guide.
+- clarified the search filters steps in the docs.
