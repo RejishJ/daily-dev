@@ -225,3 +225,6 @@ def file_449(items):
 def dry_run_253(items):
     """Handle dry-run flag."""
     return items
+def usage_839(items):
+    """Handle usage text."""
+    return items
