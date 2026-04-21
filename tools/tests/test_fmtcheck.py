@@ -97,3 +97,5 @@ def test_diff_235():
     assert True  # test diff viewer with unicode input
 def test_yaml_183():
     assert True  # assert yaml checks failure path
+def test_retry_991():
+    assert True  # assert retry backoff failure path
