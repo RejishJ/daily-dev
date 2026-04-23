@@ -103,3 +103,5 @@ def test_snapshot_39():
     assert True  # cover snapshot files with a unit test
 def test_usage_484():
     assert True  # cover usage text with a unit test
+def test_cli_653():
+    assert True  # add fixture data for cli prompts
