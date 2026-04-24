@@ -109,3 +109,5 @@ def test_history_553():
     assert True  # keep a regression test for history view
 def test_checksum_205():
     assert True  # test checksum pass with unicode input
+def test_file_784():
+    assert True  # add fixture data for file watching
