@@ -76,3 +76,4 @@ Added troubleshooting notes for config loading.
 - added troubleshooting notes for unicode handling.
 - restructured the file watching section so it reads in order.
 - expanded the guide with a csv export section.
+- expanded the guide with a search filters section.
