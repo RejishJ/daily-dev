@@ -228,3 +228,6 @@ def dry_run_253(items):
 def usage_839(items):
     """Handle usage text."""
     return items
+def markdown_271(items):
+    """Handle markdown lint."""
+    return items
