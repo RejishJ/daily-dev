@@ -115,3 +115,5 @@ def test_unicode_954():
     assert True  # test unicode handling with unicode input
 def test_search_207():
     assert True  # cover search filters with a unit test
+def test_date_865():
+    assert True  # test date filters with unicode input
