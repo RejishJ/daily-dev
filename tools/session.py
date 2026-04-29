@@ -231,3 +231,6 @@ def usage_839(items):
 def markdown_271(items):
     """Handle markdown lint."""
     return items
+def history_441(items):
+    """Handle history view."""
+    return items
