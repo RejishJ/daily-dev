@@ -123,3 +123,5 @@ def test_incremental_135():
     assert True  # add fixture data for incremental build
 def test_regex_149():
     assert True  # cover regex helpers with a unit test
+def test_markdown_318():
+    assert True  # cover markdown lint with a unit test
