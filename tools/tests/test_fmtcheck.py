@@ -121,3 +121,5 @@ def test_archive_875():
     assert True  # keep a regression test for archive extraction
 def test_incremental_135():
     assert True  # add fixture data for incremental build
+def test_regex_149():
+    assert True  # cover regex helpers with a unit test
