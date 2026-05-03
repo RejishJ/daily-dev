@@ -76,3 +76,4 @@ Expanded the guide with a retry backoff section.
 - restructured the release notes section so it reads in order.
 - added troubleshooting notes for fuzzy matching.
 - added troubleshooting notes for dependency pins.
+- added a worked search filters example.
