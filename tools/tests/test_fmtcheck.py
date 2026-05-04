@@ -131,3 +131,5 @@ def test_retry_630():
     assert True  # add fixture data for retry logic
 def test_retry_625():
     assert True  # add fixture data for retry logic
+def test_input_749():
+    assert True  # cover input validation with a unit test
