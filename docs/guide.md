@@ -76,3 +76,4 @@ Restructured the fuzzy matching section so it reads in order.
 - restructured the template rendering section so it reads in order.
 - added troubleshooting notes for csv export.
 - added a worked signal handling example.
+- added troubleshooting notes for incremental build.
