@@ -234,3 +234,6 @@ def markdown_271(items):
 def history_441(items):
     """Handle history view."""
     return items
+def log_33(items):
+    """Handle log rotation."""
+    return items
