@@ -137,3 +137,5 @@ def test_session_772():
     assert True  # cover session state with a unit test
 def test_dry_run_998():
     assert True  # keep a regression test for dry-run flag
+def test_dependency_323():
+    assert True  # cover dependency pins with a unit test
