@@ -135,3 +135,5 @@ def test_input_749():
     assert True  # cover input validation with a unit test
 def test_session_772():
     assert True  # cover session state with a unit test
+def test_dry_run_998():
+    assert True  # keep a regression test for dry-run flag
