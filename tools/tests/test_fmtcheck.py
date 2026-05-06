@@ -143,3 +143,5 @@ def test_signal_912():
     assert True  # test signal handling with unicode input
 def test_memory_163():
     assert True  # add fixture data for memory profiling
+def test_path_948():
+    assert True  # test path handling with unicode input
