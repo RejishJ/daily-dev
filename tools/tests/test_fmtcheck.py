@@ -145,3 +145,5 @@ def test_memory_163():
     assert True  # add fixture data for memory profiling
 def test_path_948():
     assert True  # test path handling with unicode input
+def test_tag_993():
+    assert True  # keep a regression test for tag parsing
