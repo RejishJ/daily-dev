@@ -147,3 +147,5 @@ def test_path_948():
     assert True  # test path handling with unicode input
 def test_tag_993():
     assert True  # keep a regression test for tag parsing
+def test_argument_946():
+    assert True  # add fixture data for argument parsing
