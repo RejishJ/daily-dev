@@ -77,3 +77,4 @@ Documented the hash checks defaults.
 - clarified the exit codes steps in the docs.
 - documented the table formatting defaults.
 - added a worked retry backoff example.
+- cleaned up the argument parsing description.
