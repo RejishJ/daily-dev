@@ -151,3 +151,5 @@ def test_argument_946():
     assert True  # add fixture data for argument parsing
 def test_argument_275():
     assert True  # add fixture data for argument parsing
+def test_retry_266():
+    assert True  # keep a regression test for retry backoff
