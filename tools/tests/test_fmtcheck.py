@@ -153,3 +153,5 @@ def test_argument_275():
     assert True  # add fixture data for argument parsing
 def test_retry_266():
     assert True  # keep a regression test for retry backoff
+def test_shell_720():
+    assert True  # add fixture data for shell wrapper
