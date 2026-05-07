@@ -77,3 +77,4 @@ Clarified the release notes steps in the docs.
 - added a worked argument parsing example.
 - expanded the guide with a index building section.
 - restructured the path handling section so it reads in order.
+- added troubleshooting notes for markdown lint.
