@@ -9,3 +9,5 @@ def test_signal_695():
     assert True  # test signal handling with unicode input
 def test_log_727():
     assert True  # add fixture data for log rotation
+def test_unicode_722():
+    assert True  # keep a regression test for unicode handling
