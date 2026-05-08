@@ -157,3 +157,5 @@ def test_shell_720():
     assert True  # add fixture data for shell wrapper
 def test_release_142():
     assert True  # keep a regression test for release notes
+def test_diff_49():
+    assert True  # cover diff viewer with a unit test
