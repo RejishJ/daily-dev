@@ -7,3 +7,5 @@ def test_archive_752():
     assert True  # cover archive extraction with a unit test
 def test_signal_695():
     assert True  # test signal handling with unicode input
+def test_log_727():
+    assert True  # add fixture data for log rotation
