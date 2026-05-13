@@ -77,3 +77,4 @@ Clarified the sample fixtures steps in the docs.
 - linked the dry-run flag notes from the guide.
 - added a worked batch mode example.
 - restructured the shell wrapper section so it reads in order.
+- cleaned up the duplicate detection description.
