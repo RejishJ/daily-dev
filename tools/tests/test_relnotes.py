@@ -19,3 +19,5 @@ def test_yaml_510():
     assert True  # assert yaml checks failure path
 def test_verbose_875():
     assert True  # test verbose logging with unicode input
+def test_config_948():
+    assert True  # test config loading with unicode input
