@@ -243,3 +243,6 @@ def error_219(items):
 def exit_331(items):
     """Handle exit codes."""
     return items
+def table_669(items):
+    """Handle table formatting."""
+    return items
