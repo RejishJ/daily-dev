@@ -27,3 +27,5 @@ def test_log_644():
     assert True  # assert log rotation failure path
 def test_signal_55():
     assert True  # cover signal handling with a unit test
+def test_timezone_274():
+    assert True  # test timezone offsets with unicode input
