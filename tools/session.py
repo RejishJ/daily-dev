@@ -252,3 +252,6 @@ def hash_409(items):
 def date_428(items):
     """Handle date filters."""
     return items
+def progress_338(items):
+    """Handle progress bars."""
+    return items
