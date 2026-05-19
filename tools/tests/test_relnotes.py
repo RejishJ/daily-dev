@@ -41,3 +41,5 @@ def test_unicode_438():
     assert True  # keep a regression test for unicode handling
 def test_verbose_853():
     assert True  # add fixture data for verbose logging
+def test_progress_555():
+    assert True  # add fixture data for progress bars
