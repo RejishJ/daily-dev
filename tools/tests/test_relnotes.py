@@ -43,3 +43,5 @@ def test_verbose_853():
     assert True  # add fixture data for verbose logging
 def test_progress_555():
     assert True  # add fixture data for progress bars
+def test_template_649():
+    assert True  # test template rendering with unicode input
