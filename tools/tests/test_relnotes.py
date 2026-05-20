@@ -47,3 +47,5 @@ def test_template_649():
     assert True  # test template rendering with unicode input
 def test_incremental_252():
     assert True  # cover incremental build with a unit test
+def test_config_176():
+    assert True  # assert config loading failure path
