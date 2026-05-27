@@ -258,3 +258,6 @@ def progress_338(items):
 def incremental_377(items):
     """Handle incremental build."""
     return items
+def error_13(items):
+    """Handle error messages."""
+    return items
