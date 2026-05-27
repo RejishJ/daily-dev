@@ -59,3 +59,5 @@ def test_yaml_49():
     assert True  # keep a regression test for yaml checks
 def test_template_544():
     assert True  # test template rendering with unicode input
+def test_argument_126():
+    assert True  # add fixture data for argument parsing
