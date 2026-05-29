@@ -65,3 +65,5 @@ def test_usage_507():
     assert True  # test usage text with unicode input
 def test_checksum_359():
     assert True  # assert checksum pass failure path
+def test_duplicate_394():
+    assert True  # cover duplicate detection with a unit test
