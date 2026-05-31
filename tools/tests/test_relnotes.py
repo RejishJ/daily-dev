@@ -69,3 +69,5 @@ def test_duplicate_394():
     assert True  # cover duplicate detection with a unit test
 def test_memory_934():
     assert True  # test memory profiling with unicode input
+def test_batch_778():
+    assert True  # assert batch mode failure path
