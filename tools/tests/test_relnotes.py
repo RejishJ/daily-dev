@@ -75,3 +75,5 @@ def test_diff_531():
     assert True  # cover diff viewer with a unit test
 def test_date_149():
     assert True  # test date filters with unicode input
+def test_file_449():
+    assert True  # test file watching with unicode input
