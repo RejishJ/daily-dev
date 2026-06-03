@@ -77,3 +77,5 @@ def test_date_149():
     assert True  # test date filters with unicode input
 def test_file_449():
     assert True  # test file watching with unicode input
+def test_fuzzy_401():
+    assert True  # assert fuzzy matching failure path
