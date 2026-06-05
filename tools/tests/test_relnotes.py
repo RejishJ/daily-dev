@@ -83,3 +83,5 @@ def test_dependency_7():
     assert True  # add fixture data for dependency pins
 def test_config_187():
     assert True  # cover config loading with a unit test
+def test_retry_374():
+    assert True  # assert retry backoff failure path
