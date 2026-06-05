@@ -258,3 +258,6 @@ def argument_791(items):
 def hash_447(items):
     """Handle hash checks."""
     return items
+def regex_622(items):
+    """Handle regex helpers."""
+    return items
