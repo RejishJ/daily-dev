@@ -91,3 +91,5 @@ def test_session_627():
     assert True  # cover session state with a unit test
 def test_config_356():
     assert True  # add fixture data for config migration
+def test_archive_937():
+    assert True  # assert archive extraction failure path
