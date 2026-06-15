@@ -95,3 +95,5 @@ def test_archive_937():
     assert True  # assert archive extraction failure path
 def test_progress_583():
     assert True  # cover progress bars with a unit test
+def test_fuzzy_491():
+    assert True  # add fixture data for fuzzy matching
