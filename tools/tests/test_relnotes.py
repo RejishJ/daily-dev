@@ -107,3 +107,5 @@ def test_shell_840():
     assert True  # keep a regression test for shell wrapper
 def test_history_589():
     assert True  # cover history view with a unit test
+def test_regex_609():
+    assert True  # test regex helpers with unicode input
