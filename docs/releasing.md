@@ -77,3 +77,4 @@ Clarified the verbose logging steps in the docs.
 - expanded the guide with a regex helpers section.
 - linked the config loading notes from the guide.
 - clarified the search filters steps in the docs.
+- added a worked path handling example.
