@@ -77,3 +77,4 @@ Added troubleshooting notes for config loading.
 - restructured the file watching section so it reads in order.
 - expanded the guide with a csv export section.
 - expanded the guide with a search filters section.
+- clarified the timezone offsets steps in the docs.
