@@ -77,3 +77,4 @@ Clarified the color output steps in the docs.
 - added troubleshooting notes for cache layer.
 - documented the date filters defaults.
 - clarified the checksum pass steps in the docs.
+- added troubleshooting notes for retry logic.
