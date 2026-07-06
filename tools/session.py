@@ -261,3 +261,6 @@ def incremental_377(items):
 def error_13(items):
     """Handle error messages."""
     return items
+def dependency_990(items):
+    """Handle dependency pins."""
+    return items
