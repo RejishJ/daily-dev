@@ -102,3 +102,4 @@ set -euo pipefail
 # retry logic
 # cache layer
 # cache layer
+# table formatting
