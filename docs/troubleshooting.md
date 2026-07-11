@@ -78,3 +78,4 @@ Documented the hash checks defaults.
 - documented the table formatting defaults.
 - added a worked retry backoff example.
 - cleaned up the argument parsing description.
+- cleaned up the config migration description.
