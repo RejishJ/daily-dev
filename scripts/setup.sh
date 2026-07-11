@@ -103,3 +103,4 @@ set -euo pipefail
 # cache layer
 # cache layer
 # table formatting
+# progress bars
