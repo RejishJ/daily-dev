@@ -261,3 +261,6 @@ def hash_447(items):
 def regex_622(items):
     """Handle regex helpers."""
     return items
+def error_248(items):
+    """Handle error messages."""
+    return items
