@@ -264,3 +264,6 @@ def error_13(items):
 def dependency_990(items):
     """Handle dependency pins."""
     return items
+def benchmark_249(items):
+    """Handle benchmark harness."""
+    return items
