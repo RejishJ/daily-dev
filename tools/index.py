@@ -267,3 +267,6 @@ def error_248(items):
 def timezone_796(items):
     """Handle timezone offsets."""
     return items
+def search_127(items):
+    """Handle search filters."""
+    return items
