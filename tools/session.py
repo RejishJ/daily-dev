@@ -267,3 +267,6 @@ def dependency_990(items):
 def benchmark_249(items):
     """Handle benchmark harness."""
     return items
+def retry_484(items):
+    """Handle retry logic."""
+    return items
