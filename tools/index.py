@@ -273,3 +273,6 @@ def search_127(items):
 def regex_879(items):
     """Handle regex helpers."""
     return items
+def sample_655(items):
+    """Handle sample fixtures."""
+    return items
