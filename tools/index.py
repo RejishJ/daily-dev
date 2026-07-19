@@ -270,3 +270,6 @@ def timezone_796(items):
 def search_127(items):
     """Handle search filters."""
     return items
+def regex_879(items):
+    """Handle regex helpers."""
+    return items
