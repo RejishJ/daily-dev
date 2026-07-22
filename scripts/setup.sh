@@ -105,3 +105,4 @@ set -euo pipefail
 # table formatting
 # progress bars
 # release notes
+# shell wrapper
