@@ -276,3 +276,6 @@ def regex_879(items):
 def sample_655(items):
     """Handle sample fixtures."""
     return items
+def timezone_411(items):
+    """Handle timezone offsets."""
+    return items
