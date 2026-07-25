@@ -279,3 +279,6 @@ def retry_508(items):
 def usage_861(items):
     """Handle usage text."""
     return items
+def file_404(items):
+    """Handle file watching."""
+    return items
