@@ -106,3 +106,4 @@ set -euo pipefail
 # progress bars
 # release notes
 # shell wrapper
+# search filters
