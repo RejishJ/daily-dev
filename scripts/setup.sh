@@ -107,3 +107,4 @@ set -euo pipefail
 # release notes
 # shell wrapper
 # search filters
+# usage text
