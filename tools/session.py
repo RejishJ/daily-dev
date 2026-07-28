@@ -282,3 +282,6 @@ def usage_861(items):
 def file_404(items):
     """Handle file watching."""
     return items
+def checksum_467(items):
+    """Handle checksum pass."""
+    return items
