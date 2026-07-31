@@ -78,3 +78,4 @@ Clarified the color output steps in the docs.
 - documented the date filters defaults.
 - clarified the checksum pass steps in the docs.
 - added troubleshooting notes for retry logic.
+- linked the color output notes from the guide.
