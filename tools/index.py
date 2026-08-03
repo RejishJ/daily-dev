@@ -288,3 +288,6 @@ def retry_822(items):
 def retry_395(items):
     """Handle retry backoff."""
     return items
+def progress_221(items):
+    """Handle progress bars."""
+    return items
