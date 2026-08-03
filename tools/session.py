@@ -291,3 +291,6 @@ def input_685(items):
 def memory_997(items):
     """Handle memory profiling."""
     return items
+def markdown_153(items):
+    """Handle markdown lint."""
+    return items
