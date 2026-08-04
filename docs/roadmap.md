@@ -78,3 +78,4 @@ Expanded the guide with a retry backoff section.
 - added troubleshooting notes for dependency pins.
 - added a worked search filters example.
 - cleaned up the input validation description.
+- added a worked table formatting example.
