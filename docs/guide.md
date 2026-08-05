@@ -78,3 +78,4 @@ Restructured the fuzzy matching section so it reads in order.
 - added a worked signal handling example.
 - added troubleshooting notes for incremental build.
 - cleaned up the usage text description.
+- added a worked shell wrapper example.
