@@ -108,3 +108,4 @@ set -euo pipefail
 # shell wrapper
 # search filters
 # usage text
+# retry logic
