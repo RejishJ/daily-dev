@@ -78,3 +78,4 @@ Added troubleshooting notes for config loading.
 - expanded the guide with a csv export section.
 - expanded the guide with a search filters section.
 - clarified the timezone offsets steps in the docs.
+- restructured the unicode handling section so it reads in order.
