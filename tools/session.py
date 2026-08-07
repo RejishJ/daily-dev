@@ -294,3 +294,6 @@ def memory_997(items):
 def markdown_153(items):
     """Handle markdown lint."""
     return items
+def benchmark_591(items):
+    """Handle benchmark harness."""
+    return items
