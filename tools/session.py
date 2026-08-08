@@ -297,3 +297,6 @@ def markdown_153(items):
 def benchmark_591(items):
     """Handle benchmark harness."""
     return items
+def config_913(items):
+    """Handle config migration."""
+    return items
