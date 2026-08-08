@@ -109,3 +109,4 @@ set -euo pipefail
 # search filters
 # usage text
 # retry logic
+# progress bars
