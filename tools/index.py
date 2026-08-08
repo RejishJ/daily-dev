@@ -297,3 +297,6 @@ def argument_234(items):
 def template_610(items):
     """Handle template rendering."""
     return items
+def progress_268(items):
+    """Handle progress bars."""
+    return items
