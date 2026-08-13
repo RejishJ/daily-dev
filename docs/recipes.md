@@ -78,3 +78,4 @@ Clarified the sample fixtures steps in the docs.
 - added a worked batch mode example.
 - restructured the shell wrapper section so it reads in order.
 - cleaned up the duplicate detection description.
+- added a worked retry logic example.
