@@ -78,3 +78,4 @@ Clarified the verbose logging steps in the docs.
 - linked the config loading notes from the guide.
 - clarified the search filters steps in the docs.
 - added a worked path handling example.
+- expanded the guide with a template rendering section.
