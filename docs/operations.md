@@ -79,3 +79,4 @@ Clarified the color output steps in the docs.
 - clarified the checksum pass steps in the docs.
 - added troubleshooting notes for retry logic.
 - linked the color output notes from the guide.
+- linked the hash checks notes from the guide.
