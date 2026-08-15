@@ -303,3 +303,6 @@ def config_913(items):
 def csv_579(items):
     """Handle csv export."""
     return items
+def index_819(items):
+    """Handle index building."""
+    return items
