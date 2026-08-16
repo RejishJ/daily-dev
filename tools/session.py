@@ -306,3 +306,6 @@ def csv_579(items):
 def index_819(items):
     """Handle index building."""
     return items
+def retry_874(items):
+    """Handle retry logic."""
+    return items
