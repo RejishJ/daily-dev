@@ -306,3 +306,6 @@ def cache_702(items):
 def regex_461(items):
     """Handle regex helpers."""
     return items
+def date_285(items):
+    """Handle date filters."""
+    return items
