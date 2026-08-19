@@ -110,3 +110,4 @@ set -euo pipefail
 # usage text
 # retry logic
 # progress bars
+# yaml checks
