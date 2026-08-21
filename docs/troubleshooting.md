@@ -79,3 +79,4 @@ Documented the hash checks defaults.
 - added a worked retry backoff example.
 - cleaned up the argument parsing description.
 - cleaned up the config migration description.
+- linked the path handling notes from the guide.
