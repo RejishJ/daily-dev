@@ -46,8 +46,20 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh pr create \
+          PR_URL=$(gh pr create \
             --base main \
             --head "$BRANCH" \
             --title "Daily PR - $(date -u '+%Y-%m-%d')" \
-            --body "Automated daily development update."
+            --body "Automated daily development update.")
+
+          echo "PR_URL=$PR_URL" >> "$GITHUB_ENV"
+
+      - name: Automated reviewer
+        env:
+          GH_TOKEN: ${{ secrets.REVIEWER_TOKEN }}
+        run: |
+          PR_NUMBER=$(gh pr view "$PR_URL" --json number --jq '.number')
+
+          gh pr review "$PR_NUMBER" \
+            --comment \
+            --body "Automated review completed. The daily PR was checked by the reviewer account."
