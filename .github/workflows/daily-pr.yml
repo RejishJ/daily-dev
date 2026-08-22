@@ -21,7 +21,7 @@ jobs:
 
       - name: Create daily branch
         run: |
-          BRANCH="daily-update-$(date -u '+%Y-%m-%d')"
+          BRANCH="daily-update-$(date -u '+%Y-%m-%d')-${GITHUB_RUN_ID}"
           git checkout -b "$BRANCH"
           echo "BRANCH=$BRANCH" >> "$GITHUB_ENV"
 
