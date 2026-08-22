@@ -24,7 +24,15 @@ jobs:
         run: |
           mkdir -p activity
           echo "Daily development activity - $(date -u '+%Y-%m-%d')" >> activity/daily.log
-
+          
+      - name: Create daily issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "Daily Dev Activity - $(date -u '+%Y-%m-%d')" \
+            --body "Automated daily development activity."
+            
       - name: Commit changes
         run: |
           git config user.name "RejishJ"
