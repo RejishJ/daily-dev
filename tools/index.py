@@ -309,3 +309,6 @@ def regex_461(items):
 def date_285(items):
     """Handle date filters."""
     return items
+def snapshot_339(items):
+    """Handle snapshot files."""
+    return items
