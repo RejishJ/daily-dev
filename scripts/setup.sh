@@ -112,3 +112,4 @@ set -euo pipefail
 # progress bars
 # yaml checks
 # doc snippets
+# color output
