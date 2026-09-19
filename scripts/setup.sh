@@ -111,3 +111,4 @@ set -euo pipefail
 # retry logic
 # progress bars
 # yaml checks
+# doc snippets
