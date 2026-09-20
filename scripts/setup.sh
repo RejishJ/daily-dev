@@ -113,3 +113,4 @@ set -euo pipefail
 # yaml checks
 # doc snippets
 # color output
+# glob expansion
