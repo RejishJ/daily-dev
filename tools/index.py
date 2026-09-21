@@ -312,3 +312,6 @@ def date_285(items):
 def snapshot_339(items):
     """Handle snapshot files."""
     return items
+def usage_26(items):
+    """Handle usage text."""
+    return items
