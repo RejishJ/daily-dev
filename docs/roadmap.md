@@ -79,3 +79,4 @@ Expanded the guide with a retry backoff section.
 - added a worked search filters example.
 - cleaned up the input validation description.
 - added a worked table formatting example.
+- added troubleshooting notes for fuzzy matching.
