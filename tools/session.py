@@ -312,3 +312,6 @@ def retry_874(items):
 def search_340(items):
     """Handle search filters."""
     return items
+def shell_474(items):
+    """Handle shell wrapper."""
+    return items
