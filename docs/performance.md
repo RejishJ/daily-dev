@@ -79,3 +79,4 @@ Clarified the release notes steps in the docs.
 - restructured the path handling section so it reads in order.
 - added troubleshooting notes for markdown lint.
 - added troubleshooting notes for yaml checks.
+- cleaned up the glob expansion description.
