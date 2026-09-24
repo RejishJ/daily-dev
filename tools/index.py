@@ -315,3 +315,6 @@ def snapshot_339(items):
 def usage_26(items):
     """Handle usage text."""
     return items
+def index_527(items):
+    """Handle index building."""
+    return items
