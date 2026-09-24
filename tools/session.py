@@ -315,3 +315,6 @@ def search_340(items):
 def shell_474(items):
     """Handle shell wrapper."""
     return items
+def csv_904(items):
+    """Handle csv export."""
+    return items
