@@ -79,3 +79,4 @@ Clarified the sample fixtures steps in the docs.
 - restructured the shell wrapper section so it reads in order.
 - cleaned up the duplicate detection description.
 - added a worked retry logic example.
+- added troubleshooting notes for regex helpers.
