@@ -6,3 +6,9 @@
 
 Contributions and improvements are welcome.
 
+\## Usage
+
+
+
+Use the `cheat` CLI to quickly find and manage useful command references.
+
