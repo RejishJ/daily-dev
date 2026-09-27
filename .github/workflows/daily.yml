@@ -33,17 +33,16 @@ jobs:
           set -euo pipefail
 
           TODAY=$(date -u '+%Y-%m-%d')
-          DAY_OF_WEEK=$(date -u '+%w')  # 0=Sunday, 6=Saturday
+          DAY_OF_WEEK=$(date -u '+%w')
 
           HASH=$(echo -n "$TODAY" | sha256sum | cut -c1-16)
           SEED=$((16#${HASH:0:8}))
           ACTIVITY_TYPE=$((SEED % 100))
 
-          # Sunday handling: 40% chance of activity
           if [ "$DAY_OF_WEEK" -eq 0 ]; then
             SUNDAY_CHANCE=$((SEED % 100))
             if [ "$SUNDAY_CHANCE" -lt 60 ]; then
-              echo "Sunday rest day - skipping activity"
+              echo "Sunday rest day"
               exit 0
             fi
           fi
@@ -52,149 +51,35 @@ jobs:
 
           if [ "$ACTIVITY_TYPE" -lt 65 ]; then
             COMMITS=$((3 + (SEED % 9)))
-            echo "Heavy commit day: $COMMITS commits"
-
             for ((i=1; i<=COMMITS; i++)); do
               TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-              echo "$TIMESTAMP | Commit #$i: Development work on features" >> activity/daily.log
-
-              RANDOM_FILE="src/component_${SEED}_${i}.js"
-              echo "// Updated $(date)" >> "$RANDOM_FILE"
+              echo "$TIMESTAMP | Commit #$i" >> activity/daily.log
             done
-
-            git add activity/daily.log src/ 2>/dev/null || git add activity/daily.log
-            git commit -m "feat: implement new features and improvements" || git commit -m "feat: daily development work"
-            git push origin main
+            git add activity/daily.log
+            git commit -m "feat: daily development work" || true
+            git push origin main || true
 
           elif [ "$ACTIVITY_TYPE" -lt 80 ]; then
-            echo "PR submission day"
-
-            TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-            echo "$TIMESTAMP | PR Review: Code improvements and refactoring" >> activity/daily.log
-
-            RANDOM_FILE="src/refactor_${SEED}.js"
-            echo "// Refactored implementation $(date)" >> "$RANDOM_FILE"
-
-            git add activity/daily.log src/ 2>/dev/null || git add activity/daily.log
-            git commit -m "refactor: optimize code and improve maintainability"
-            git push origin main
-
-            BRANCH="feature/improvement-$TODAY"
-            git checkout -b "$BRANCH" 2>/dev/null || git checkout "$BRANCH"
-
-            echo "$TIMESTAMP | Feature branch: Code improvements" >> activity/daily.log
+            git checkout -b "feature/improvement-$TODAY" 2>/dev/null || git checkout "feature/improvement-$TODAY"
+            echo "PR work $(date)" >> activity/daily.log
             git add activity/daily.log
-            git commit -m "enhancement: add performance optimizations" || true
-            git push origin "$BRANCH" -f
-
-            PR_BODY="## Changes
-- Code refactoring and optimization
-- Performance improvements
-- Better maintainability
-
-## Type of change
-- [x] Bug fix
-- [x] New feature
-- [x] Breaking change
-
-## Testing
-- [x] Tested locally
-- [x] Unit tests pass
-- [x] No new warnings"
-
-            gh pr create --title "Improvement: Daily refactoring and optimization" --body "$PR_BODY" --base main --head "$BRANCH" || echo "PR exists"
+            git commit -m "refactor: code improvements" || true
+            git push origin "feature/improvement-$TODAY" -f || true
+            gh pr create --title "Improvement: $TODAY" --body "Code refactoring and optimization." --base main 2>/dev/null || echo "PR exists"
 
           elif [ "$ACTIVITY_TYPE" -lt 92 ]; then
-            echo "Issue tracking day"
-
-            NUM_ISSUES=$((2 + (SEED % 2)))
-            ISSUES=(\"Bug: Performance degradation in data processing\" \"Feature: Add caching mechanism for API calls\" \"Enhancement: Improve error handling and logging\" \"Documentation: Update README with new examples\")
-
-            for ((i=0; i<NUM_ISSUES; i++)); do
-              ISSUE_IDX=$(((SEED + i) % ${#ISSUES[@]}))
-              ISSUE_TITLE="${ISSUES[$ISSUE_IDX]}"
-
-              ISSUE_BODY="## Description
-This issue was created as part of automated activity tracking.
-
-## Expected Behavior
-- Clear goals and outcomes
-- Measurable success criteria
-
-## Additional Context
-- Version: Latest
-- Environment: Development"
-
-              gh issue create --title "$ISSUE_TITLE" --body "$ISSUE_BODY" --repo "$GITHUB_REPOSITORY" 2>/dev/null || echo "Issue exists"
-            done
-
-            TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-            echo "$TIMESTAMP | Issue investigation: Problem analysis and research" >> activity/daily.log
-            git add activity/daily.log
-            git commit -m "docs: investigation and analysis of reported issues" || true
-            git push origin main
+            gh issue create --title "Feature: Add caching mechanism" --body "Automated issue." --repo "$GITHUB_REPOSITORY" 2>/dev/null || echo "Issue exists"
+            gh issue create --title "Bug: Performance issue" --body "Automated bug report." --repo "$GITHUB_REPOSITORY" 2>/dev/null || echo "Issue exists"
+            git add activity/daily.log 2>/dev/null || true
+            git commit -m "docs: issue tracking" || true
+            git push origin main || true
 
           else
-            echo "Code review focus day"
-
-            TIMESTAMP=$(date -u '+%Y-%m-%dT%H:%M:%SZ')
-            echo "$TIMESTAMP | Code Review: Reviewed $((2 + (SEED % 3))) pull requests" >> activity/daily.log
-            echo "$TIMESTAMP | Review Notes: Code quality, performance, security checks" >> activity/daily.log
-
-            REVIEW_FILE="docs/code-review-checklist-$TODAY.md"
-            mkdir -p docs
-            cat > "$REVIEW_FILE" <<'EOF'
-# Code Review Session
-
-## Review Checklist
-- [x] Code follows project conventions
-- [x] Functionality works as expected
-- [x] No security vulnerabilities
-- [x] Performance is acceptable
-- [x] Tests are included and passing
-- [x] Documentation is updated
-
-EOF
-
-            git add activity/daily.log docs/
-            git commit -m "review: comprehensive code review session and documentation"
-            git push origin main
+            echo "Code review session $(date)" >> activity/daily.log
+            git add activity/daily.log
+            git commit -m "review: code review documentation" || true
+            git push origin main || true
           fi
 
-          echo "✅ Daily activity completed for $TODAY"
+          echo "Activity complete"
           exit 0
-
-      - name: Achievement tracking
-        env:
-          GH_TOKEN: ${{ secrets.PAT_TOKEN }}
-        run: |
-          echo "Achievement tracking is active"
-          gh api repos/RejishJ/daily-dev/milestones -f title="GitHub Achievements" -f description="Automated achievement tracking for profile contributions" -f state="open" 2>/dev/null || echo "Milestone exists"
-
-      - name: Update achievement log
-        run: |
-          mkdir -p docs
-          cat > docs/ACHIEVEMENTS.md <<'EOF'
-# 🏆 GitHub Achievements & Badges
-
-## Profile Statistics
-- Contribution Streak: Active
-- Open Source Level: Professional
-- Activity Type: Full Stack Contributions
-
-## Badge Categories
-- [x] Commit Master
-- [x] Pull Request Expert
-- [x] Issue Tracker
-- [x] Code Reviewer
-- [x] Continuous Contributor
-- [x] Community Participant
-
-## Timeline
-- Last Updated: $(date -u '+%Y-%m-%d')
-
-EOF
-
-          git add docs/ACHIEVEMENTS.md
-          git commit -m "docs: update achievements and badge tracking" || true
-          git push origin main || true
