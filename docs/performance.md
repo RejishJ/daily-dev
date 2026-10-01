@@ -1,0 +1,82 @@
+# Performance
+
+Clarified the release notes steps in the docs.
+- documented the usage text defaults.
+- expanded the guide with a argument parsing section.
+- restructured the retry backoff section so it reads in order.
+- linked the memory profiling notes from the guide.
+- linked the retry logic notes from the guide.
+- documented the csv export defaults.
+- restructured the usage text section so it reads in order.
+- linked the release notes notes from the guide.
+- added troubleshooting notes for shell wrapper.
+- expanded the guide with a glob expansion section.
+- cleaned up the log rotation description.
+- cleaned up the search filters description.
+- linked the dry-run flag notes from the guide.
+- documented the incremental build defaults.
+- expanded the guide with a date filters section.
+- added a worked cache layer example.
+- restructured the memory profiling section so it reads in order.
+- added troubleshooting notes for date filters.
+- restructured the regex helpers section so it reads in order.
+- clarified the log rotation steps in the docs.
+- restructured the file watching section so it reads in order.
+- cleaned up the date filters description.
+- clarified the retry logic steps in the docs.
+- added a worked cache layer example.
+- added a worked glob expansion example.
+- added a worked index building example.
+- documented the session state defaults.
+- restructured the log rotation section so it reads in order.
+- cleaned up the batch mode description.
+- linked the signal handling notes from the guide.
+- added troubleshooting notes for hash checks.
+- documented the index building defaults.
+- restructured the input validation section so it reads in order.
+- documented the signal handling defaults.
+- expanded the guide with a markdown lint section.
+- cleaned up the dry-run flag description.
+- documented the verbose logging defaults.
+- added troubleshooting notes for usage text.
+- expanded the guide with a csv export section.
+- added troubleshooting notes for config loading.
+- documented the benchmark harness defaults.
+- added troubleshooting notes for retry backoff.
+- clarified the archive extraction steps in the docs.
+- added a worked color output example.
+- expanded the guide with a config loading section.
+- expanded the guide with a tag parsing section.
+- expanded the guide with a retry logic section.
+- expanded the guide with a verbose logging section.
+- added a worked yaml checks example.
+- added a worked hash checks example.
+- added troubleshooting notes for template rendering.
+- restructured the template rendering section so it reads in order.
+- linked the date filters notes from the guide.
+- documented the signal handling defaults.
+- added a worked cache layer example.
+- added a worked batch mode example.
+- linked the glob expansion notes from the guide.
+- clarified the index building steps in the docs.
+- expanded the guide with a unicode handling section.
+- linked the doc snippets notes from the guide.
+- restructured the diff viewer section so it reads in order.
+- linked the snapshot files notes from the guide.
+- added troubleshooting notes for index building.
+- added a worked snapshot files example.
+- cleaned up the exit codes description.
+- expanded the guide with a template rendering section.
+- documented the index building defaults.
+- linked the input validation notes from the guide.
+- added troubleshooting notes for session state.
+- expanded the guide with a date filters section.
+- cleaned up the benchmark harness description.
+- added troubleshooting notes for log rotation.
+- expanded the guide with a config loading section.
+- added a worked argument parsing example.
+- expanded the guide with a index building section.
+- restructured the path handling section so it reads in order.
+- added troubleshooting notes for markdown lint.
+- added troubleshooting notes for yaml checks.
+- cleaned up the glob expansion description.

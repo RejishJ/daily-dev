@@ -1,0 +1,81 @@
+# Architecture
+
+Added troubleshooting notes for config loading.
+- cleaned up the search filters description.
+- added troubleshooting notes for fuzzy matching.
+- clarified the search filters steps in the docs.
+- clarified the unicode handling steps in the docs.
+- restructured the signal handling section so it reads in order.
+- clarified the exit codes steps in the docs.
+- clarified the path handling steps in the docs.
+- cleaned up the usage text description.
+- cleaned up the verbose logging description.
+- added a worked hash checks example.
+- expanded the guide with a csv export section.
+- clarified the cache layer steps in the docs.
+- clarified the fuzzy matching steps in the docs.
+- restructured the retry logic section so it reads in order.
+- linked the verbose logging notes from the guide.
+- clarified the checksum pass steps in the docs.
+- cleaned up the color output description.
+- documented the index building defaults.
+- linked the release notes notes from the guide.
+- added troubleshooting notes for cli prompts.
+- cleaned up the markdown lint description.
+- restructured the csv export section so it reads in order.
+- expanded the guide with a dry-run flag section.
+- cleaned up the config loading description.
+- added troubleshooting notes for usage text.
+- added a worked doc snippets example.
+- added troubleshooting notes for batch mode.
+- documented the argument parsing defaults.
+- added troubleshooting notes for input validation.
+- restructured the unicode handling section so it reads in order.
+- added a worked shell wrapper example.
+- clarified the date filters steps in the docs.
+- added a worked table formatting example.
+- clarified the yaml checks steps in the docs.
+- expanded the guide with a glob expansion section.
+- added troubleshooting notes for archive extraction.
+- documented the input validation defaults.
+- linked the archive extraction notes from the guide.
+- added a worked incremental build example.
+- restructured the date filters section so it reads in order.
+- cleaned up the hash checks description.
+- linked the diff viewer notes from the guide.
+- documented the snapshot files defaults.
+- added troubleshooting notes for verbose logging.
+- clarified the unicode handling steps in the docs.
+- documented the diff viewer defaults.
+- clarified the markdown lint steps in the docs.
+- added troubleshooting notes for shell wrapper.
+- documented the color output defaults.
+- expanded the guide with a batch mode section.
+- added troubleshooting notes for table formatting.
+- linked the shell wrapper notes from the guide.
+- added a worked checksum pass example.
+- added a worked snapshot files example.
+- cleaned up the retry backoff description.
+- cleaned up the index building description.
+- added a worked usage text example.
+- cleaned up the template rendering description.
+- cleaned up the retry logic description.
+- documented the search filters defaults.
+- added a worked usage text example.
+- added a worked sample fixtures example.
+- cleaned up the template rendering description.
+- added a worked sample fixtures example.
+- clarified the snapshot files steps in the docs.
+- documented the doc snippets defaults.
+- restructured the retry logic section so it reads in order.
+- clarified the markdown lint steps in the docs.
+- cleaned up the verbose logging description.
+- cleaned up the config migration description.
+- added troubleshooting notes for archive extraction.
+- expanded the guide with a history view section.
+- added troubleshooting notes for unicode handling.
+- restructured the file watching section so it reads in order.
+- expanded the guide with a csv export section.
+- expanded the guide with a search filters section.
+- clarified the timezone offsets steps in the docs.
+- restructured the unicode handling section so it reads in order.

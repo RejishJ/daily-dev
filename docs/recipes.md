@@ -1,0 +1,82 @@
+# Recipes
+
+Clarified the sample fixtures steps in the docs.
+- added troubleshooting notes for history view.
+- restructured the verbose logging section so it reads in order.
+- linked the sample fixtures notes from the guide.
+- linked the checksum pass notes from the guide.
+- documented the date filters defaults.
+- added troubleshooting notes for doc snippets.
+- documented the error messages defaults.
+- added a worked batch mode example.
+- cleaned up the diff viewer description.
+- restructured the memory profiling section so it reads in order.
+- cleaned up the incremental build description.
+- clarified the history view steps in the docs.
+- documented the duplicate detection defaults.
+- added troubleshooting notes for benchmark harness.
+- added troubleshooting notes for table formatting.
+- added troubleshooting notes for regex helpers.
+- restructured the tag parsing section so it reads in order.
+- restructured the config migration section so it reads in order.
+- added a worked markdown lint example.
+- clarified the yaml checks steps in the docs.
+- restructured the hash checks section so it reads in order.
+- linked the snapshot files notes from the guide.
+- restructured the doc snippets section so it reads in order.
+- added troubleshooting notes for dependency pins.
+- added a worked path handling example.
+- restructured the cli prompts section so it reads in order.
+- added troubleshooting notes for retry logic.
+- clarified the markdown lint steps in the docs.
+- added a worked config loading example.
+- expanded the guide with a config loading section.
+- documented the duplicate detection defaults.
+- restructured the snapshot files section so it reads in order.
+- linked the color output notes from the guide.
+- restructured the regex helpers section so it reads in order.
+- clarified the doc snippets steps in the docs.
+- cleaned up the color output description.
+- cleaned up the duplicate detection description.
+- restructured the checksum pass section so it reads in order.
+- restructured the markdown lint section so it reads in order.
+- documented the incremental build defaults.
+- clarified the usage text steps in the docs.
+- expanded the guide with a color output section.
+- added a worked archive extraction example.
+- linked the batch mode notes from the guide.
+- added a worked markdown lint example.
+- linked the cli prompts notes from the guide.
+- clarified the table formatting steps in the docs.
+- restructured the retry backoff section so it reads in order.
+- restructured the config migration section so it reads in order.
+- clarified the dependency pins steps in the docs.
+- cleaned up the diff viewer description.
+- expanded the guide with a release notes section.
+- cleaned up the incremental build description.
+- expanded the guide with a index building section.
+- linked the verbose logging notes from the guide.
+- documented the shell wrapper defaults.
+- clarified the index building steps in the docs.
+- expanded the guide with a yaml checks section.
+- restructured the doc snippets section so it reads in order.
+- added a worked tag parsing example.
+- added troubleshooting notes for file watching.
+- clarified the retry backoff steps in the docs.
+- cleaned up the timezone offsets description.
+- cleaned up the glob expansion description.
+- restructured the argument parsing section so it reads in order.
+- added a worked duplicate detection example.
+- clarified the unicode handling steps in the docs.
+- cleaned up the hash checks description.
+- added a worked log rotation example.
+- clarified the markdown lint steps in the docs.
+- linked the date filters notes from the guide.
+- linked the fuzzy matching notes from the guide.
+- restructured the file watching section so it reads in order.
+- linked the dry-run flag notes from the guide.
+- added a worked batch mode example.
+- restructured the shell wrapper section so it reads in order.
+- cleaned up the duplicate detection description.
+- added a worked retry logic example.
+- added troubleshooting notes for regex helpers.

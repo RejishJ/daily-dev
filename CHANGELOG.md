@@ -1,0 +1,101 @@
+# Changelog
+
+- 2021.09: docs pass
+- 2021.03: add diff viewer
+- 2021.12: fix yaml checks
+- 2021.10: docs pass
+- 2021.01: fix usage text
+- 2021.08: docs pass
+- 2021.06: docs pass
+- 2022.03: tidy memory profiling
+- 2022.08: fix checksum pass
+- 2022.12: fix retry logic
+- 2022.09: tidy progress bars
+- 2022.08: tidy glob expansion
+- 2022.07: tidy checksum pass
+- 2022.09: add checksum pass
+- 2022.03: docs pass
+- 2022.05: fix regex helpers
+- 2022.05: fix unicode handling
+- 2022.09: docs pass
+- 2022.07: tidy glob expansion
+- 2022.08: tidy benchmark harness
+- 2022.10: add batch mode
+- 2022.06: tidy shell wrapper
+- 2022.06: tidy incremental build
+- 2022.02: tidy verbose logging
+- 2022.07: add path handling
+- 2022.11: tidy shell wrapper
+- 2022.07: tidy dry-run flag
+- 2022.05: tidy signal handling
+- 2022.12: add template rendering
+- 2023.11: add search filters
+- 2023.10: fix search filters
+- 2023.06: add dry-run flag
+- 2023.03: docs pass
+- 2023.01: tidy index building
+- 2023.11: add cache layer
+- 2023.03: docs pass
+- 2023.12: fix fuzzy matching
+- 2023.12: fix usage text
+- 2023.05: add retry backoff
+- 2023.11: add argument parsing
+- 2024.03: add archive extraction
+- 2024.02: add retry backoff
+- 2024.02: add error messages
+- 2024.01: fix template rendering
+- 2024.07: add path handling
+- 2024.04: add file watching
+- 2024.12: docs pass
+- 2024.09: fix exit codes
+- 2024.07: fix progress bars
+- 2024.02: tidy date filters
+- 2024.02: add diff viewer
+- 2024.07: fix diff viewer
+- 2024.12: tidy regex helpers
+- 2024.02: docs pass
+- 2024.05: fix exit codes
+- 2024.09: tidy usage text
+- 2024.01: fix template rendering
+- 2024.11: fix usage text
+- 2024.12: fix color output
+- 2024.01: fix batch mode
+- 2024.09: docs pass
+- 2024.05: fix config migration
+- 2024.11: add unicode handling
+- 2024.06: tidy retry backoff
+- 2024.07: add diff viewer
+- 2024.12: docs pass
+- 2024.09: tidy table formatting
+- 2024.11: fix markdown lint
+- 2024.10: fix retry backoff
+- 2024.03: add cache layer
+- 2024.03: fix unicode handling
+- 2024.10: tidy date filters
+- 2024.06: add search filters
+- 2024.07: add hash checks
+- 2024.05: fix path handling
+- 2024.10: docs pass
+- 2024.09: docs pass
+- 2024.02: fix benchmark harness
+- 2025.12: tidy cache layer
+- 2025.02: add retry backoff
+- 2025.05: tidy verbose logging
+- 2025.12: fix search filters
+- 2025.05: tidy file watching
+- 2025.12: tidy search filters
+- 2025.12: add unicode handling
+- 2025.05: fix usage text
+- 2025.05: fix doc snippets
+- 2025.07: add config migration
+- 2025.07: add argument parsing
+- 2025.07: docs pass
+- 2025.09: docs pass
+- 2025.02: docs pass
+- 2025.10: fix index building
+- 2025.07: tidy date filters
+- 2025.08: add search filters
+- 2025.07: tidy cache layer
+- 2025.10: tidy table formatting
+- 2025.12: fix regex helpers
+- 2025.06: docs pass

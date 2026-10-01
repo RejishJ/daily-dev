@@ -1,0 +1,82 @@
+# Roadmap
+
+Expanded the guide with a retry backoff section.
+- expanded the guide with a config loading section.
+- linked the date filters notes from the guide.
+- restructured the cli prompts section so it reads in order.
+- linked the cache layer notes from the guide.
+- expanded the guide with a diff viewer section.
+- cleaned up the yaml checks description.
+- cleaned up the retry backoff description.
+- restructured the progress bars section so it reads in order.
+- added troubleshooting notes for index building.
+- expanded the guide with a session state section.
+- expanded the guide with a duplicate detection section.
+- expanded the guide with a history view section.
+- restructured the file watching section so it reads in order.
+- added a worked usage text example.
+- added a worked markdown lint example.
+- restructured the duplicate detection section so it reads in order.
+- added a worked regex helpers example.
+- cleaned up the markdown lint description.
+- added troubleshooting notes for hash checks.
+- clarified the retry logic steps in the docs.
+- added troubleshooting notes for unicode handling.
+- linked the retry backoff notes from the guide.
+- restructured the cache layer section so it reads in order.
+- added troubleshooting notes for cache layer.
+- added a worked batch mode example.
+- clarified the benchmark harness steps in the docs.
+- added troubleshooting notes for verbose logging.
+- documented the snapshot files defaults.
+- restructured the history view section so it reads in order.
+- added troubleshooting notes for fuzzy matching.
+- cleaned up the fuzzy matching description.
+- cleaned up the color output description.
+- cleaned up the tag parsing description.
+- documented the incremental build defaults.
+- cleaned up the error messages description.
+- restructured the color output section so it reads in order.
+- linked the cli prompts notes from the guide.
+- linked the verbose logging notes from the guide.
+- documented the archive extraction defaults.
+- added troubleshooting notes for progress bars.
+- added troubleshooting notes for retry backoff.
+- restructured the sample fixtures section so it reads in order.
+- cleaned up the snapshot files description.
+- added troubleshooting notes for benchmark harness.
+- added a worked sample fixtures example.
+- added a worked batch mode example.
+- cleaned up the shell wrapper description.
+- added a worked config migration example.
+- documented the snapshot files defaults.
+- expanded the guide with a glob expansion section.
+- clarified the search filters steps in the docs.
+- documented the regex helpers defaults.
+- added troubleshooting notes for retry backoff.
+- added troubleshooting notes for release notes.
+- expanded the guide with a cli prompts section.
+- restructured the input validation section so it reads in order.
+- cleaned up the search filters description.
+- expanded the guide with a sample fixtures section.
+- documented the config migration defaults.
+- documented the template rendering defaults.
+- cleaned up the progress bars description.
+- added a worked progress bars example.
+- linked the date filters notes from the guide.
+- expanded the guide with a incremental build section.
+- added a worked config loading example.
+- clarified the search filters steps in the docs.
+- documented the config migration defaults.
+- clarified the release notes steps in the docs.
+- added a worked batch mode example.
+- added a worked history view example.
+- documented the exit codes defaults.
+- clarified the hash checks steps in the docs.
+- restructured the release notes section so it reads in order.
+- added troubleshooting notes for fuzzy matching.
+- added troubleshooting notes for dependency pins.
+- added a worked search filters example.
+- cleaned up the input validation description.
+- added a worked table formatting example.
+- added troubleshooting notes for fuzzy matching.

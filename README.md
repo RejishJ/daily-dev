@@ -12,3 +12,43 @@ Contributions and improvements are welcome.
 
 Use the `cheat` CLI to quickly find and manage useful command references.
 
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- See `docs/` for the longer write-ups
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- Release notes live in `CHANGELOG.md`
+- Small tools collected over time
+- Small tools collected over time
+- Release notes live in `CHANGELOG.md`
+- See `docs/` for the longer write-ups
+- Release notes live in `CHANGELOG.md`
+- Release notes live in `CHANGELOG.md`
+- See `docs/` for the longer write-ups
+- Reference notes for daily development work
+- Small tools collected over time
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- Small tools collected over time
+- See `docs/` for the longer write-ups
+- See `docs/` for the longer write-ups
+- Small tools collected over time
+- Reference notes for daily development work
+- Release notes live in `CHANGELOG.md`
+- Tools under `tools/`, tests alongside them
+- Tools under `tools/`, tests alongside them
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- See `docs/` for the longer write-ups
+- Small tools collected over time
+- Tools under `tools/`, tests alongside them
+- Reference notes for daily development work
+- Tools under `tools/`, tests alongside them
+- See `docs/` for the longer write-ups
+- Tools under `tools/`, tests alongside them
+- Small tools collected over time
+- See `docs/` for the longer write-ups
+- Small tools collected over time
+- Small tools collected over time

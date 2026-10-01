@@ -1,0 +1,81 @@
+# Releasing
+
+Clarified the verbose logging steps in the docs.
+- documented the dry-run flag defaults.
+- documented the retry backoff defaults.
+- added a worked date filters example.
+- linked the index building notes from the guide.
+- added troubleshooting notes for search filters.
+- restructured the cache layer section so it reads in order.
+- linked the batch mode notes from the guide.
+- added a worked template rendering example.
+- added a worked log rotation example.
+- cleaned up the log rotation description.
+- clarified the dry-run flag steps in the docs.
+- cleaned up the release notes description.
+- documented the session state defaults.
+- clarified the log rotation steps in the docs.
+- documented the diff viewer defaults.
+- restructured the unicode handling section so it reads in order.
+- restructured the date filters section so it reads in order.
+- documented the sample fixtures defaults.
+- restructured the path handling section so it reads in order.
+- added a worked config migration example.
+- linked the search filters notes from the guide.
+- added troubleshooting notes for regex helpers.
+- expanded the guide with a signal handling section.
+- added troubleshooting notes for yaml checks.
+- added troubleshooting notes for verbose logging.
+- cleaned up the hash checks description.
+- added a worked memory profiling example.
+- cleaned up the shell wrapper description.
+- added a worked log rotation example.
+- added troubleshooting notes for archive extraction.
+- added troubleshooting notes for shell wrapper.
+- added troubleshooting notes for duplicate detection.
+- added troubleshooting notes for tag parsing.
+- restructured the markdown lint section so it reads in order.
+- added a worked timezone offsets example.
+- added a worked sample fixtures example.
+- cleaned up the dependency pins description.
+- clarified the regex helpers steps in the docs.
+- expanded the guide with a config loading section.
+- added a worked dependency pins example.
+- clarified the timezone offsets steps in the docs.
+- linked the tag parsing notes from the guide.
+- clarified the archive extraction steps in the docs.
+- clarified the table formatting steps in the docs.
+- clarified the csv export steps in the docs.
+- added troubleshooting notes for input validation.
+- added a worked color output example.
+- added a worked retry backoff example.
+- linked the duplicate detection notes from the guide.
+- added troubleshooting notes for hash checks.
+- documented the unicode handling defaults.
+- added a worked sample fixtures example.
+- linked the config migration notes from the guide.
+- linked the doc snippets notes from the guide.
+- added a worked template rendering example.
+- linked the session state notes from the guide.
+- linked the tag parsing notes from the guide.
+- documented the retry backoff defaults.
+- expanded the guide with a snapshot files section.
+- added a worked archive extraction example.
+- restructured the diff viewer section so it reads in order.
+- linked the checksum pass notes from the guide.
+- documented the index building defaults.
+- added troubleshooting notes for table formatting.
+- clarified the config loading steps in the docs.
+- added troubleshooting notes for markdown lint.
+- added troubleshooting notes for archive extraction.
+- linked the snapshot files notes from the guide.
+- clarified the exit codes steps in the docs.
+- documented the csv export defaults.
+- documented the regex helpers defaults.
+- added a worked argument parsing example.
+- added troubleshooting notes for release notes.
+- expanded the guide with a regex helpers section.
+- linked the config loading notes from the guide.
+- clarified the search filters steps in the docs.
+- added a worked path handling example.
+- expanded the guide with a template rendering section.

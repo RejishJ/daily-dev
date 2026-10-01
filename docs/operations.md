@@ -1,0 +1,82 @@
+# Operations
+
+Clarified the color output steps in the docs.
+- added troubleshooting notes for hash checks.
+- cleaned up the csv export description.
+- linked the progress bars notes from the guide.
+- clarified the log rotation steps in the docs.
+- restructured the session state section so it reads in order.
+- added a worked unicode handling example.
+- clarified the template rendering steps in the docs.
+- clarified the config loading steps in the docs.
+- restructured the benchmark harness section so it reads in order.
+- linked the unicode handling notes from the guide.
+- restructured the regex helpers section so it reads in order.
+- clarified the snapshot files steps in the docs.
+- clarified the cache layer steps in the docs.
+- restructured the shell wrapper section so it reads in order.
+- restructured the tag parsing section so it reads in order.
+- added troubleshooting notes for checksum pass.
+- restructured the timezone offsets section so it reads in order.
+- cleaned up the exit codes description.
+- linked the benchmark harness notes from the guide.
+- expanded the guide with a search filters section.
+- added troubleshooting notes for batch mode.
+- cleaned up the cache layer description.
+- expanded the guide with a timezone offsets section.
+- added troubleshooting notes for tag parsing.
+- clarified the unicode handling steps in the docs.
+- expanded the guide with a config loading section.
+- added troubleshooting notes for date filters.
+- expanded the guide with a exit codes section.
+- documented the csv export defaults.
+- cleaned up the incremental build description.
+- cleaned up the argument parsing description.
+- clarified the history view steps in the docs.
+- documented the checksum pass defaults.
+- added troubleshooting notes for incremental build.
+- restructured the config loading section so it reads in order.
+- clarified the doc snippets steps in the docs.
+- cleaned up the glob expansion description.
+- linked the diff viewer notes from the guide.
+- cleaned up the session state description.
+- expanded the guide with a incremental build section.
+- added a worked batch mode example.
+- added troubleshooting notes for tag parsing.
+- clarified the progress bars steps in the docs.
+- documented the error messages defaults.
+- added troubleshooting notes for dry-run flag.
+- cleaned up the shell wrapper description.
+- cleaned up the archive extraction description.
+- linked the exit codes notes from the guide.
+- restructured the history view section so it reads in order.
+- expanded the guide with a verbose logging section.
+- documented the cache layer defaults.
+- cleaned up the regex helpers description.
+- documented the dry-run flag defaults.
+- added troubleshooting notes for hash checks.
+- clarified the glob expansion steps in the docs.
+- clarified the table formatting steps in the docs.
+- restructured the file watching section so it reads in order.
+- added a worked snapshot files example.
+- documented the dependency pins defaults.
+- cleaned up the unicode handling description.
+- documented the verbose logging defaults.
+- added troubleshooting notes for sample fixtures.
+- added a worked progress bars example.
+- added troubleshooting notes for markdown lint.
+- cleaned up the release notes description.
+- clarified the csv export steps in the docs.
+- added troubleshooting notes for config migration.
+- cleaned up the file watching description.
+- added a worked color output example.
+- documented the csv export defaults.
+- expanded the guide with a file watching section.
+- clarified the tag parsing steps in the docs.
+- added troubleshooting notes for verbose logging.
+- added troubleshooting notes for cache layer.
+- documented the date filters defaults.
+- clarified the checksum pass steps in the docs.
+- added troubleshooting notes for retry logic.
+- linked the color output notes from the guide.
+- linked the hash checks notes from the guide.

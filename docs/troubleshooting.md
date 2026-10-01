@@ -1,0 +1,82 @@
+# Troubleshooting
+
+Documented the hash checks defaults.
+- added troubleshooting notes for snapshot files.
+- added troubleshooting notes for date filters.
+- linked the doc snippets notes from the guide.
+- linked the exit codes notes from the guide.
+- documented the hash checks defaults.
+- added a worked color output example.
+- added troubleshooting notes for search filters.
+- added a worked progress bars example.
+- restructured the error messages section so it reads in order.
+- cleaned up the table formatting description.
+- cleaned up the usage text description.
+- clarified the usage text steps in the docs.
+- added a worked checksum pass example.
+- clarified the timezone offsets steps in the docs.
+- added a worked unicode handling example.
+- added troubleshooting notes for argument parsing.
+- cleaned up the doc snippets description.
+- added troubleshooting notes for argument parsing.
+- added troubleshooting notes for log rotation.
+- clarified the benchmark harness steps in the docs.
+- restructured the template rendering section so it reads in order.
+- documented the release notes defaults.
+- added a worked memory profiling example.
+- restructured the template rendering section so it reads in order.
+- documented the verbose logging defaults.
+- documented the path handling defaults.
+- linked the diff viewer notes from the guide.
+- added a worked duplicate detection example.
+- added a worked color output example.
+- restructured the retry backoff section so it reads in order.
+- linked the config migration notes from the guide.
+- added troubleshooting notes for shell wrapper.
+- documented the session state defaults.
+- cleaned up the template rendering description.
+- added a worked search filters example.
+- cleaned up the index building description.
+- clarified the file watching steps in the docs.
+- documented the log rotation defaults.
+- added a worked cli prompts example.
+- documented the usage text defaults.
+- added troubleshooting notes for shell wrapper.
+- clarified the date filters steps in the docs.
+- linked the timezone offsets notes from the guide.
+- expanded the guide with a config migration section.
+- added a worked regex helpers example.
+- expanded the guide with a shell wrapper section.
+- expanded the guide with a markdown lint section.
+- added troubleshooting notes for table formatting.
+- documented the duplicate detection defaults.
+- clarified the release notes steps in the docs.
+- linked the cli prompts notes from the guide.
+- added a worked verbose logging example.
+- cleaned up the index building description.
+- documented the retry backoff defaults.
+- restructured the retry logic section so it reads in order.
+- expanded the guide with a snapshot files section.
+- clarified the signal handling steps in the docs.
+- linked the snapshot files notes from the guide.
+- clarified the dry-run flag steps in the docs.
+- documented the glob expansion defaults.
+- clarified the duplicate detection steps in the docs.
+- documented the input validation defaults.
+- added troubleshooting notes for tag parsing.
+- clarified the glob expansion steps in the docs.
+- clarified the duplicate detection steps in the docs.
+- clarified the cache layer steps in the docs.
+- restructured the argument parsing section so it reads in order.
+- linked the path handling notes from the guide.
+- expanded the guide with a unicode handling section.
+- restructured the doc snippets section so it reads in order.
+- clarified the path handling steps in the docs.
+- expanded the guide with a cache layer section.
+- added a worked diff viewer example.
+- clarified the exit codes steps in the docs.
+- documented the table formatting defaults.
+- added a worked retry backoff example.
+- cleaned up the argument parsing description.
+- cleaned up the config migration description.
+- linked the path handling notes from the guide.

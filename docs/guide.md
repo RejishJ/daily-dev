@@ -1,0 +1,81 @@
+# Guide
+
+Restructured the fuzzy matching section so it reads in order.
+- expanded the guide with a checksum pass section.
+- linked the shell wrapper notes from the guide.
+- clarified the argument parsing steps in the docs.
+- expanded the guide with a input validation section.
+- cleaned up the retry logic description.
+- restructured the date filters section so it reads in order.
+- linked the timezone offsets notes from the guide.
+- restructured the csv export section so it reads in order.
+- expanded the guide with a release notes section.
+- added a worked checksum pass example.
+- documented the markdown lint defaults.
+- added a worked template rendering example.
+- expanded the guide with a dependency pins section.
+- restructured the template rendering section so it reads in order.
+- added troubleshooting notes for sample fixtures.
+- cleaned up the retry backoff description.
+- cleaned up the duplicate detection description.
+- added troubleshooting notes for diff viewer.
+- clarified the path handling steps in the docs.
+- added troubleshooting notes for snapshot files.
+- documented the input validation defaults.
+- expanded the guide with a path handling section.
+- clarified the session state steps in the docs.
+- added a worked glob expansion example.
+- documented the verbose logging defaults.
+- expanded the guide with a doc snippets section.
+- documented the glob expansion defaults.
+- linked the diff viewer notes from the guide.
+- restructured the release notes section so it reads in order.
+- documented the date filters defaults.
+- added a worked memory profiling example.
+- documented the config migration defaults.
+- expanded the guide with a incremental build section.
+- linked the release notes notes from the guide.
+- documented the tag parsing defaults.
+- clarified the memory profiling steps in the docs.
+- clarified the diff viewer steps in the docs.
+- expanded the guide with a yaml checks section.
+- expanded the guide with a csv export section.
+- expanded the guide with a progress bars section.
+- documented the checksum pass defaults.
+- expanded the guide with a dependency pins section.
+- added a worked markdown lint example.
+- restructured the color output section so it reads in order.
+- linked the argument parsing notes from the guide.
+- restructured the error messages section so it reads in order.
+- cleaned up the template rendering description.
+- documented the file watching defaults.
+- expanded the guide with a verbose logging section.
+- added a worked checksum pass example.
+- clarified the hash checks steps in the docs.
+- added troubleshooting notes for retry backoff.
+- restructured the snapshot files section so it reads in order.
+- added a worked path handling example.
+- clarified the archive extraction steps in the docs.
+- added a worked incremental build example.
+- added a worked input validation example.
+- restructured the checksum pass section so it reads in order.
+- added a worked config loading example.
+- cleaned up the signal handling description.
+- clarified the retry logic steps in the docs.
+- restructured the incremental build section so it reads in order.
+- clarified the verbose logging steps in the docs.
+- linked the verbose logging notes from the guide.
+- restructured the error messages section so it reads in order.
+- added troubleshooting notes for shell wrapper.
+- clarified the history view steps in the docs.
+- linked the checksum pass notes from the guide.
+- added a worked progress bars example.
+- documented the path handling defaults.
+- expanded the guide with a doc snippets section.
+- clarified the signal handling steps in the docs.
+- restructured the template rendering section so it reads in order.
+- added troubleshooting notes for csv export.
+- added a worked signal handling example.
+- added troubleshooting notes for incremental build.
+- cleaned up the usage text description.
+- added a worked shell wrapper example.
